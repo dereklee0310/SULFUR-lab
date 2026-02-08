@@ -6,8 +6,8 @@ const config = {
     preprocess: vitePreprocess(),
     kit: {
         adapter: adapter({
-            pages: 'public',
-            assets: 'public',
+            pages: 'dist',
+            assets: 'dist',
             fallback: '404.html'
         }),
         paths: {
