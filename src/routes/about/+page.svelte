@@ -26,7 +26,7 @@
 		<h1 class="w-full scroll-m-20 text-xl lg:text-3xl">Contact</h1>
 		<div class="flex flex-row gap-2 text-xl">
 			<a
-				href="https://dereklee0310/SULFUR-lab"
+				href="https://github.com/dereklee0310/SULFUR-lab/issues"
 				target="_blank"
 				rel="noopener"
 				aria-label="GitHub"
