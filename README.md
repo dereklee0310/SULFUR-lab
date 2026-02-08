@@ -1,38 +1,35 @@
-# sv
+<div align="center">
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+![logo](static//logo.png)
+<h1 align="center">SULFUR Lab</h1>
 
-## Creating a project
+**A WebUI for building SULFUR weapons.**
 
-If you're seeing this, you've probably already done this step. Congrats!
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+</div>
 
-```sh
-# create a new project in the current directory
-npx sv create
+### Prerequisites
+* **Node.js** (v20 or higher)
+* **npm**
 
-# create a new project in my-app
-npx sv create my-app
+### Installation
+```bash
+git clone [https://github.com/dereklee0310/SULFUR-lab.git](https://github.com/dereklee0310/SULFUR-lab.git)
+cd SULFUR-lab
+npm install
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
+### Development
+```
 npm run dev -- --open
 ```
 
-## Building
 
-To create a production version of your app:
+## License
 
-```sh
-npm run build
-```
+The source code in this repository is licensed under the MIT License.  
+See the LICENSE file for details.
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+The data is derived from *SULFUR* and is © Perfect Random.  
+This project is not affiliated with or endorsed by the publisher.

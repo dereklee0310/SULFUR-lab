@@ -2,7 +2,7 @@
 	import { resolve } from '$app/paths';
 	import './layout.css';
 	import { ModeWatcher } from 'mode-watcher';
-	import logo from '$lib/assets/logo.svg';
+	import logo from '$lib/assets/favicon.png';
 
 	let { children } = $props();
 	import * as NavigationMenu from '$lib/components/ui/navigation-menu/index.js';
