@@ -1,12 +1,11 @@
 <div align="center">
 
 ![logo](static//logo.png)
-<h1 align="center">SULFUR Lab</h1>
-
-**A WebUI for building SULFUR weapons.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+**A WebUI for building SULFUR weapons.**
 </div>
 
 ### Prerequisites
