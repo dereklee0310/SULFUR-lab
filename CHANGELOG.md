@@ -15,12 +15,3 @@ First public release of SULFUR-lab.
 ### Changed
  
 ### Fixed 
- 
-
-<!-- ## [1.2.3] - 2017-03-14
- 
-### Added
-   
-### Changed
- 
-### Fixed -->
