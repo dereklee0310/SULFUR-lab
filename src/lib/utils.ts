@@ -13,7 +13,7 @@ export type WithoutChildrenOrChild<T> = WithoutChildren<WithoutChild<T>>;
 export type WithElementRef<T, U extends HTMLElement = HTMLElement> = T & { ref?: U | null };
 
 export const options = {
-	keys: ["displayName"],
+	keys: ["keys"],
 	// isCaseSensitive: false,
 	// includeScore: false,
 	// ignoreDiacritics: false,

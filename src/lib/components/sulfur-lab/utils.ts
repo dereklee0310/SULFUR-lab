@@ -28,147 +28,131 @@ export type ItemData = {
 export class Build {
 	weapon?: ItemData;
 	chamberChisel?: ItemData;
-	enchantments?: ItemData[];
-	attachments?: ItemData[];
+	enchantments: ItemData[];
+	attachments: ItemData[];
 	[key: string]: any;
 
-	constructor(weapon?: ItemData, chamberChisel?: ItemData, enchantments?: ItemData[], attachments?: ItemData[]) {
+	constructor(weapon: ItemData | undefined, chamberChisel: ItemData | undefined, enchantments: ItemData[], attachments: ItemData[]) {
 		this.weapon = weapon
 		this.chamberChisel = chamberChisel
 		this.enchantments = enchantments
 		this.attachments = attachments
 	}
 
-	getWeaponName(): string {
+	getWeaponName(): string | undefined {
 		if (this.weapon)
-			return this.weapon.displayName;
-		return "???";
+			return this.weapon.m_Name;
+		return;
 	}
 
-	getWeaponType(): string {
+	getWeaponType(): string | undefined {
 		if (this.weapon)
-			return this.weapon.weaponType;
-		return "???";
+			return this.weapon.Type;
+		return;
 	}
 
-	getAmmoType(): string {
+	getAmmoType(): string | undefined {
 		if (this.chamberChisel)
 			return this.chamberChisel.modifiesCaliber;
 		else if (this.weapon)
-			return this.weapon.caliber;
-		else
-			return "???";
+			return this.weapon.AmmoType;
+		return;
 	}
 
-	getDamage(): string {
-		var damage = "???";
-		if (this.weapon) {
-			const ammoType = this.getAmmoType();
-			const states = CALIBER_STAT_MAPPING[ammoType];
-			var baseDamage = states[0] * this.weapon.weaponTypeMultiplier * this.weapon.damageMultiplier;
-			var ammoPerShot = this.weapon.displayName == "Augusta" ? 3 : states[1];
-			var extraAmmoPerShot = this.weapon.ammoPerShot;
-			var damageMultiplier = 1.0;
-			var ammoMultiplier = 1.0;
-			if (this.enchantments) {
-				for (const enchantment of this.enchantments) {
-					if (enchantment.Damage) {
-						if (Math.abs(enchantment.Damage) <= 1) {
-							damageMultiplier += enchantment.Damage;
-						} else {
-							baseDamage += enchantment.Damage
-						}
-					}
-					if (enchantment.ProjectileAmount) {
-						ammoMultiplier += enchantment.ProjectileAmount;
-					}
+	getDamage(): string | undefined {
+		if (!this.weapon)
+			return;
+
+		const states = CALIBER_STAT_MAPPING[this.getAmmoType()!];
+		var baseDamage = states[0] * this.weapon.weaponTypeMultiplier * this.weapon.damageMultiplier;
+		var ammoPerShot = this.weapon.m_Name == "Weapon_Augusta" ? 3 : states[1];
+		var extraAmmoPerShot = this.weapon.ammoPerShot;
+		var damageMultiplier = 1.0;
+		var ammoMultiplier = 1.0;
+
+		for (const enchantment of this.enchantments) {
+			if (enchantment.Damage) {
+				if (Math.abs(enchantment.Damage) <= 1) {
+					damageMultiplier += enchantment.Damage;
+				} else {
+					baseDamage += enchantment.Damage
 				}
 			}
-			if (this.attachments) {
-				for (const attachment of this.attachments) {
-					if (attachment.Damage) {
-						if (Math.abs(attachment.Damage) <= 1) {
-							damageMultiplier += attachment.Damage;
-						} else {
-							baseDamage += attachment.Damage
-						}
-					}
-					// No need to check ProjectileAmount here
-				}
-				damage = Math.round(baseDamage * damageMultiplier).toString();
+			if (enchantment.ProjectileAmount) {
+				ammoMultiplier += enchantment.ProjectileAmount;
 			}
-
-			if (ammoPerShot * ammoMultiplier > 1) {
-				damage += `x${ammoPerShot * ammoMultiplier}`;
-			}
-			if (extraAmmoPerShot > 1) {
-				damage += `x${extraAmmoPerShot}`;
-			}
-
 		}
+
+		for (const attachment of this.attachments) {
+			if (attachment.Damage) {
+				if (Math.abs(attachment.Damage) <= 1) {
+					damageMultiplier += attachment.Damage;
+				} else {
+					baseDamage += attachment.Damage
+				}
+			}
+			// No need to check ProjectileAmount here
+		}
+
+		var damage = Math.round(baseDamage * damageMultiplier).toString();
+		if (ammoPerShot * ammoMultiplier > 1)
+			damage += `x${ammoPerShot * ammoMultiplier}`;
+		if (extraAmmoPerShot > 1)
+			damage += `x${extraAmmoPerShot}`;
 		return damage;
 	}
 
-	getRPM(): string {
-		var rpm = "???";
-		if (this.weapon) {
-			const baserpm = this.weapon.rpm;
-			var multiplier = 1.0;
-			if (this.enchantments) {
-				for (const enchantment of this.enchantments) {
-					if (enchantment.RPM)
-						multiplier += enchantment.RPM;
-				}
-			}
-			rpm = (baserpm * multiplier).toString();
+	getRPM(): string | undefined {
+		if (!this.weapon)
+			return;
+
+		const baserpm = this.weapon.RPM;
+		var multiplier = 1.0;
+
+		for (const enchantment of this.enchantments) {
+			if (enchantment.RPM)
+				multiplier += enchantment.RPM;
 		}
 
-		return rpm;
+		return Math.round((baserpm * multiplier)).toString();
 	}
 
-	getMagSize(): string {
-		if (this.weapon)
-			return this.weapon.iAmmoMax;
-		return "???";
+	getMagSize(): string | undefined {
+		return this.weapon ? this.weapon.MagSize : undefined;
 	}
 
-	getSpread(): string {
-		var spread = "???";
+	getSpread(): string | undefined {
+		if (!this.weapon)
+			return;
 
-		if (this.weapon) {
-			let baseSpread = this.weapon.spreadPerCaliber[this.getAmmoType()];
-			if (this.enchantments) {
-				for (const enchantment of this.enchantments) {
-					if (enchantment.Spread)
-						baseSpread += enchantment.Spread;
-				}
-			}
-			if (this.attachments) {
-				for (const enchantment of this.attachments) {
-					if (enchantment.Spread)
-						baseSpread += enchantment.Spread;
-				}
-			}
-			spread = baseSpread.toString();
+		const baseSpread = this.weapon.Spread;
+		var multiplier = 1.0;
+
+		for (const enchantment of this.enchantments) {
+			if (enchantment.Spread)
+				multiplier += enchantment.Spread;
+		}
+		for (const attachment of this.attachments) {
+			if (attachment.Spread)
+				multiplier += attachment.Spread;
 		}
 
-		return spread
+		return (baseSpread * multiplier).toString();
 	}
 
-	getDurability(): string {
-		var durability = "???";
-		if (this.weapon) {
-			const baseDurability = this.weapon.maxDurability;
-			var multiplier = 1.0;
-			if (this.enchantments) {
-				for (const enchantment of this.enchantments) {
-					if (enchantment.MaxDurability)
-						multiplier += enchantment.MaxDurability;
-				}
-			}
-			durability = (baseDurability * multiplier).toString();
+	getDurability(): string | undefined {
+		if (!this.weapon)
+			return;
+
+		const baseDurability = this.weapon.Durability;
+		var multiplier = 1.0;
+
+		for (const enchantment of this.enchantments) {
+			if (enchantment.MaxDurability)
+				multiplier += enchantment.MaxDurability;
 		}
 
+		var durability = Math.round(baseDurability * multiplier).toString();
 		return `(${durability}/${durability})`
 	}
 };
@@ -187,19 +171,19 @@ export const AMMO_IMGS: Record<string, string> = {
 	// # 0 for Melee
 	'9mm': ammo9mm, // 1
 	'12Ga': ammo12Ga, // 2
-	'5.56mm': ammo556, // 3
-	'7.62mm': ammo762, // 4
-	'50 BMG': ammo50BMG, // 5
-	'Energy Cell': ammoEnergyCell // 7
+	'556': ammo556, // 3
+	'762': ammo762, // 4
+	'50BMG': ammo50BMG, // 5
+	'EnergyCell': ammoEnergyCell // 7
 };
 
 export const CALIBER_STAT_MAPPING: Record<string, number[]> = {
 	'9mm': [60, 1],
 	'12Ga': [20, 8],
-	'5.56mm': [80, 1],
-	'7.62mm': [100, 1],
-	'50 BMG': [200, 1],
-	'Energy Cell': [50, 1],
+	'556': [80, 1],
+	'762': [100, 1],
+	'50BMG': [200, 1],
+	'EnergyCell': [50, 1],
 };
 
 export const WEAPON_TYPE_MULTIPLIERS: Record<string, number> = {
