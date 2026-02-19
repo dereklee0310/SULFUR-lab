@@ -1,8 +1,9 @@
 {
-	"name": "my-app",
+	"name": "sulfur-lab",
 	"private": true,
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"type": "module",
+	"workspaces": ["packages/*"],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
