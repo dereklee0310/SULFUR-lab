@@ -1,4 +1,7 @@
 <script lang="ts">
+	import '$lib/i18n';
+	import { locale, _ } from 'svelte-i18n';
+
 	import {
 		Search,
 		UtensilsIcon,
@@ -34,10 +37,8 @@
 	} from 'svelte/reactivity';
 
 	import * as Empty from '$lib/components/ui/empty/index.js';
-	import * as Card from '$lib/components/ui/card/index.js';
 	import * as Item from '$lib/components/ui/item/index.js';
 	import * as Popover from '$lib/components/ui/popover/index.js';
-	import * as Dialog from '$lib/components/ui/dialog/index.js';
 	import * as DropdownMenu from '$lib/components/ui/dropdown-menu/index.js';
 	import * as Tooltip from '$lib/components/ui/tooltip/index.js';
 	import * as InputGroup from '$lib/components/ui/input-group/index.js';
@@ -46,10 +47,7 @@
 	import { Input } from '$lib/components/ui/input/index.js';
 	import { Skeleton } from '$lib/components/ui/skeleton/index.js';
 	import { ScrollArea } from '$lib/components/ui/scroll-area/index.js';
-	import { Separator } from '$lib/components/ui/separator/index.js';
 	import { toast } from 'svelte-sonner';
-
-	import fieldMapping from '$lib/assets/fieldMapping.json';
 
 	import { WeaponCard } from '$lib/components/sulfur-lab/weapon-card/index';
 	import {
@@ -69,13 +67,13 @@
 	const INSURANCE_ID = '-3043867419849264995';
 
 	const ITEM_TYPE_MAPPING: Record<string, string> = {
-		oil: 'Enchantment',
-		scroll: 'Elemental enchantment',
-		muzzle: 'Attachment',
-		scope: 'Attachment',
-		laserSight: 'Attachment',
-		chamber: 'Attachment',
-		insurance: 'Attachment'
+		oil: $_('ItemDescriptions/UseType_Enchantment'),
+		scroll: $_('ItemDescriptions/UseType_ElementalEnchantment'),
+		muzzle: $_('ItemDescriptions/UseType_Attachment'),
+		scope: $_('ItemDescriptions/UseType_Attachment'),
+		laserSight: $_('ItemDescriptions/UseType_Attachment'),
+		chamber: $_('ItemDescriptions/UseType_Attachment'),
+		insurance: $_('ItemDescriptions/UseType_Attachment')
 	};
 
 	const SINGLE_SLOT_TYPES = new Set([
@@ -132,8 +130,6 @@
 		);
 	});
 
-	const durability = $derived(buildData.weapon?.maxDurability ?? '???');
-
 	const searchResults = $derived.by(() => {
 		const query = activeSearch.trim();
 		const filters = { showWeapon, showChamberChisel, showEnchantment, showAttachment };
@@ -153,7 +149,7 @@
 		if (query === '' && sortBy !== 'default') {
 			results.sort((a, b) => {
 				const rarityDecrease = b.itemQuality - a.itemQuality;
-				const nameDecrease = a.displayName.localeCompare(b.displayName);
+				const nameDecrease = a.m_Name.localeCompare(b.m_Name);
 				if (sortBy === 'rarityDecrease') return rarityDecrease || nameDecrease;
 				if (sortBy === 'rarityIncrease') return -rarityDecrease || -nameDecrease;
 				if (sortBy === 'nameDecrease') return nameDecrease || rarityDecrease;
@@ -340,21 +336,32 @@
 		showWeapon = showChamberChisel = showEnchantment = showAttachment = target;
 	}
 
-	type FieldKey = keyof typeof fieldMapping;
-	function beautifyKeyValue(itemData: ItemData, key: FieldKey) {
-		if (key == 'rpm') {
-			return `${itemData[key]} ${fieldMapping[key]}`;
-		} else if (key === 'damage' && Array.isArray(itemData[key])) {
-			return `${fieldMapping[key]}: ${itemData[key][0]}x${itemData[key][1]}`;
+	function beautifyKeyValue(itemData: ItemData, key: string) {
+		const label = $_(`ItemDescriptions/Label_${key}`, {
+			default: $_(`ItemAttributes/${key}_itemDescription`, { default: key })
+		});
+
+		if (key == 'Type') {
+			return `${label}: ${$_(`ItemDescriptions/WeaponType_${itemData.Type}`)}`;
+		} else if (key == 'AmmoType') {
+			return `${label}: ${$_(`WorldResource/Resource_Ammo_${itemData.AmmoType}_short`)}`;
+		} else if (key == 'RPM') {
+			return `${itemData[key]} ${label}`;
+		} else if (key == 'Durability') {
+			const condition = $_('ItemDescriptions/ItemDurability_PerfectCondition');
+			return `${condition} (${itemData[key]}/${itemData[key]})`;
 		} else {
 			const val = itemData[key];
-			const prefix = val > 0 && !['iAmmoMax', 'Spread', 'maxDurability'].includes(key) ? '+' : '';
-			return `${fieldMapping[key]}: ${prefix}${val}`;
+			const prefix = itemData.type != 'weapon' && val > 0 ? '+' : '';
+			return `${label}: ${prefix}${val}`;
 		}
 	}
 </script>
 
 {#snippet item(itemData: ItemData)}
+	{@const itemName = $_(`Items/${itemData.m_Name}`)}
+	{@const itemFlavor = $_(`Items/${itemData.m_Name}_flavor`)}
+
 	<Tooltip.Root>
 		<Tooltip.Trigger
 			class={buttonVariants({
@@ -365,12 +372,12 @@
 			><Item.Root class="h-full w-full border-0">
 				<Item.Header class="justify-center">
 					{#await import(`$lib/assets/assets/${itemData.artwork}.png`) then { default: src }}
-						<img {src} alt={itemData.displayName} class="h-10 w-auto rounded-sm object-contain" />
+						<img {src} alt={itemData.m_Name} class="h-10 w-auto rounded-sm object-contain" />
 					{/await}
 				</Item.Header>
 				<Item.Content class="min-w-0 items-center">
 					<Item.Title class="wrap-break-words line-clamp-2 w-full text-pretty"
-						>{itemData.displayName}</Item.Title
+						>{itemName}</Item.Title
 					>
 				</Item.Content>
 			</Item.Root></Tooltip.Trigger
@@ -379,7 +386,7 @@
 			class="w-58 overflow-hidden rounded-lg border-2 px-0! py-0! font-medium text-wrap"
 		>
 			<div class="flex bg-foreground px-2">
-				<span class="text-base font-black text-(--card-title)">{itemData.displayName}</span>
+				<span class="text-base font-black text-(--card-title)">{itemName}</span>
 			</div>
 			<div class="bg-background p-2 leading-6 text-(--card-text)">
 				{#if itemData.type in ITEM_TYPE_MAPPING}
@@ -389,8 +396,8 @@
 					{#each itemData.displayFields as key (key)}
 						<li>{beautifyKeyValue(itemData, key)}</li>
 					{/each}
-					{#if itemData.flavor}
-						<p class="leading-tight text-[#6a858e]">{itemData.flavor}</p>
+					{#if itemData.type == 'weapon' || itemData.type == 'chamberChisel' || itemData.type == 'insurance'}
+						<p class="leading-tight text-[#6a858e]">{itemFlavor}</p>
 					{/if}
 				</ul>
 			</div>
@@ -442,13 +449,12 @@
 				<div class="flex items-center gap-2">
 					<InputGroup.Root class={BORDER_STYLE}>
 						<InputGroup.Input
-							placeholder="Type a code to import"
+							placeholder={$_('pages.build.codePlaceholder')}
 							bind:value={buildCode}
 							oninput={handleCodeInput}
 							onfocus={() => (isInputFocused = true)}
 							onblur={() => (isInputFocused = false)}
 						/>
-						<!-- value={build.weapon ? shortCode : ''} -->
 						<InputGroup.Addon align="inline-end">
 							<Popover.Root open={copied}>
 								<Popover.Trigger>
@@ -464,7 +470,7 @@
 								</Popover.Trigger>
 
 								<Popover.Content class="w-auto px-3 py-1.5 text-xs font-medium">
-									Copied!
+									{$_('pages.build.copy')}
 								</Popover.Content>
 							</Popover.Root>
 						</InputGroup.Addon>
@@ -488,24 +494,34 @@
 								<Empty.Media>
 									<CircleQuestionMark />
 								</Empty.Media>
-								<Empty.Title>No item selected</Empty.Title>
-								<Empty.Description>Click one to add it!</Empty.Description>
+								<Empty.Title>{$_('pages.build.noItemSelected')}</Empty.Title>
+								<Empty.Description>{$_('pages.build.clickToSelect')}</Empty.Description>
 							</Empty.Header>
 						</Empty.Root>
 					{/if}
 				</ScrollArea>
 				<div class="flex items-center gap-2">
-					{@render ActionButton('Undo', undo, undoIcon)}
-					{@render ActionButton('Redo', redo, redoIcon)}
-					{@render ActionButton('Reset', reset, resetIcon)}
+					{@render ActionButton($_('pages.build.undo'), undo, undoIcon)}
+					{@render ActionButton($_('pages.build.redo'), redo, redoIcon)}
+					{@render ActionButton($_('pages.build.reset'), reset, resetIcon)}
 					{#if buildData.attachments?.find((i) => i.type === 'insurance')}
-						{@render ActionButton('Remove insurance', toggleInsurance, removeInsuranceIcon)}
+						{@render ActionButton(
+							`${$_('pages.build.remove')} ${$_('Items/Attachment_Insurance')}`,
+							toggleInsurance,
+							removeInsuranceIcon
+						)}
 					{:else}
-						{@render ActionButton('Add insurance', toggleInsurance, addInsuranceIcon)}
+						{@render ActionButton(
+							`${$_('pages.build.add')} ${$_('Items/Attachment_Insurance')}`,
+							toggleInsurance,
+							addInsuranceIcon
+						)}
 					{/if}
 					<div class="flex gap-2 text-pretty">
-						<CircleAlert />
-						<p>Satiety = Tetris</p>
+						{#if $locale == 'en'}
+							<CircleAlert />
+							<p class="text-nowrap">Satiety = Tetris</p>
+						{/if}
 					</div>
 					<!-- {@render ActionButton('Random', reset, randomIcon)} -->
 					<!-- {@render ActionButton('View detail', reset, detailIcon)} -->
@@ -518,7 +534,7 @@
 				<div class="flex items-center gap-2">
 					<InputGroup.Root class={BORDER_STYLE}>
 						<InputGroup.Input
-							placeholder="Search..."
+							placeholder={$_('pages.build.search')}
 							bind:value={searchQuery}
 							oninput={handleSearchInput}
 							onkeydown={(e) => e.key === 'Enter' && selectFirstResult()}
@@ -540,18 +556,26 @@
 						</DropdownMenu.Trigger>
 						<DropdownMenu.Content class={`w-48 ${BORDER_STYLE}`}>
 							<DropdownMenu.Group>
-								<DropdownMenu.Label>Sort By</DropdownMenu.Label>
+								<DropdownMenu.Label>{$_('pages.build.sortedBy')}</DropdownMenu.Label>
 								<DropdownMenu.Separator class="border" />
 								<DropdownMenu.RadioGroup bind:value={sortBy}>
-									<DropdownMenu.RadioItem value="default">Default (Type)</DropdownMenu.RadioItem>
-									<DropdownMenu.Label>Rarity</DropdownMenu.Label>
-									<DropdownMenu.RadioItem value="rarityDecrease">High to low</DropdownMenu.RadioItem
+									<DropdownMenu.RadioItem value="default"
+										>{$_('pages.build.default')}</DropdownMenu.RadioItem
 									>
-									<DropdownMenu.RadioItem value="rarityIncrease">Low to high</DropdownMenu.RadioItem
+									<DropdownMenu.Label>{$_('pages.build.rarity')}</DropdownMenu.Label>
+									<DropdownMenu.RadioItem value="rarityDecrease"
+										>{$_('pages.build.highToLow')}</DropdownMenu.RadioItem
 									>
-									<DropdownMenu.Label>Name</DropdownMenu.Label>
-									<DropdownMenu.RadioItem value="nameDecrease">A to Z</DropdownMenu.RadioItem>
-									<DropdownMenu.RadioItem value="nameIncrease">Z to A</DropdownMenu.RadioItem>
+									<DropdownMenu.RadioItem value="rarityIncrease"
+										>{$_('pages.build.lowToHigh')}</DropdownMenu.RadioItem
+									>
+									<DropdownMenu.Label>{$_('pages.build.name')}</DropdownMenu.Label>
+									<DropdownMenu.RadioItem value="nameDecrease"
+										>{$_('pages.build.AToZ')}</DropdownMenu.RadioItem
+									>
+									<DropdownMenu.RadioItem value="nameIncrease"
+										>{$_('pages.build.ZToA')}</DropdownMenu.RadioItem
+									>
 								</DropdownMenu.RadioGroup>
 							</DropdownMenu.Group>
 						</DropdownMenu.Content>
@@ -568,27 +592,27 @@
 						</DropdownMenu.Trigger>
 						<DropdownMenu.Content class={`w-48 ${BORDER_STYLE}`}>
 							<DropdownMenu.Group>
-								<DropdownMenu.Label>Item Type</DropdownMenu.Label>
+								<DropdownMenu.Label>{$_('pages.build.itemType')}</DropdownMenu.Label>
 								<DropdownMenu.Separator class="border" />
 
 								<DropdownMenu.CheckboxItem checked={allSelected} onCheckedChange={toggleAll}>
-									Select All
+									{$_('pages.build.selectAll')}
 								</DropdownMenu.CheckboxItem>
 
 								<DropdownMenu.CheckboxItem bind:checked={showWeapon}>
-									Weapon
+									{$_('pages.build.weapon')}
 								</DropdownMenu.CheckboxItem>
 
 								<DropdownMenu.CheckboxItem bind:checked={showChamberChisel}>
-									Chamber Chisel
+									{$_('pages.build.chamberChisel')}
 								</DropdownMenu.CheckboxItem>
 
 								<DropdownMenu.CheckboxItem bind:checked={showEnchantment}>
-									Enchantment
+									{$_('pages.build.enchantment')}
 								</DropdownMenu.CheckboxItem>
 
 								<DropdownMenu.CheckboxItem bind:checked={showAttachment}>
-									Attachment
+									{$_('pages.build.attachment')}
 								</DropdownMenu.CheckboxItem>
 							</DropdownMenu.Group>
 						</DropdownMenu.Content>
@@ -609,8 +633,8 @@
 								<Empty.Media>
 									<SearchX />
 								</Empty.Media>
-								<Empty.Title>No item found</Empty.Title>
-								<Empty.Description>I know, it's hard to remember them all.</Empty.Description>
+								<Empty.Title>{$_('pages.build.noItemFound')}</Empty.Title>
+								<Empty.Description>{$_('pages.build.noItemFoundDesc')}</Empty.Description>
 							</Empty.Header>
 						</Empty.Root>
 					{/if}
