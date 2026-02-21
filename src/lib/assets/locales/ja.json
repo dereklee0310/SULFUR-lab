@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "武器を作る",
+            "recipes": "レシピ"
+        },
+        "pagination": {
+            "previous": "前へ",
+            "next": "次へ"
+        },
         "build": {
             "codePlaceholder": "インポートするコードを入力",
             "copy": "コピーしました！",

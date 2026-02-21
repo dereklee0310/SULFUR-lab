@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "Silah Yap",
+            "recipes": "Tarifler"
+        },
+        "pagination": {
+            "previous": "Önceki",
+            "next": "Sonraki"
+        },
         "build": {
             "codePlaceholder": "İçe aktarmak için bir kod yazın",
             "copy": "Kopyalandı!",

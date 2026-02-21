@@ -73,20 +73,20 @@
 					{/snippet}
 				</NavigationMenu.Link>
 			</NavigationMenu.Item>
-			<!-- <NavigationMenu.Item>
+			<NavigationMenu.Item>
 					<NavigationMenu.Link>
 						{#snippet child()}
-							<a href="/" class={navItemStyle}>Build Weapon</a>
+							<a href="/" class={navItemStyle}>{$_("pages.navbar.buildWeapon")}</a>
 						{/snippet}
 					</NavigationMenu.Link>
-				</NavigationMenu.Item> -->
-			<!-- <NavigationMenu.Item>
+				</NavigationMenu.Item>
+			<NavigationMenu.Item>
 					<NavigationMenu.Link>
 						{#snippet child()}
-							<a href="/popular" class={navItemStyle}>Popular</a>
+							<a href="/recipes" class={navItemStyle}>{$_("pages.navbar.recipes")}</a>
 						{/snippet}
 					</NavigationMenu.Link>
-				</NavigationMenu.Item> -->
+				</NavigationMenu.Item>
 		</NavigationMenu.List>
 	</NavigationMenu.Root>
 {/snippet}

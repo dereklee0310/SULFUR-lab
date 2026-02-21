@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '$lib/i18n';
 	import { locale, _ } from 'svelte-i18n';
 
 	import {
@@ -52,7 +51,7 @@
 	import { WeaponCard } from '$lib/components/sulfur-lab/weapon-card/index';
 	import {
 		Build,
-		ItemDataList,
+		itemDataList,
 		encodeBuild,
 		decodeBuild,
 		getItemData,
@@ -62,7 +61,6 @@
 	import { BORDER_STYLE } from '$lib/utils';
 
 	import Fuse from 'fuse.js';
-	import { options } from '$lib/utils';
 
 	const INSURANCE_ID = '-3043867419849264995';
 
@@ -86,7 +84,28 @@
 		'chamberChisel'
 	]);
 
-	const fuse = new Fuse(ItemDataList, options);
+	const localizedItemDataList = $derived(
+		itemDataList.map((itemData) => ({ ...itemData, searchName: $_(`Items/${itemData.m_Name}`) }))
+	);
+	const fuse = $derived(
+		new Fuse(localizedItemDataList, {
+			keys: ['searchName'],
+			// isCaseSensitive: false,
+			// includeScore: false,
+			// ignoreDiacritics: false,
+			// shouldSort: true,
+			// includeMatches: false,
+			// findAllMatches: false,
+			minMatchCharLength: 1,
+			// location: 0,
+			threshold: 0.4
+			// distance: 100,
+			// useExtendedSearch: false,
+			// ignoreLocation: false,
+			// ignoreFieldNorm: false,
+			// fieldNormWeight: 1,
+		})
+	);
 
 	let selectedItems = $state(new SvelteMap<string, ItemData>());
 	let invalidEnchantment = $state(false);
@@ -134,7 +153,7 @@
 		const query = activeSearch.trim();
 		const filters = { showWeapon, showChamberChisel, showEnchantment, showAttachment };
 
-		let results = query === '' ? ItemDataList : fuse.search(query).map((r) => r.item);
+		let results = query === '' ? localizedItemDataList : fuse.search(query).map((r) => r.item);
 
 		results = results.filter((item) => {
 			if (item.type === 'weapon') return filters.showWeapon;

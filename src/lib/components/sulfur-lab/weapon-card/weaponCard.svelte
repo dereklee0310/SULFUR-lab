@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '$lib/i18n';
 	import { _ } from 'svelte-i18n';
 	import { AMMO_IMGS } from '$lib/components/sulfur-lab/utils';
 	import { type ItemData, Build } from '$lib/components/sulfur-lab/utils';

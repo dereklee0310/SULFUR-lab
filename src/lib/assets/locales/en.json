@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "Build Weapon",
+            "recipes": "Recipes"
+        },
+        "pagination": {
+            "previous": "Previous",
+            "next": "Next"
+        },
         "build": {
             "codePlaceholder": "Type a code to import",
             "copy": "Copied!",
@@ -27,9 +35,7 @@
             "attachment": "Attachment",
             "noItemFound": "No item found",
             "noItemFoundDesc": "I know, it's hard to remember them all."
-
         },
-
         "error": {
             "title": "Something went wrong",
             "text": "Oops... Nothing to see here."

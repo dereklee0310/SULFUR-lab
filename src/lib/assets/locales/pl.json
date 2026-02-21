@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "Zbuduj broń",
+            "recipes": "Przepisy"
+        },
+        "pagination": {
+            "previous": "Poprzedni",
+            "next": "Następny"
+        },
         "build": {
             "codePlaceholder": "Wpisz kod, aby zaimportować",
             "copy": "Skopiowano!",

@@ -1,5 +1,4 @@
 <script lang="ts">
-    import '$lib/i18n';
 	import { _ } from 'svelte-i18n';
     import * as Empty from '$lib/components/ui/empty/index.js';
     import { page } from '$app/state';

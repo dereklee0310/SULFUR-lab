@@ -17,9 +17,9 @@ import ammo762 from '$lib/assets/assets/2466323148575110732.png';
 import ammo50BMG from '$lib/assets/assets/1146211162379945653.png';
 import ammoEnergyCell from '$lib/assets/assets/2966619056940804649.png';
 
-import ItemDataList from '$lib/assets/data.json';
+import itemDataList from '$lib/assets/data.json';
 
-export { ItemDataList };
+export { itemDataList };
 
 export type ItemData = {
 	[key: string]: any;
@@ -205,7 +205,7 @@ type SimpleBuild = {
 };
 
 
-const id2Data = new SvelteMap<string, ItemData>(ItemDataList.map((item) => [item.id, item]));
+const id2Data = new SvelteMap<string, ItemData>(itemDataList.map((item) => [item.id, item]));
 
 export function getItemData(id: string): ItemData {
 	return id2Data.get(id)!;

@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "무기 제작",
+            "recipes": "레시피"
+        },
+        "pagination": {
+            "previous": "이전",
+            "next": "다음"
+        },
         "build": {
             "codePlaceholder": "가져올 코드를 입력하세요",
             "copy": "복사되었습니다!",

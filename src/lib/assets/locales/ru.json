@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "Создать оружие",
+            "recipes": "Рецепты"
+        },
+        "pagination": {
+            "previous": "Предыдущая",
+            "next": "Следующая"
+        },
         "build": {
             "codePlaceholder": "Введите код для импорта",
             "copy": "Скопировано!",

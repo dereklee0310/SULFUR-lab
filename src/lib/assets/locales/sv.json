@@ -1,5 +1,13 @@
 {
     "pages": {
+        "navbar": {
+            "buildWeapon": "Bygg vapen",
+            "recipes": "Recept"
+        },
+        "pagination": {
+            "previous": "Föregående",
+            "next": "Nästa"
+        },
         "build": {
             "codePlaceholder": "Ange en kod för att importera",
             "copy": "Kopierat!",
