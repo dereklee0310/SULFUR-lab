@@ -76,14 +76,14 @@
 			<NavigationMenu.Item>
 					<NavigationMenu.Link>
 						{#snippet child()}
-							<a href="/" class={navItemStyle}>{$_("pages.navbar.buildWeapon")}</a>
+							<a href={resolve('/')} class={navItemStyle}>{$_("pages.navbar.buildWeapon")}</a>
 						{/snippet}
 					</NavigationMenu.Link>
 				</NavigationMenu.Item>
 			<NavigationMenu.Item>
 					<NavigationMenu.Link>
 						{#snippet child()}
-							<a href="/recipes" class={navItemStyle}>{$_("pages.navbar.recipes")}</a>
+							<a href={resolve('/recipes')} class={navItemStyle}>{$_("pages.navbar.recipes")}</a>
 						{/snippet}
 					</NavigationMenu.Link>
 				</NavigationMenu.Item>

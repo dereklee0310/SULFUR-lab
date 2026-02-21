@@ -1,10 +1,5 @@
 name: Deploy to GitHub Pages
 
-on:
-  push:
-    branches: ['main']
-  workflow_dispatch:
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -13,6 +8,11 @@ permissions:
   contents: read
   pages: write
   id-token: write
+
+on:
+  push:
+    branches: ['main', 'develop']
+  workflow_dispatch:
 
 jobs:
   build_site:
@@ -40,6 +40,7 @@ jobs:
 
   deploy:
     needs: build_site
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
