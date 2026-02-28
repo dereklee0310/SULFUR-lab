@@ -94,13 +94,13 @@
 {#snippet rightNavigationMenu()}
 	<NavigationMenu.Root class="ml-auto justify-start">
 		<NavigationMenu.List class="flex">
-			<NavigationMenu.Item>
+			<!-- <NavigationMenu.Item>
 				<NavigationMenu.Link>
 					{#snippet child()}
 						<a href={resolve('/about')} class={navItemStyle}>{$_('pages.about.title')}</a>
 					{/snippet}
 				</NavigationMenu.Link>
-			</NavigationMenu.Item>
+			</NavigationMenu.Item> -->
 
 			<NavigationMenu.Item>
 				<NavigationMenu.Link>
