@@ -1,7 +1,7 @@
 import { register, init, getLocaleFromNavigator } from 'svelte-i18n';
 import { browser } from '$app/environment';
 
-const defaultLocale = 'en';
+export const defaultLocale = 'en';
 
 register('en', () => import('$lib/assets/locales/en.json'));
 register('sv', () => import('$lib/assets/locales/sv.json'));

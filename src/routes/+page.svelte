@@ -1,5 +1,6 @@
 <script lang="ts">
-	import { locale, _ } from 'svelte-i18n';
+	import { locale, getLocaleFromNavigator, _ } from 'svelte-i18n';
+	import { defaultLocale } from '$lib/i18n';
 
 	import {
 		Search,
@@ -537,7 +538,7 @@
 						)}
 					{/if}
 					<div class="flex gap-2 text-pretty">
-						{#if $locale == 'en'}
+						{#if $locale?.startsWith(defaultLocale)}
 							<CircleAlert />
 							<p class="text-nowrap">Satiety = Tetris</p>
 						{/if}
