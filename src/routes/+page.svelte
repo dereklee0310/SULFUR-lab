@@ -85,6 +85,25 @@
 		'chamberChisel'
 	]);
 
+	const percentTypes: Set<string> = new Set([
+		'ProjectileTimeScale',
+		'ProjectileAmount',
+		'ProjectileScale',
+		'Damage',
+		'RPM',
+		'CritChance',
+		'ConsumeExtraAmmoChance',
+		'ConsumeAmmoChance',
+		'ItemStat_LootChanceMultiplier',
+		'KickMultiplier',
+		'ItemStat_MoveSpeed',
+		'MaxDurability',
+		'ReloadSpeed',
+		'ItemStat_JumpPower',
+		'AimMovingBonus',
+		'CritChanceADS'
+	]);
+
 	const localizedItemDataList = $derived(
 		itemDataList.map((itemData) => ({ ...itemData, searchName: $_(`Items/${itemData.m_Name}`) }))
 	);
@@ -365,15 +384,29 @@
 			return `${label}: ${$_(`ItemDescriptions/WeaponType_${itemData.Type}`)}`;
 		} else if (key == 'AmmoType') {
 			return `${label}: ${$_(`WorldResource/Resource_Ammo_${itemData.AmmoType}_short`)}`;
-		} else if (key == 'RPM') {
+		} else if (itemData.type == 'weapon' && key == 'RPM') {
 			return `${itemData[key]} ${label}`;
 		} else if (key == 'Durability') {
 			const condition = $_('ItemDescriptions/ItemDurability_PerfectCondition');
 			return `${condition} (${itemData[key]}/${itemData[key]})`;
 		} else {
-			const val = itemData[key];
+			var val = itemData[key];
 			const prefix = itemData.type != 'weapon' && val > 0 ? '+' : '';
-			return `${label}: ${prefix}${val}`;
+			var suffix = '';
+			if (itemData.type != 'weapon' && percentTypes.has(key)) {
+				if (key == 'Damage') {
+					if (Math.abs(val) <= 1) {
+						val = Math.round(val * 100);
+						suffix = '%';
+					}
+				} else {
+					// Elephant Oil is 200, not 2, need to handle this
+					if (itemData.m_Name != 'Enchantment_ElephantOil') val = Math.round(val * 100);
+					suffix = '%';
+				}
+			}
+
+			return `${label}: ${prefix}${val}${suffix}`;
 		}
 	}
 </script>

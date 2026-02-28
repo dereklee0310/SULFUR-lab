@@ -125,19 +125,22 @@ export class Build {
 		if (!this.weapon)
 			return;
 
-		const baseSpread = this.weapon.Spread;
-		var multiplier = 1.0;
+		var baseSpread = 0;
+		if (this.chamberChisel)
+			baseSpread = this.weapon.spreadPerCaliber[this.chamberChisel.modifiesCaliber];
+		else
+			baseSpread = this.weapon.spreadPerCaliber[this.weapon.AmmoType];
 
 		for (const enchantment of this.enchantments) {
 			if (enchantment.Spread)
-				multiplier += enchantment.Spread;
+				baseSpread += enchantment.Spread;
 		}
 		for (const attachment of this.attachments) {
 			if (attachment.Spread)
-				multiplier += attachment.Spread;
+				baseSpread += attachment.Spread;
 		}
 
-		return (baseSpread * multiplier).toString();
+		return (baseSpread).toString();
 	}
 
 	getDurability(): string | undefined {
