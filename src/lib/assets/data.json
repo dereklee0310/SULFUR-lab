@@ -17,12 +17,12 @@
         "Type": "Pistol",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "Spread": 2.5,
         "KickCompensation": 0.0,
@@ -54,12 +54,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "Spread": 2.5,
         "KickCompensation": 0.0,
@@ -91,12 +91,12 @@
         "Type": "SMG",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "FullAuto": 1.0,
         "Spread": 2.5,
@@ -129,12 +129,12 @@
         "Type": "SMG",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "FullAuto": 0.0,
         "Spread": 2.5,
@@ -167,12 +167,12 @@
         "Type": "LMG",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {
-            "1": 4.0,
-            "2": 7.0,
-            "3": 4.0,
-            "4": 4.0,
-            "5": 4.0,
-            "7": 20.0
+            "9mm": 4.0,
+            "12Ga": 7.0,
+            "556": 4.0,
+            "762": 4.0,
+            "50BMG": 4.0,
+            "EnergyCell": 20.0
         },
         "FullAuto": 1.0,
         "Spread": 20.0,
@@ -205,12 +205,12 @@
         "Type": "Sniper",
         "AmmoType": "50BMG",
         "spreadPerCaliber": {
-            "1": 1.5,
-            "2": 6.0,
-            "3": 1.5,
-            "4": 1.5,
-            "5": 1.5,
-            "7": 1.5
+            "9mm": 1.5,
+            "12Ga": 6.0,
+            "556": 1.5,
+            "762": 1.5,
+            "50BMG": 1.5,
+            "EnergyCell": 1.5
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -242,12 +242,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 7.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 7.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.0,
@@ -279,12 +279,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 3.0,
-            "2": 8.0,
-            "3": 3.0,
-            "4": 3.0,
-            "5": 3.0,
-            "7": 3.0
+            "9mm": 3.0,
+            "12Ga": 8.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 3.0
         },
         "FullAuto": 0.0,
         "Spread": 3.0,
@@ -317,12 +317,12 @@
         "Type": "AssaultRifle",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 2.5,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 2.5,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "FullAuto": 1.0,
         "Spread": 2.5,
@@ -355,12 +355,12 @@
         "Type": "SMG",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 6.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 6.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 5.0,
         "KickCompensation": 0.0,
@@ -393,12 +393,12 @@
         "Type": "AssaultRifle",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 6.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 6.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "FullAuto": 1.0,
         "Spread": 2.5,
@@ -431,12 +431,12 @@
         "Type": "SMG",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "FullAuto": 1.0,
         "Spread": 2.5,
@@ -469,12 +469,12 @@
         "Type": "SMG",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 5.0,
-            "2": 7.0,
-            "3": 5.0,
-            "4": 5.0,
-            "5": 5.0,
-            "7": 5.0
+            "9mm": 5.0,
+            "12Ga": 7.0,
+            "556": 5.0,
+            "762": 5.0,
+            "50BMG": 5.0,
+            "EnergyCell": 5.0
         },
         "FullAuto": 1.0,
         "Spread": 5.0,
@@ -507,12 +507,12 @@
         "Type": "Pistol",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.5,
-            "2": 5.0,
-            "3": 1.5,
-            "4": 1.5,
-            "5": 1.5,
-            "7": 1.5
+            "9mm": 1.5,
+            "12Ga": 5.0,
+            "556": 1.5,
+            "762": 1.5,
+            "50BMG": 1.5,
+            "EnergyCell": 1.5
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -544,12 +544,12 @@
         "Type": "Sniper",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 5.0,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 5.0,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 1.0,
         "KickCompensation": 0.35,
@@ -581,12 +581,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 10.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 10.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 10.0,
         "KickCompensation": 0.3,
@@ -618,12 +618,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.25,
@@ -655,12 +655,12 @@
         "Type": "Revolver",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "Spread": 2.5,
         "KickCompensation": 0.0,
@@ -692,12 +692,12 @@
         "Type": "Rifle",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.0,
@@ -729,12 +729,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 3.5,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 3.5,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 2.5,
         "KickCompensation": 0.08,
@@ -767,12 +767,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 3.0,
-            "2": 6.0,
-            "3": 3.0,
-            "4": 3.0,
-            "5": 3.0,
-            "7": 3.0
+            "9mm": 3.0,
+            "12Ga": 6.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 3.0
         },
         "FullAuto": 0.0,
         "Spread": 2.5,
@@ -805,12 +805,12 @@
         "Type": "Pistol",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 2.5,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 1.0
+            "9mm": 2.5,
+            "12Ga": 2.5,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 1.0
         },
         "Spread": 0.0,
         "KickCompensation": 0.0,
@@ -842,12 +842,12 @@
         "Type": "Rifle",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 5.0,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 5.0,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "FullAuto": 0.0,
         "Spread": 1.0,
@@ -880,12 +880,12 @@
         "Type": "LMG",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 4.0,
-            "2": 7.0,
-            "3": 4.0,
-            "4": 4.0,
-            "5": 4.0,
-            "7": 4.0
+            "9mm": 4.0,
+            "12Ga": 7.0,
+            "556": 4.0,
+            "762": 4.0,
+            "50BMG": 4.0,
+            "EnergyCell": 4.0
         },
         "FullAuto": 1.0,
         "Spread": 4.0,
@@ -918,12 +918,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 4.0,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 4.0,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 4.0,
         "KickCompensation": 0.0,
@@ -955,12 +955,12 @@
         "Type": "Shotgun",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 5.0,
         "KickCompensation": 0.0,
@@ -992,12 +992,12 @@
         "Type": "Sniper",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 2.5,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 2.5,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -1029,12 +1029,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 5.0,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 5.0,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 5.0,
         "KickCompensation": 0.5,
@@ -1066,12 +1066,12 @@
         "Type": "Pistol",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 6.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 6.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.25,
@@ -1103,12 +1103,12 @@
         "Type": "Rifle",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 6.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 6.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 5.0,
         "KickCompensation": 0.0,
@@ -1141,12 +1141,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 3.0,
-            "2": 6.0,
-            "3": 3.0,
-            "4": 3.0,
-            "5": 3.0,
-            "7": 3.0
+            "9mm": 3.0,
+            "12Ga": 6.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 3.0
         },
         "Spread": 0.0,
         "KickCompensation": 0.0,
@@ -1178,12 +1178,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 2.5,
-            "2": 7.0,
-            "3": 2.5,
-            "4": 2.5,
-            "5": 2.5,
-            "7": 2.5
+            "9mm": 2.5,
+            "12Ga": 7.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
         },
         "Spread": 2.5,
         "KickCompensation": 0.08,
@@ -1216,12 +1216,12 @@
         "Type": "Rifle",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.0,
@@ -1253,12 +1253,12 @@
         "Type": "AssaultRifle",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.5,
-            "2": 7.0,
-            "3": 1.5,
-            "4": 1.5,
-            "5": 1.5,
-            "7": 1.5
+            "9mm": 1.5,
+            "12Ga": 7.0,
+            "556": 1.5,
+            "762": 1.5,
+            "50BMG": 1.5,
+            "EnergyCell": 1.5
         },
         "FullAuto": 1.0,
         "Spread": 1.5,
@@ -1291,12 +1291,12 @@
         "Type": "Pistol",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 6.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 6.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.0,
@@ -1328,12 +1328,12 @@
         "Type": "SMG",
         "AmmoType": "9mm",
         "spreadPerCaliber": {
-            "1": 3.0,
-            "2": 6.0,
-            "3": 3.0,
-            "4": 3.0,
-            "5": 3.0,
-            "7": 3.0
+            "9mm": 3.0,
+            "12Ga": 6.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 3.0
         },
         "FullAuto": 1.0,
         "Spread": 3.0,
@@ -1366,12 +1366,12 @@
         "Type": "Revolver",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.25,
@@ -1403,12 +1403,12 @@
         "Type": "SMG",
         "AmmoType": "50BMG",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -1471,12 +1471,12 @@
         "Type": "AssaultRifle",
         "AmmoType": "556",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 6.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 6.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "FullAuto": 1.0,
         "Spread": 2.0,
@@ -1509,12 +1509,12 @@
         "Type": "Shotgun",
         "AmmoType": "12Ga",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 10.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 10.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 10.0,
         "KickCompensation": 0.0,
@@ -1546,12 +1546,12 @@
         "Type": "Revolver",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 2.0,
-            "2": 5.0,
-            "3": 2.0,
-            "4": 2.0,
-            "5": 2.0,
-            "7": 2.0
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
         },
         "Spread": 2.0,
         "KickCompensation": 0.0,
@@ -1583,12 +1583,12 @@
         "Type": "AssaultRifle",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 1.5,
-            "2": 6.0,
-            "3": 1.5,
-            "4": 1.5,
-            "5": 1.5,
-            "7": 1.5
+            "9mm": 1.5,
+            "12Ga": 6.0,
+            "556": 1.5,
+            "762": 1.5,
+            "50BMG": 1.5,
+            "EnergyCell": 1.5
         },
         "FullAuto": 1.0,
         "Spread": 2.5,
@@ -1651,12 +1651,12 @@
         "Type": "LMG",
         "AmmoType": "762",
         "spreadPerCaliber": {
-            "1": 4.0,
-            "2": 7.0,
-            "3": 4.0,
-            "4": 4.0,
-            "5": 4.0,
-            "7": 4.0
+            "9mm": 4.0,
+            "12Ga": 7.0,
+            "556": 4.0,
+            "762": 4.0,
+            "50BMG": 4.0,
+            "EnergyCell": 4.0
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -1689,12 +1689,12 @@
         "Type": "Sniper",
         "AmmoType": "50BMG",
         "spreadPerCaliber": {
-            "1": 1.0,
-            "2": 3.0,
-            "3": 1.0,
-            "4": 1.0,
-            "5": 1.0,
-            "7": 1.0
+            "9mm": 1.0,
+            "12Ga": 3.0,
+            "556": 1.0,
+            "762": 1.0,
+            "50BMG": 1.0,
+            "EnergyCell": 1.0
         },
         "Spread": 1.5,
         "KickCompensation": 0.2,
@@ -3918,6 +3918,21 @@
         ]
     },
     {
+        "id": "1405536293792237246",
+        "m_Name": "Enchantment_ForceOil",
+        "type": "oil",
+        "artwork": "6638399816115039443",
+        "basePrice": 1000,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 0,
+        "CostsDurability": 1,
+        "ProjectileForce": 2.0,
+        "displayFields": [
+            "ProjectileForce"
+        ]
+    },
+    {
         "id": "1442277092635991169",
         "m_Name": "Enchantment_DumDumOil",
         "type": "oil",
@@ -5707,6 +5722,21 @@
         ]
     },
     {
+        "id": "-8954620186556872657",
+        "m_Name": "Enchantment_Satiety",
+        "type": "scroll",
+        "artwork": "3470255655607053752",
+        "basePrice": 600,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 0,
+        "CostsDurability": 1,
+        "ConsumeAmmoChance": -0.3,
+        "displayFields": [
+            "ConsumeAmmoChance"
+        ]
+    },
+    {
         "id": "-8879422739604736611",
         "m_Name": "Enchantment_Dark",
         "type": "scroll",
@@ -6042,6 +6072,23 @@
         "ProjectileApplyFire": 1.0,
         "displayFields": [
             "ProjectileApplyFire"
+        ]
+    },
+    {
+        "id": "-3992411245373194672",
+        "m_Name": "Enchantment_Trinity",
+        "type": "scroll",
+        "artwork": "-639322058315984163",
+        "basePrice": 800,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 0,
+        "CostsDurability": 1,
+        "ProjectileAmount": 2.0,
+        "Damage": -0.5,
+        "displayFields": [
+            "ProjectileAmount",
+            "Damage"
         ]
     },
     {

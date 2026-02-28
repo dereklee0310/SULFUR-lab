@@ -103,7 +103,7 @@
 				{/if}
 			{/each}
 
-			<ArrowRight class="mx-2 shrink-0" />
+			<ArrowRight class="shrink-0" />
 
 			<div class="flex w-24 flex-col items-center text-center">
 				{#await import(`$lib/assets/assets/${recipeData.artwork}.png`) then { default: src }}
