@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.5.0] - 2026-03-04
+### Changed 
+- Update data to keep up with "Patch Notes 0.15.1: The Scholar's Update"
+
 ## [0.4.0] - 2026-02-28
 
 ### Removed 
