@@ -3282,7 +3282,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 185
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_BobaTea 2",
@@ -3302,7 +3302,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 130
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_BobaTea 3",
@@ -3322,7 +3322,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 210
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_BobaTea 4",
@@ -3342,7 +3342,7 @@
             }
         ],
         "newPrice": 300,
-        "oldPrice": 290
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_BobaTea 5",
@@ -3362,7 +3362,7 @@
             }
         ],
         "newPrice": 300,
-        "oldPrice": 235
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_BobaTea 6",
@@ -3382,7 +3382,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 315
+        "oldPrice": 330
     },
     {
         "recipeName": "Recipe_BobaTea",
@@ -3402,7 +3402,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Bolognese_1",
@@ -4537,7 +4537,7 @@
             }
         ],
         "newPrice": 220,
-        "oldPrice": 65
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_Cereal 2",
@@ -4557,12 +4557,12 @@
             }
         ],
         "newPrice": 330,
-        "oldPrice": 105
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Cereal 3",
         "name": "Item_Cereal",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "-577371325604569490",
         "itemsNeeded": [
             {
@@ -4571,8 +4571,8 @@
                 "artwork": "6772012772053986665"
             }
         ],
-        "newPrice": 110,
-        "oldPrice": 80
+        "newPrice": 220,
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Cereal 4",
@@ -4592,7 +4592,7 @@
             }
         ],
         "newPrice": 330,
-        "oldPrice": 90
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Cevapi_1 1",
@@ -6402,7 +6402,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 205
+        "oldPrice": 215
     },
     {
         "recipeName": "Recipe_ChocolateBall_1 2",
@@ -6462,7 +6462,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 145
+        "oldPrice": 155
     },
     {
         "recipeName": "Recipe_ChocolateBall_2 1",
@@ -6492,7 +6492,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 170
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_ChocolateBall_2 2",
@@ -6547,7 +6547,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 110
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_ChocolateBall_3 1",
@@ -6587,7 +6587,7 @@
             }
         ],
         "newPrice": 595,
-        "oldPrice": 215
+        "oldPrice": 225
     },
     {
         "recipeName": "Recipe_ChocolateBall_3 2",
@@ -6657,7 +6657,7 @@
             }
         ],
         "newPrice": 595,
-        "oldPrice": 155
+        "oldPrice": 165
     },
     {
         "recipeName": "Recipe_ChocolateBall_4 1",
@@ -6692,7 +6692,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 180
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_ChocolateBall_4 2",
@@ -6752,7 +6752,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 120
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_ChocolateBall_5 1",
@@ -6782,7 +6782,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 230
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_ChocolateBall_5 2",
@@ -6832,7 +6832,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 170
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_ChocolateSyrup_1",
@@ -11022,7 +11022,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 100
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Haggis_1B",
@@ -11047,7 +11047,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 300
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_Haggis_1C",
@@ -11072,7 +11072,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 180
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Haggis_2A",
@@ -11092,7 +11092,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 70
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_Haggis_2B",
@@ -11117,7 +11117,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Haggis_2C",
@@ -11142,7 +11142,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 270
+        "oldPrice": 280
     },
     {
         "recipeName": "Recipe_Haggis_3A",
@@ -11162,7 +11162,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Haggis_3B",
@@ -11187,7 +11187,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 160
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Haggis_3C",
@@ -11212,7 +11212,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 280
+        "oldPrice": 290
     },
     {
         "recipeName": "Recipe_Haggis_4A",
@@ -11232,7 +11232,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 70
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_Haggis_4B",
@@ -11257,7 +11257,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Haggis_4C",
@@ -11282,7 +11282,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 270
+        "oldPrice": 280
     },
     {
         "recipeName": "Recipe_Haggis_5A",
@@ -11302,7 +11302,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 100
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Haggis_5B",
@@ -11327,7 +11327,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 180
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Haggis_5C",
@@ -11352,7 +11352,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 300
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_Haggis_6A",
@@ -11372,7 +11372,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 140
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Haggis_6B",
@@ -11397,7 +11397,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 220
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_Haggis_6C",
@@ -11422,7 +11422,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 340
+        "oldPrice": 350
     },
     {
         "recipeName": "Recipe_Haggis_7A",
@@ -11442,7 +11442,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 60
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Haggis_7B",
@@ -11467,7 +11467,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 140
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Haggis_7C",
@@ -11492,7 +11492,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 260
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_HardBread_1 1",
@@ -17192,7 +17192,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 85
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Maki_1 2",
@@ -17212,7 +17212,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Maki_1 3",
@@ -17232,7 +17232,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 110
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_Maki_1",
@@ -17252,7 +17252,7 @@
             }
         ],
         "newPrice": 300,
-        "oldPrice": 55
+        "oldPrice": 60
     },
     {
         "recipeName": "Recipe_Maki_2 1",
@@ -17277,7 +17277,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 125
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Maki_2 2",
@@ -17302,7 +17302,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 120
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Maki_2 3",
@@ -17327,7 +17327,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 135
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Maki_2 4",
@@ -17352,7 +17352,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 165
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Maki_2 5",
@@ -17377,7 +17377,7 @@
             }
         ],
         "newPrice": 1050,
-        "oldPrice": 190
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Maki_2",
@@ -17402,7 +17402,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Maki_3 1",
@@ -17427,7 +17427,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 125
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Maki_3 2",
@@ -17452,7 +17452,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 120
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Maki_3 3",
@@ -17477,7 +17477,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 135
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Maki_3 4",
@@ -17502,7 +17502,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 165
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Maki_3 5",
@@ -17527,7 +17527,7 @@
             }
         ],
         "newPrice": 1050,
-        "oldPrice": 190
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Maki_3",
@@ -17552,7 +17552,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Maki_4 1",
@@ -17577,7 +17577,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 205
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Maki_4 2",
@@ -17602,7 +17602,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 200
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Maki_4 3",
@@ -17627,7 +17627,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 295
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Maki_4 4",
@@ -17652,7 +17652,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 325
+        "oldPrice": 330
     },
     {
         "recipeName": "Recipe_Maki_4 5",
@@ -17677,7 +17677,7 @@
             }
         ],
         "newPrice": 1050,
-        "oldPrice": 350
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_Maki_4",
@@ -17702,7 +17702,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 175
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Marshmellow 4",
@@ -18772,7 +18772,7 @@
     {
         "recipeName": "Recipe_MashedPotatoes_4",
         "name": "Item_MashedPotatoes",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "6242614437529890145",
         "itemsNeeded": [
             {
@@ -18786,7 +18786,7 @@
                 "artwork": "-7247210019374005315"
             }
         ],
-        "newPrice": 100,
+        "newPrice": 200,
         "oldPrice": 100
     },
     {
@@ -19493,7 +19493,7 @@
         "recipeName": "Recipe_Milkshake_1 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19513,7 +19513,7 @@
         "recipeName": "Recipe_Milkshake_1 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19533,7 +19533,7 @@
         "recipeName": "Recipe_Milkshake_1 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19553,7 +19553,7 @@
         "recipeName": "Recipe_Milkshake_1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19573,7 +19573,7 @@
         "recipeName": "Recipe_Milkshake_2 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -19593,7 +19593,7 @@
         "recipeName": "Recipe_Milkshake_2 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -19613,7 +19613,7 @@
         "recipeName": "Recipe_Milkshake_2 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -19633,7 +19633,7 @@
         "recipeName": "Recipe_Milkshake_2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -19653,7 +19653,7 @@
         "recipeName": "Recipe_Milkshake_3 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -19673,7 +19673,7 @@
         "recipeName": "Recipe_Milkshake_3 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -19693,7 +19693,7 @@
         "recipeName": "Recipe_Milkshake_3 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 4,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -19713,7 +19713,7 @@
         "recipeName": "Recipe_Milkshake_3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -19733,7 +19733,7 @@
         "recipeName": "Recipe_Milkshake_4 1",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19753,7 +19753,7 @@
         "recipeName": "Recipe_Milkshake_4 2",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19773,7 +19773,7 @@
         "recipeName": "Recipe_Milkshake_4 3",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19793,7 +19793,7 @@
         "recipeName": "Recipe_Milkshake_4 4",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19813,7 +19813,7 @@
         "recipeName": "Recipe_Milkshake_4 5",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19833,7 +19833,7 @@
         "recipeName": "Recipe_Milkshake_4 6",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19853,7 +19853,7 @@
         "recipeName": "Recipe_Milkshake_4 7",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19873,7 +19873,7 @@
         "recipeName": "Recipe_Milkshake_4 8",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19898,7 +19898,7 @@
         "recipeName": "Recipe_Milkshake_4 9",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19923,7 +19923,7 @@
         "recipeName": "Recipe_Milkshake_4 10",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19948,7 +19948,7 @@
         "recipeName": "Recipe_Milkshake_4 11",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19973,7 +19973,7 @@
         "recipeName": "Recipe_Milkshake_4",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -19993,7 +19993,7 @@
         "recipeName": "Recipe_Milkshake_5 1",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20013,7 +20013,7 @@
         "recipeName": "Recipe_Milkshake_5 2",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20033,7 +20033,7 @@
         "recipeName": "Recipe_Milkshake_5 3",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20053,7 +20053,7 @@
         "recipeName": "Recipe_Milkshake_5 4",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20073,7 +20073,7 @@
         "recipeName": "Recipe_Milkshake_5 5",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20093,7 +20093,7 @@
         "recipeName": "Recipe_Milkshake_5 6",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20113,7 +20113,7 @@
         "recipeName": "Recipe_Milkshake_5 7",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20133,7 +20133,7 @@
         "recipeName": "Recipe_Milkshake_5 8",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20158,7 +20158,7 @@
         "recipeName": "Recipe_Milkshake_5 9",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20183,7 +20183,7 @@
         "recipeName": "Recipe_Milkshake_5 10",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20208,7 +20208,7 @@
         "recipeName": "Recipe_Milkshake_5 11",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20233,7 +20233,7 @@
         "recipeName": "Recipe_Milkshake_5",
         "name": "Item_MilkshakeBerries",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20253,7 +20253,7 @@
         "recipeName": "Recipe_Milkshake_6 1",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20273,7 +20273,7 @@
         "recipeName": "Recipe_Milkshake_6 2",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20293,7 +20293,7 @@
         "recipeName": "Recipe_Milkshake_6 3",
         "name": "Item_MilkshakeBerries",
         "quantity": 4,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20313,7 +20313,7 @@
         "recipeName": "Recipe_Milkshake_6 4",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20333,7 +20333,7 @@
         "recipeName": "Recipe_Milkshake_6 5",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20353,7 +20353,7 @@
         "recipeName": "Recipe_Milkshake_6 6",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20373,7 +20373,7 @@
         "recipeName": "Recipe_Milkshake_6 7",
         "name": "Item_MilkshakeBerries",
         "quantity": 4,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20393,7 +20393,7 @@
         "recipeName": "Recipe_Milkshake_6 8",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20418,7 +20418,7 @@
         "recipeName": "Recipe_Milkshake_6 9",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20443,7 +20443,7 @@
         "recipeName": "Recipe_Milkshake_6 10",
         "name": "Item_MilkshakeBerries",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20468,7 +20468,7 @@
         "recipeName": "Recipe_Milkshake_6 11",
         "name": "Item_MilkshakeBerries",
         "quantity": 4,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20493,7 +20493,7 @@
         "recipeName": "Recipe_Milkshake_6",
         "name": "Item_MilkshakeBerries",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "-6271953825427809702",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20513,7 +20513,7 @@
         "recipeName": "Recipe_Milkshake_7 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -20538,7 +20538,7 @@
         "recipeName": "Recipe_Milkshake_7 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -20563,7 +20563,7 @@
         "recipeName": "Recipe_Milkshake_7 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -20588,7 +20588,7 @@
         "recipeName": "Recipe_Milkshake_7",
         "name": "Item_MilkshakeChocolate",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkBlue",
@@ -20613,7 +20613,7 @@
         "recipeName": "Recipe_Milkshake_8 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20638,7 +20638,7 @@
         "recipeName": "Recipe_Milkshake_8 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20663,7 +20663,7 @@
         "recipeName": "Recipe_Milkshake_8 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20688,7 +20688,7 @@
         "recipeName": "Recipe_Milkshake_8",
         "name": "Item_MilkshakeChocolate",
         "quantity": 1,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkGreen",
@@ -20713,7 +20713,7 @@
         "recipeName": "Recipe_Milkshake_9 1",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20738,7 +20738,7 @@
         "recipeName": "Recipe_Milkshake_9 2",
         "name": "Item_MilkshakeChocolate",
         "quantity": 3,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20763,7 +20763,7 @@
         "recipeName": "Recipe_Milkshake_9 3",
         "name": "Item_MilkshakeChocolate",
         "quantity": 4,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -20788,7 +20788,7 @@
         "recipeName": "Recipe_Milkshake_9",
         "name": "Item_MilkshakeChocolate",
         "quantity": 2,
-        "artwork": "-5460289661460409283",
+        "artwork": "6911684008930724371",
         "itemsNeeded": [
             {
                 "name": "Item_MilkRed",
@@ -27147,7 +27147,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 90
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Nigiri_1 2",
@@ -27167,7 +27167,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Nigiri_1 3",
@@ -27187,7 +27187,7 @@
             }
         ],
         "newPrice": 1260,
-        "oldPrice": 130
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Nigiri_1",
@@ -27207,7 +27207,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 65
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Nigiri_2 1",
@@ -27227,7 +27227,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 90
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Nigiri_2 2",
@@ -27247,7 +27247,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Nigiri_2 3",
@@ -27267,7 +27267,7 @@
             }
         ],
         "newPrice": 1260,
-        "oldPrice": 130
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Nigiri_2",
@@ -27287,7 +27287,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 65
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Nigiri_3 1",
@@ -27307,7 +27307,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 70
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_Nigiri_3 2",
@@ -27327,7 +27327,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 65
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Nigiri_3 3",
@@ -27347,7 +27347,7 @@
             }
         ],
         "newPrice": 1260,
-        "oldPrice": 90
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Nigiri_3",
@@ -27367,7 +27367,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 45
+        "oldPrice": 50
     },
     {
         "recipeName": "Recipe_Nigiri_4",
@@ -27387,7 +27387,7 @@
             }
         ],
         "newPrice": 1260,
-        "oldPrice": 245
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_NutMix_1 1",
@@ -30657,7 +30657,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 265
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_1 2",
@@ -30677,7 +30677,7 @@
             }
         ],
         "newPrice": 1050,
-        "oldPrice": 290
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_1 3",
@@ -30697,7 +30697,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 170
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_1",
@@ -30717,7 +30717,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 145
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_2 1",
@@ -30737,7 +30737,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 505
+        "oldPrice": 510
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_2 2",
@@ -30757,7 +30757,7 @@
             }
         ],
         "newPrice": 1050,
-        "oldPrice": 530
+        "oldPrice": 540
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_2 3",
@@ -30777,7 +30777,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 290
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_OnigiriFisheggs_2",
@@ -30797,7 +30797,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 265
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_1 1",
@@ -30817,7 +30817,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 125
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_1 2",
@@ -30837,7 +30837,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_1 3",
@@ -30857,7 +30857,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 100
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_1",
@@ -30877,7 +30877,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 75
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_2 1",
@@ -30897,7 +30897,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 115
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_2 2",
@@ -30917,7 +30917,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 140
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_2 3",
@@ -30937,7 +30937,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 95
+        "oldPrice": 105
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_2",
@@ -30957,7 +30957,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 70
+        "oldPrice": 75
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_3 1",
@@ -30977,7 +30977,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 125
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_3 2",
@@ -30997,7 +30997,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_3 3",
@@ -31017,7 +31017,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 100
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_3",
@@ -31037,7 +31037,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 75
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_4 1",
@@ -31057,7 +31057,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 145
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_4 2",
@@ -31077,7 +31077,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 170
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_4 3",
@@ -31097,7 +31097,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 110
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_4",
@@ -31117,7 +31117,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 85
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_5 1",
@@ -31137,7 +31137,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_5 2",
@@ -31157,7 +31157,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 130
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_5 3",
@@ -31177,7 +31177,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 90
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_5",
@@ -31197,7 +31197,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 65
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_6 1",
@@ -31217,7 +31217,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 165
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_6 2",
@@ -31237,7 +31237,7 @@
             }
         ],
         "newPrice": 840,
-        "oldPrice": 190
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_6 3",
@@ -31257,7 +31257,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 120
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_OnigiriFlesh_6",
@@ -31277,7 +31277,7 @@
             }
         ],
         "newPrice": 420,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Pancakes 1",
@@ -32892,7 +32892,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Porridge_2",
@@ -32912,7 +32912,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Porridge_3",
@@ -32932,7 +32932,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Porridge_4",
@@ -32952,7 +32952,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Porridge_5",
@@ -32972,7 +32972,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 80
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_PotatoSalad 1",
@@ -33582,7 +33582,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 70
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_PowerBar_2",
@@ -34622,7 +34622,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 90
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_RhubarbPie_3",
@@ -34652,7 +34652,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_RhubarbPie_4",
@@ -34687,7 +34687,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 210
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_RhubarbPie_5",
@@ -34717,7 +34717,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 150
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_RhubarbPie_6",
@@ -34892,7 +34892,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 50
+        "oldPrice": 60
     },
     {
         "recipeName": "Recipe_RiceCakes_2 1",
@@ -34912,7 +34912,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 60
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_RiceCakes_2 2",
@@ -34932,7 +34932,7 @@
             }
         ],
         "newPrice": 100,
-        "oldPrice": 45
+        "oldPrice": 50
     },
     {
         "recipeName": "Recipe_RiceCakes_2 3",
@@ -34952,7 +34952,7 @@
             }
         ],
         "newPrice": 140,
-        "oldPrice": 70
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_RiceCakes_2",
@@ -34972,7 +34972,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 35
+        "oldPrice": 40
     },
     {
         "recipeName": "Recipe_Risalamalta 1",
@@ -35057,7 +35057,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 2",
@@ -35082,7 +35082,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 3",
@@ -35107,7 +35107,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 4",
@@ -35137,7 +35137,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 5",
@@ -35167,7 +35167,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 6",
@@ -35197,7 +35197,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 105
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Risgrynsgrot",
@@ -35222,7 +35222,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 95
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_SaltedFish 1",
@@ -36007,7 +36007,7 @@
     {
         "recipeName": "Recipe_Sawdust_2",
         "name": "Item_Sawdust",
-        "quantity": 3,
+        "quantity": 2,
         "artwork": "-3672752988038789227",
         "itemsNeeded": [
             {
@@ -36016,7 +36016,7 @@
                 "artwork": "-4221016240350774641"
             }
         ],
-        "newPrice": 30,
+        "newPrice": 20,
         "oldPrice": 8
     },
     {
@@ -39987,7 +39987,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 115
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_Unagi 2",
@@ -40012,7 +40012,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 165
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Unagi 3",
@@ -40037,7 +40037,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 155
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Unagi 4",
@@ -40062,7 +40062,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 140
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Unagi 5",
@@ -40087,7 +40087,7 @@
             }
         ],
         "newPrice": 2000,
-        "oldPrice": 190
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Unagi 6",
@@ -40112,7 +40112,7 @@
             }
         ],
         "newPrice": 2000,
-        "oldPrice": 180
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Unagi 7",
@@ -40137,7 +40137,7 @@
             }
         ],
         "newPrice": 2000,
-        "oldPrice": 205
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Unagi 8",
@@ -40162,7 +40162,7 @@
             }
         ],
         "newPrice": 2800,
-        "oldPrice": 230
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_Wine_1 1",
@@ -40702,7 +40702,7 @@
     {
         "recipeName": "Recipe_FragGrenade_1",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40716,13 +40716,13 @@
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 230
     },
     {
         "recipeName": "Recipe_FragGrenade_2",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40732,17 +40732,17 @@
             },
             {
                 "name": "Item_MetalScrap",
-                "quantity": 2,
+                "quantity": 1,
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
-        "oldPrice": 240
+        "newPrice": 400,
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_FragGrenade_3",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40756,13 +40756,13 @@
                 "artwork": "-4050595050320098929"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 400,
         "oldPrice": 150
     },
     {
         "recipeName": "Recipe_FragGrenade_4",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40776,13 +40776,13 @@
                 "artwork": "-4050595050320098929"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 400,
         "oldPrice": 160
     },
     {
         "recipeName": "Recipe_FragGrenade_5",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40801,13 +40801,13 @@
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 190
     },
     {
         "recipeName": "Recipe_FragGrenade_6",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -40826,7 +40826,7 @@
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 200
     },
     {
@@ -41247,7 +41247,7 @@
     {
         "recipeName": "Recipe_PineappleGrenade_1",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -41261,13 +41261,13 @@
                 "artwork": "-2954940456326746516"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 400,
         "oldPrice": 230
     },
     {
         "recipeName": "Recipe_PineappleGrenade_2",
         "name": "Weapon_PineappleGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5248330494893015826",
         "itemsNeeded": [
             {
@@ -41281,13 +41281,13 @@
                 "artwork": "6482550251302839458"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 400,
         "oldPrice": 240
     },
     {
         "recipeName": "Recipe_PoisonGrenade_1",
         "name": "Weapon_PoisonGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5410149350400725045",
         "itemsNeeded": [
             {
@@ -41301,13 +41301,13 @@
                 "artwork": "7623051272380510271"
             }
         ],
-        "newPrice": 100,
-        "oldPrice": 60
+        "newPrice": 200,
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_PoisonGrenade_2",
         "name": "Weapon_PoisonGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5410149350400725045",
         "itemsNeeded": [
             {
@@ -41321,13 +41321,13 @@
                 "artwork": "-7561720383863443011"
             }
         ],
-        "newPrice": 100,
-        "oldPrice": 80
+        "newPrice": 200,
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_PoisonGrenade_3",
         "name": "Weapon_PoisonGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5410149350400725045",
         "itemsNeeded": [
             {
@@ -41341,13 +41341,13 @@
                 "artwork": "-6548577578586404959"
             }
         ],
-        "newPrice": 100,
-        "oldPrice": 340
+        "newPrice": 200,
+        "oldPrice": 350
     },
     {
         "recipeName": "Recipe_PoisonGrenade_4 1",
         "name": "Weapon_PoisonGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5410149350400725045",
         "itemsNeeded": [
             {
@@ -41361,13 +41361,13 @@
                 "artwork": "-4616891508971773062"
             }
         ],
-        "newPrice": 100,
+        "newPrice": 200,
         "oldPrice": 180
     },
     {
         "recipeName": "Recipe_PoisonGrenade_4",
         "name": "Weapon_PoisonGrenade",
-        "quantity": 1,
+        "quantity": 2,
         "artwork": "5410149350400725045",
         "itemsNeeded": [
             {
@@ -41381,8 +41381,8 @@
                 "artwork": "-4616891508971773062"
             }
         ],
-        "newPrice": 100,
-        "oldPrice": 120
+        "newPrice": 200,
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_RedsoppPaste",
@@ -41442,7 +41442,7 @@
     {
         "recipeName": "Recipe_StickGrenade_1",
         "name": "Weapon_StickGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "2260327460336690771",
         "itemsNeeded": [
             {
@@ -41461,13 +41461,13 @@
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 144
     },
     {
         "recipeName": "Recipe_StickGrenade_2",
         "name": "Weapon_StickGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "2260327460336690771",
         "itemsNeeded": [
             {
@@ -41486,13 +41486,13 @@
                 "artwork": "3071159641959592919"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 134
     },
     {
         "recipeName": "Recipe_StickGrenade_3",
         "name": "Weapon_StickGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "2260327460336690771",
         "itemsNeeded": [
             {
@@ -41511,13 +41511,13 @@
                 "artwork": "-4050595050320098929"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 104
     },
     {
         "recipeName": "Recipe_StickGrenade_4",
         "name": "Weapon_StickGrenade",
-        "quantity": 1,
+        "quantity": 3,
         "artwork": "2260327460336690771",
         "itemsNeeded": [
             {
@@ -41536,7 +41536,7 @@
                 "artwork": "-4050595050320098929"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 600,
         "oldPrice": 94
     },
     {
@@ -41718,5 +41718,805 @@
         ],
         "newPrice": 200,
         "oldPrice": 80
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 1",
+        "name": "Item_MashedPotatoes",
+        "quantity": 2,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_MilkButtermilk",
+                "quantity": 1,
+                "artwork": "-7977073765924905724"
+            }
+        ],
+        "newPrice": 200,
+        "oldPrice": 110
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 2",
+        "name": "Item_MashedPotatoes",
+        "quantity": 1,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_MilkGreen",
+                "quantity": 1,
+                "artwork": "-1859587392189770639"
+            }
+        ],
+        "newPrice": 100,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 3",
+        "name": "Item_MashedPotatoes",
+        "quantity": 1,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_MilkBlue",
+                "quantity": 1,
+                "artwork": "-7453886484582297559"
+            }
+        ],
+        "newPrice": 100,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 4",
+        "name": "Item_MashedPotatoes",
+        "quantity": 1,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_Solution",
+                "quantity": 1,
+                "artwork": "6482550251302839458"
+            }
+        ],
+        "newPrice": 100,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 5",
+        "name": "Item_MashedPotatoes",
+        "quantity": 2,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_MineralWater",
+                "quantity": 1,
+                "artwork": "634777362706650203"
+            }
+        ],
+        "newPrice": 200,
+        "oldPrice": 180
+    },
+    {
+        "recipeName": "Recipe_MashedPotatoes_4 6",
+        "name": "Item_MashedPotatoes",
+        "quantity": 2,
+        "artwork": "6242614437529890145",
+        "itemsNeeded": [
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            },
+            {
+                "name": "Item_MineralWater",
+                "quantity": 1,
+                "artwork": "634777362706650203"
+            }
+        ],
+        "newPrice": 200,
+        "oldPrice": 180
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 1",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Bladder",
+                "quantity": 1,
+                "artwork": "1803992014825590409"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 130
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 2",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Heart",
+                "quantity": 1,
+                "artwork": "6068860161867629580"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 230
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 3",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Kidney",
+                "quantity": 1,
+                "artwork": "5831565155765738647"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 130
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 4",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Brain",
+                "quantity": 1,
+                "artwork": "8465314616682935821"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 230
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 5",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Liver",
+                "quantity": 1,
+                "artwork": "7332951608168415902"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 110
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 6",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Lung",
+                "quantity": 1,
+                "artwork": "-5398461625095239831"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 90
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 7",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Pancreas",
+                "quantity": 1,
+                "artwork": "-5888680805810892627"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 140
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 8",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Spleen",
+                "quantity": 1,
+                "artwork": "-6941713059336788263"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 70
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 9",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Thyroid",
+                "quantity": 1,
+                "artwork": "7595876552267092986"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ 10",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Tongue",
+                "quantity": 1,
+                "artwork": "3355734409534680266"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 130
+    },
+    {
+        "recipeName": "Recipe_Omelette_organ",
+        "name": "Item_Omelette",
+        "quantity": 1,
+        "artwork": "-1443788237108001148",
+        "itemsNeeded": [
+            {
+                "name": "Item_Egg",
+                "quantity": 1,
+                "artwork": "-1336171006532201681"
+            },
+            {
+                "name": "Item_Intestines",
+                "quantity": 1,
+                "artwork": "-1706020316831021407"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 70
+    },
+    {
+        "recipeName": "Recipe_Paper 1",
+        "name": "Item_Paper",
+        "quantity": 2,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 3,
+                "artwork": "-3672752988038789227"
+            }
+        ],
+        "newPrice": 8,
+        "oldPrice": 30
+    },
+    {
+        "recipeName": "Recipe_Paper 2",
+        "name": "Item_Paper",
+        "quantity": 3,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 4,
+                "artwork": "-3672752988038789227"
+            }
+        ],
+        "newPrice": 12,
+        "oldPrice": 40
+    },
+    {
+        "recipeName": "Recipe_Paper 3",
+        "name": "Item_Paper",
+        "quantity": 4,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 5,
+                "artwork": "-3672752988038789227"
+            }
+        ],
+        "newPrice": 16,
+        "oldPrice": 50
+    },
+    {
+        "recipeName": "Recipe_Paper 4",
+        "name": "Item_Paper",
+        "quantity": 3,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 1,
+                "artwork": "-3672752988038789227"
+            },
+            {
+                "name": "Item_Solution",
+                "quantity": 1,
+                "artwork": "6482550251302839458"
+            }
+        ],
+        "newPrice": 12,
+        "oldPrice": 50
+    },
+    {
+        "recipeName": "Recipe_Paper",
+        "name": "Item_Paper",
+        "quantity": 1,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 2,
+                "artwork": "-3672752988038789227"
+            }
+        ],
+        "newPrice": 4,
+        "oldPrice": 20
+    },
+    {
+        "recipeName": "Recipe_ToiletPaper 1",
+        "name": "Item_Toiletpaper",
+        "quantity": 2,
+        "artwork": "7037022505226330106",
+        "itemsNeeded": [
+            {
+                "name": "Item_Paper",
+                "quantity": 3,
+                "artwork": "-2332595742282668570"
+            }
+        ],
+        "newPrice": 200,
+        "oldPrice": 12
+    },
+    {
+        "recipeName": "Recipe_ToiletPaper 2",
+        "name": "Item_Toiletpaper",
+        "quantity": 3,
+        "artwork": "7037022505226330106",
+        "itemsNeeded": [
+            {
+                "name": "Item_Paper",
+                "quantity": 4,
+                "artwork": "-2332595742282668570"
+            }
+        ],
+        "newPrice": 300,
+        "oldPrice": 16
+    },
+    {
+        "recipeName": "Recipe_ToiletPaper 3",
+        "name": "Item_Toiletpaper",
+        "quantity": 4,
+        "artwork": "7037022505226330106",
+        "itemsNeeded": [
+            {
+                "name": "Item_Paper",
+                "quantity": 5,
+                "artwork": "-2332595742282668570"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 20
+    },
+    {
+        "recipeName": "Recipe_ToiletPaper",
+        "name": "Item_Toiletpaper",
+        "quantity": 1,
+        "artwork": "7037022505226330106",
+        "itemsNeeded": [
+            {
+                "name": "Item_Paper",
+                "quantity": 2,
+                "artwork": "-2332595742282668570"
+            }
+        ],
+        "newPrice": 100,
+        "oldPrice": 8
+    },
+    {
+        "recipeName": "Recipe_Paper 5",
+        "name": "Item_Paper",
+        "quantity": 3,
+        "artwork": "-2332595742282668570",
+        "itemsNeeded": [
+            {
+                "name": "Item_Sawdust",
+                "quantity": 1,
+                "artwork": "-3672752988038789227"
+            },
+            {
+                "name": "Item_Solution",
+                "quantity": 1,
+                "artwork": "6482550251302839458"
+            }
+        ],
+        "newPrice": 12,
+        "oldPrice": 50
+    },
+    {
+        "recipeName": "Recipe_Sawdust_2 1",
+        "name": "Item_Sawdust",
+        "quantity": 3,
+        "artwork": "-3672752988038789227",
+        "itemsNeeded": [
+            {
+                "name": "Item_Stick",
+                "quantity": 3,
+                "artwork": "-4221016240350774641"
+            }
+        ],
+        "newPrice": 30,
+        "oldPrice": 12
+    },
+    {
+        "recipeName": "Recipe_Sawdust_2 2",
+        "name": "Item_Sawdust",
+        "quantity": 4,
+        "artwork": "-3672752988038789227",
+        "itemsNeeded": [
+            {
+                "name": "Item_Stick",
+                "quantity": 4,
+                "artwork": "-4221016240350774641"
+            }
+        ],
+        "newPrice": 40,
+        "oldPrice": 16
+    },
+    {
+        "recipeName": "Recipe_Sawdust_2 3",
+        "name": "Item_Sawdust",
+        "quantity": 5,
+        "artwork": "-3672752988038789227",
+        "itemsNeeded": [
+            {
+                "name": "Item_Stick",
+                "quantity": 5,
+                "artwork": "-4221016240350774641"
+            }
+        ],
+        "newPrice": 50,
+        "oldPrice": 20
+    },
+    {
+        "recipeName": "Recipe_Sawdust_2 4",
+        "name": "Item_Sawdust",
+        "quantity": 6,
+        "artwork": "-3672752988038789227",
+        "itemsNeeded": [
+            {
+                "name": "Item_Stick",
+                "quantity": 6,
+                "artwork": "-4221016240350774641"
+            }
+        ],
+        "newPrice": 60,
+        "oldPrice": 24
+    },
+    {
+        "recipeName": "Recipe_Stew_1 8",
+        "name": "Item_Stew",
+        "quantity": 2,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_ChickenLeg",
+                "quantity": 1,
+                "artwork": "-5067801687449068692"
+            },
+            {
+                "name": "Item_BottledWater",
+                "quantity": 1,
+                "artwork": "-7066971589872746693"
+            }
+        ],
+        "newPrice": 130,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_Stew_1 9",
+        "name": "Item_Stew",
+        "quantity": 2,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_ChickenNashvilleHot",
+                "quantity": 1,
+                "artwork": "-6625462587542962904"
+            },
+            {
+                "name": "Item_BottledWater",
+                "quantity": 1,
+                "artwork": "-7066971589872746693"
+            }
+        ],
+        "newPrice": 130,
+        "oldPrice": 260
+    },
+    {
+        "recipeName": "Recipe_Stew_1 10",
+        "name": "Item_Stew",
+        "quantity": 2,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_Nuggets",
+                "quantity": 1,
+                "artwork": "-9118863120700452956"
+            },
+            {
+                "name": "Item_BottledWater",
+                "quantity": 1,
+                "artwork": "-7066971589872746693"
+            }
+        ],
+        "newPrice": 130,
+        "oldPrice": 120
+    },
+    {
+        "recipeName": "Recipe_Stew_2 8",
+        "name": "Item_Stew",
+        "quantity": 2,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_ChickenLeg",
+                "quantity": 1,
+                "artwork": "-5067801687449068692"
+            },
+            {
+                "name": "Item_Broth",
+                "quantity": 1,
+                "artwork": "8045260582126796071"
+            }
+        ],
+        "newPrice": 130,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_Stew_2 9",
+        "name": "Item_Stew",
+        "quantity": 3,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_ChickenNashvilleHot",
+                "quantity": 1,
+                "artwork": "-6625462587542962904"
+            },
+            {
+                "name": "Item_Broth",
+                "quantity": 1,
+                "artwork": "8045260582126796071"
+            }
+        ],
+        "newPrice": 195,
+        "oldPrice": 260
+    },
+    {
+        "recipeName": "Recipe_Stew_2 10",
+        "name": "Item_Stew",
+        "quantity": 3,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_Nuggets",
+                "quantity": 1,
+                "artwork": "-9118863120700452956"
+            },
+            {
+                "name": "Item_Broth",
+                "quantity": 1,
+                "artwork": "8045260582126796071"
+            }
+        ],
+        "newPrice": 195,
+        "oldPrice": 120
+    },
+    {
+        "recipeName": "Recipe_FragGrenade_1 1",
+        "name": "Weapon_PineappleGrenade",
+        "quantity": 2,
+        "artwork": "5248330494893015826",
+        "itemsNeeded": [
+            {
+                "name": "Item_FalseSulfcap",
+                "quantity": 1,
+                "artwork": "-2954940456326746516"
+            },
+            {
+                "name": "Item_Beans",
+                "quantity": 1,
+                "artwork": "6969617728112556015"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 150
+    },
+    {
+        "recipeName": "Recipe_FragGrenade_2 1",
+        "name": "Weapon_PineappleGrenade",
+        "quantity": 2,
+        "artwork": "5248330494893015826",
+        "itemsNeeded": [
+            {
+                "name": "Item_Solution",
+                "quantity": 1,
+                "artwork": "6482550251302839458"
+            },
+            {
+                "name": "Item_Beans",
+                "quantity": 1,
+                "artwork": "6969617728112556015"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 160
+    },
+    {
+        "recipeName": "Recipe_Stew_1 11",
+        "name": "Item_Stew",
+        "quantity": 2,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_Beans",
+                "quantity": 1,
+                "artwork": "6969617728112556015"
+            },
+            {
+                "name": "Item_BottledWater",
+                "quantity": 1,
+                "artwork": "-7066971589872746693"
+            }
+        ],
+        "newPrice": 130,
+        "oldPrice": 160
+    },
+    {
+        "recipeName": "Recipe_Stew_2 6",
+        "name": "Item_Stew",
+        "quantity": 3,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_MysteryMeat",
+                "quantity": 1,
+                "artwork": "-4050595050320098929"
+            },
+            {
+                "name": "Item_Broth",
+                "quantity": 1,
+                "artwork": "8045260582126796071"
+            }
+        ],
+        "newPrice": 195,
+        "oldPrice": 100
+    },
+    {
+        "recipeName": "Recipe_Stew_2 11",
+        "name": "Item_Stew",
+        "quantity": 3,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_Beans",
+                "quantity": 1,
+                "artwork": "6969617728112556015"
+            },
+            {
+                "name": "Item_Broth",
+                "quantity": 1,
+                "artwork": "8045260582126796071"
+            }
+        ],
+        "newPrice": 195,
+        "oldPrice": 160
+    },
+    {
+        "recipeName": "Recipe_Stew_3",
+        "name": "Item_Stew",
+        "quantity": 4,
+        "artwork": "2058444604080840636",
+        "itemsNeeded": [
+            {
+                "name": "Item_MysteryMeat",
+                "quantity": 1,
+                "artwork": "-4050595050320098929"
+            },
+            {
+                "name": "Item_Beans",
+                "quantity": 1,
+                "artwork": "6969617728112556015"
+            }
+        ],
+        "newPrice": 260,
+        "oldPrice": 180
     }
 ]
