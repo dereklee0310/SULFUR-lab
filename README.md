@@ -9,7 +9,7 @@
 ![GitHub deployments](https://img.shields.io/github/deployments/dereklee0310/SULFUR-lab/github-pages)
 
 
-SULFUR Lab is a fan-made, browser-based tool for players of SULFUR who want to plan, customize, and share their weapon builds. Design your ideal loadout by mixing attachments and enchantments, then generate a compact code to save or share with friends. Anyone can paste the code back into the builder to instantly recreate your setup—no login, no server, and everything runs securely in your browser.
+Interactive weapon builder & recipes database for SULFUR.
 </div>
 
 ## Prerequisites
@@ -28,11 +28,10 @@ npm install
 npm run dev -- --open
 ```
 
-
 ## License
 The source code in this repository is licensed under the GPLv3 License.  
 
-All game-related names, images, stats, attachments, enchantments, and other in-game content are the property of the SULFUR developers and/or their respective owners. SULFUR Lab is an independent, non-commercial fan project created for educational and informational purposes only. We do not claim any ownership over SULFUR's intellectual property and are not affiliated with, endorsed by, or connected to the official SULFUR team in any way.
+All rights to the data used in this repo belong to SULFUR. No copyright infringement intended
 
 ## Contact 
 dereklee0310@gmail.com
