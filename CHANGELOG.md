@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.5.2] - 2026-03-07
+### Changed 
+- Keep up with "Patch Notes 0.15.3"
+
 ## [0.5.1] - 2026-03-04
 ### Fixed 
 - Add missing weapons and images
@@ -12,7 +16,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.5.0] - 2026-03-04
 ### Changed 
-- Update data to keep up with "Patch Notes 0.15.1: The Scholar's Update"
+- Keep up with "Patch Notes 0.15.1"
 
 ## [0.4.0] - 2026-02-28
 
