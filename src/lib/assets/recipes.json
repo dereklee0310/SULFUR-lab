@@ -966,13 +966,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_BottledWater",
+                "name": "Item_HolyWater",
                 "quantity": 1,
-                "artwork": "-7066971589872746693"
+                "artwork": "8470882321417267426"
             }
         ],
         "newPrice": 35,
-        "oldPrice": 140
+        "oldPrice": 600
     },
     {
         "recipeName": "Recipe_BarkBread 2",
@@ -1146,13 +1146,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 1,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 35,
-        "oldPrice": 220
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_BarkBread 11",
@@ -1346,13 +1346,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 1,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 35,
-        "oldPrice": 320
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_BarkBread 21",
@@ -1546,13 +1546,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 1,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 70,
-        "oldPrice": 420
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_BarkBread 31",
@@ -1746,13 +1746,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 105,
-        "oldPrice": 540
+        "oldPrice": 420
     },
     {
         "recipeName": "Recipe_BarkBread 41",
@@ -1946,13 +1946,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 105,
-        "oldPrice": 640
+        "oldPrice": 520
     },
     {
         "recipeName": "Recipe_BarkBread 51",
@@ -2146,13 +2146,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 105,
-        "oldPrice": 740
+        "oldPrice": 620
     },
     {
         "recipeName": "Recipe_BarkBread 61",
@@ -2346,13 +2346,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 140,
-        "oldPrice": 840
+        "oldPrice": 720
     },
     {
         "recipeName": "Recipe_BarkBread 71",
@@ -2546,13 +2546,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 140,
-        "oldPrice": 940
+        "oldPrice": 820
     },
     {
         "recipeName": "Recipe_BarkBread 81",
@@ -2726,13 +2726,13 @@
                 "artwork": "-8488872666714982513"
             },
             {
-                "name": "Item_SportsDrink",
+                "name": "Item_Kombucha",
                 "quantity": 2,
-                "artwork": "2248020526963927307"
+                "artwork": "-7063720075578459060"
             }
         ],
         "newPrice": 140,
-        "oldPrice": 1040
+        "oldPrice": 920
     },
     {
         "recipeName": "Recipe_BarkBread 90",
@@ -3096,21 +3096,6 @@
         "artwork": "6098454308147746277",
         "itemsNeeded": [
             {
-                "name": "Item_LizardSkin",
-                "quantity": 2,
-                "artwork": "-2438037773057512394"
-            }
-        ],
-        "newPrice": 60,
-        "oldPrice": 200
-    },
-    {
-        "recipeName": "Recipe_BeefJerky_6",
-        "name": "Item_BeefJerky",
-        "quantity": 1,
-        "artwork": "6098454308147746277",
-        "itemsNeeded": [
-            {
                 "name": "Item_ShrewSkin",
                 "quantity": 2,
                 "artwork": "5679605845456124650"
@@ -3118,6 +3103,15 @@
         ],
         "newPrice": 60,
         "oldPrice": 40
+    },
+    {
+        "recipeName": "",
+        "name": "Item_ShopKey",
+        "quantity": 0,
+        "artwork": "4333974199812264057",
+        "itemsNeeded": [],
+        "newPrice": 0,
+        "oldPrice": 0
     },
     {
         "recipeName": "Recipe_BiscuitsAndGravy 1",
@@ -3531,9 +3525,9 @@
         "artwork": "-8753176964414053581",
         "itemsNeeded": [
             {
-                "name": "Item_MysteryMeat",
+                "name": "Item_Polsa",
                 "quantity": 1,
-                "artwork": "-4050595050320098929"
+                "artwork": "1527266738676507600"
             },
             {
                 "name": "Item_Spagetti",
@@ -3542,7 +3536,7 @@
             }
         ],
         "newPrice": 250,
-        "oldPrice": 90
+        "oldPrice": 60
     },
     {
         "recipeName": "Recipe_Bolognese_2",
@@ -42518,5 +42512,65 @@
         ],
         "newPrice": 260,
         "oldPrice": 180
+    },
+    {
+        "recipeName": "Recipe_FishNChipsRegularFish 1",
+        "name": "Item_FishNChips",
+        "quantity": 1,
+        "artwork": "7925159878422868623",
+        "itemsNeeded": [
+            {
+                "name": "Item_Fish",
+                "quantity": 2,
+                "artwork": "-4113944790480278111"
+            },
+            {
+                "name": "Item_Potato",
+                "quantity": 1,
+                "artwork": "-7589987370065608122"
+            }
+        ],
+        "newPrice": 250,
+        "oldPrice": 140
+    },
+    {
+        "recipeName": "Recipe_FishNChipsRegularFish 2",
+        "name": "Item_FishNChips",
+        "quantity": 1,
+        "artwork": "7925159878422868623",
+        "itemsNeeded": [
+            {
+                "name": "Item_Fish",
+                "quantity": 1,
+                "artwork": "-4113944790480278111"
+            },
+            {
+                "name": "Item_Potato",
+                "quantity": 2,
+                "artwork": "-7589987370065608122"
+            }
+        ],
+        "newPrice": 250,
+        "oldPrice": 160
+    },
+    {
+        "recipeName": "Recipe_FishNChipsRegularFish 3",
+        "name": "Item_FishNChips",
+        "quantity": 1,
+        "artwork": "7925159878422868623",
+        "itemsNeeded": [
+            {
+                "name": "Item_Fish",
+                "quantity": 2,
+                "artwork": "-4113944790480278111"
+            },
+            {
+                "name": "Item_Potato",
+                "quantity": 2,
+                "artwork": "-7589987370065608122"
+            }
+        ],
+        "newPrice": 250,
+        "oldPrice": 200
     }
 ]

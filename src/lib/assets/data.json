@@ -1972,7 +1972,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Spread": 1.0,
-        "ReloadSpeed": 0.45,
+        "ReloadSpeed": 0.9,
         "displayFields": [
             "Spread",
             "ReloadSpeed"
@@ -2445,7 +2445,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "ItemStat_LootChanceMultiplier": -0.3,
-        "ReloadSpeed": 0.4,
+        "ReloadSpeed": 0.8,
         "displayFields": [
             "ItemStat_LootChanceMultiplier",
             "ReloadSpeed"
@@ -2615,7 +2615,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "ProjectileTimeScale": -0.3,
-        "ReloadSpeed": 0.4,
+        "ReloadSpeed": 0.8,
         "displayFields": [
             "ProjectileTimeScale",
             "ReloadSpeed"
@@ -2735,7 +2735,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.8,
+        "ReloadSpeed": 1.6,
         "ItemStat_MoveSpeed": -0.6,
         "Spread": -0.1,
         "KickMultiplier": -0.1,
@@ -2977,7 +2977,7 @@
         "CostsDurability": 1,
         "Damage": -15.0,
         "ProjectileDrag": 7.0,
-        "ReloadSpeed": 0.6,
+        "ReloadSpeed": 1.2,
         "displayFields": [
             "Damage",
             "ProjectileDrag",
@@ -3081,7 +3081,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.5,
+        "ReloadSpeed": 1.3,
         "ConsumeExtraAmmoChance": 0.3,
         "displayFields": [
             "ReloadSpeed",
@@ -3132,7 +3132,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "Damage": -25.0,
         "displayFields": [
             "ProjectilePenetration",
@@ -3232,7 +3232,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.5,
+        "ReloadSpeed": 1.0,
         "MaxDurability": -0.15,
         "displayFields": [
             "ReloadSpeed",
@@ -3317,7 +3317,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
+        "ProjectilePenetration": 3.0,
         "ConsumeExtraAmmoChance": 0.3,
         "displayFields": [
             "ProjectilePenetration",
@@ -3687,7 +3687,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.45,
+        "ReloadSpeed": 0.6,
         "RPM": -0.2,
         "displayFields": [
             "ReloadSpeed",
@@ -3773,7 +3773,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "ItemStat_JumpPower": -0.3,
-        "ReloadSpeed": 0.5,
+        "ReloadSpeed": 0.8,
         "displayFields": [
             "ItemStat_JumpPower",
             "ReloadSpeed"
@@ -3789,7 +3789,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "DisableADS": 1.0,
         "displayFields": [
             "ProjectilePenetration",
@@ -3823,7 +3823,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "Spread": 2.0,
         "displayFields": [
             "ProjectilePenetration",
@@ -3840,7 +3840,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "ProjectileTimeScale": -0.5,
         "displayFields": [
             "ProjectilePenetration",
@@ -3874,7 +3874,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "ReloadSpeed": -0.25,
         "displayFields": [
             "ProjectilePenetration",
@@ -3892,7 +3892,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "DisableLootOrgans": 1.0,
-        "ReloadSpeed": 0.3,
+        "ReloadSpeed": 0.6,
         "displayFields": [
             "DisableLootOrgans",
             "ReloadSpeed"
@@ -4154,7 +4154,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "ItemStat_MoveSpeed": -0.15,
         "displayFields": [
             "ProjectilePenetration",
@@ -4188,7 +4188,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "RPM": -0.25,
         "displayFields": [
             "ProjectilePenetration",
@@ -4258,7 +4258,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "ItemStat_JumpPower": -0.3,
         "displayFields": [
             "ProjectilePenetration",
@@ -4344,7 +4344,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Damage": -0.1,
-        "ReloadSpeed": 0.6,
+        "ReloadSpeed": 1.1,
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -4361,7 +4361,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "ItemStat_MoveSpeed": -0.4,
-        "ReloadSpeed": 0.8,
+        "ReloadSpeed": 1.4,
         "displayFields": [
             "ItemStat_MoveSpeed",
             "ReloadSpeed"
@@ -4411,7 +4411,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.25,
+        "ReloadSpeed": 0.4,
         "displayFields": [
             "ReloadSpeed"
         ]
@@ -4494,7 +4494,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": 2.0,
         "ItemStat_LootChanceMultiplier": -0.5,
         "displayFields": [
             "ProjectilePenetration",
@@ -4650,7 +4650,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Damage": -0.1,
-        "ReloadSpeed": 0.6,
+        "ReloadSpeed": 1.2,
         "ProjectileMass": 5.0,
         "displayFields": [
             "Damage",
@@ -4741,7 +4741,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "DisableADS": 1.0,
-        "ReloadSpeed": 0.4,
+        "ReloadSpeed": 0.75,
         "displayFields": [
             "DisableADS",
             "ReloadSpeed"
@@ -5164,7 +5164,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
+        "ProjectilePenetration": 3.0,
         "MaxDurability": -0.25,
         "displayFields": [
             "ProjectilePenetration",
@@ -5290,7 +5290,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Damage": -15.0,
-        "ReloadSpeed": 0.5,
+        "ReloadSpeed": 1.0,
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -5487,7 +5487,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "DisableLootMoney": 1.0,
-        "ReloadSpeed": 0.3,
+        "ReloadSpeed": 0.5,
         "displayFields": [
             "DisableLootMoney",
             "ReloadSpeed"
@@ -5675,7 +5675,7 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
+        "ProjectilePenetration": 4.0,
         "ProjectileMass": 20.0,
         "displayFields": [
             "ProjectilePenetration",
@@ -5727,7 +5727,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "KickMultiplier": 1.0,
-        "ReloadSpeed": 0.4,
+        "ReloadSpeed": 0.8,
         "displayFields": [
             "KickMultiplier",
             "ReloadSpeed"
@@ -6157,7 +6157,7 @@
         "CostsDurability": 1,
         "ProjectileMoveAsLight": 1.0,
         "ProjectileThunderbolt": 1.0,
-        "RPM": -0.75,
+        "RPM": -0.5,
         "displayFields": [
             "ProjectileMoveAsLight",
             "ProjectileThunderbolt",
@@ -6685,7 +6685,7 @@
         "CritChance": 0.15,
         "Damage": 0.15,
         "MaxDurability": -0.1,
-        "Spread": -0.25,
+        "Spread": 0.25,
         "displayFields": [
             "Silenced",
             "CritChance",
