@@ -155,8 +155,8 @@ export class Build {
 				multiplier += enchantment.MaxDurability;
 		}
 		for (const attachment of this.attachments) {
-			if (attachment.Spread)
-				multiplier += attachment.Spread;
+			if (attachment.MaxDurability)
+				multiplier += attachment.MaxDurability;
 		}
 
 		var durability = Math.round(baseDurability * multiplier).toString();
