@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.5.3] - 2026-03-08
+### Fixed
+- - Fix a bug that the durability attribute of attachments are calcuated incorrectly.
+
 ## [0.5.2] - 2026-03-07
 ### Changed 
 - Keep up with "Patch Notes 0.15.3"
