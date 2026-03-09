@@ -5,7 +5,7 @@
 
 	let { buildData }: { buildData: Build } = $props();
 
-	const Label = {
+	const Label = $derived({
 		Rank: $_('ItemDescriptions/Label_Rank'),
 		Type: $_('ItemDescriptions/Label_Type'),
 		AmmoType: $_('ItemDescriptions/Label_AmmoType'),
@@ -16,7 +16,7 @@
 		Condition: $_('ItemDescriptions/ItemDurability_PerfectCondition'),
 		Enchantments: $_('ItemDescriptions/Label_Enchantments'),
 		Attachments: $_('ItemDescriptions/Label_Attachments')
-	} as const;
+	});
 
 	const fb = { default: '???' };
 	const weaponName = $derived($_(`Items/${buildData.getWeaponName()}`, fb));
