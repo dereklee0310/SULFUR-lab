@@ -8,6 +8,9 @@
             "previous": "Previous",
             "next": "Next"
         },
+        "footer": {
+            "gameVersion": "Game Version"
+        },
         "build": {
             "codePlaceholder": "Type a code to import",
             "copy": "Copied!",

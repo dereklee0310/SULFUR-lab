@@ -8,6 +8,9 @@
             "previous": "上一页",
             "next": "下一页"
         },
+        "footer": {
+            "gameVersion": "游戏版本"
+        },
         "build": {
             "codePlaceholder": "输入代码以导入",
             "copy": "已复制！",

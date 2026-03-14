@@ -8,6 +8,9 @@
             "previous": "Précédent",
             "next": "Suivant"
         },
+        "footer": {
+            "gameVersion": "Version du jeu"
+        },
         "build": {
             "codePlaceholder": "Saisissez un code à importer",
             "copy": "Copié !",

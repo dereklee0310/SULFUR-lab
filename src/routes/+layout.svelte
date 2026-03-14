@@ -6,8 +6,8 @@
 	import * as NavigationMenu from '$lib/components/ui/navigation-menu/index.js';
 	import * as Tooltip from '$lib/components/ui/tooltip/index.js';
 	import * as DropdownMenu from '$lib/components/ui/dropdown-menu/index';
-	import * as Empty from "$lib/components/ui/empty/index.js";
-	import { Spinner } from "$lib/components/ui/spinner/index.js";
+	import * as Empty from '$lib/components/ui/empty/index.js';
+	import { Spinner } from '$lib/components/ui/spinner/index.js';
 	import { Toaster } from '$lib/components/ui/sonner/index.js';
 	import { navigationMenuTriggerStyle } from '$lib/components/ui/navigation-menu/navigation-menu-trigger.svelte';
 
@@ -20,13 +20,14 @@
 	import { Github, Globe, Navigation, Sun, Moon } from '@lucide/svelte';
 	import logo from '$lib/assets/favicon.png';
 
-
-	import {  } from 'svelte-i18n';
+	import {} from 'svelte-i18n';
 
 	let { children } = $props();
 
 	const navItemStyle = navigationMenuTriggerStyle({ class: 'h-14 text-lg' });
 	const iconStyle = 'h-6 fill-current';
+
+	const GAME_VERSION = "v0.15.5"
 
 	const LANGUAGES: Record<string, string> = {
 		en: 'English',
@@ -48,16 +49,15 @@
 <svelte:head><title>SULFUR Lab</title> <link rel="icon" href={logo} /></svelte:head>
 
 {#snippet loadingPage()}
-<Empty.Root class="w-full">
-  <Empty.Header>
-    <Empty.Media>
-      <Spinner class="size-20"/>
-    </Empty.Media>
-    <Empty.Title>Loading...</Empty.Title>
-  </Empty.Header>
-  <Empty.Content>
-  </Empty.Content>
-</Empty.Root>
+	<Empty.Root class="w-full">
+		<Empty.Header>
+			<Empty.Media>
+				<Spinner class="size-20" />
+			</Empty.Media>
+			<Empty.Title>Loading...</Empty.Title>
+		</Empty.Header>
+		<Empty.Content></Empty.Content>
+	</Empty.Root>
 {/snippet}
 
 {#snippet leftNavigationMenu()}
@@ -74,19 +74,19 @@
 				</NavigationMenu.Link>
 			</NavigationMenu.Item>
 			<NavigationMenu.Item>
-					<NavigationMenu.Link>
-						{#snippet child()}
-							<a href={resolve('/')} class={navItemStyle}>{$_("pages.navbar.buildWeapon")}</a>
-						{/snippet}
-					</NavigationMenu.Link>
-				</NavigationMenu.Item>
+				<NavigationMenu.Link>
+					{#snippet child()}
+						<a href={resolve('/')} class={navItemStyle}>{$_('pages.navbar.buildWeapon')}</a>
+					{/snippet}
+				</NavigationMenu.Link>
+			</NavigationMenu.Item>
 			<NavigationMenu.Item>
-					<NavigationMenu.Link>
-						{#snippet child()}
-							<a href={resolve('/recipes')} class={navItemStyle}>{$_("pages.navbar.recipes")}</a>
-						{/snippet}
-					</NavigationMenu.Link>
-				</NavigationMenu.Item>
+				<NavigationMenu.Link>
+					{#snippet child()}
+						<a href={resolve('/recipes')} class={navItemStyle}>{$_('pages.navbar.recipes')}</a>
+					{/snippet}
+				</NavigationMenu.Link>
+			</NavigationMenu.Item>
 		</NavigationMenu.List>
 	</NavigationMenu.Root>
 {/snippet}
@@ -146,12 +146,8 @@
 						})}
 						aria-label="Toggle theme"
 					>
-						<Sun
-							class="h-6 w-6 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90"
-						/>
-						<Moon
-							class="absolute scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0"
-						/>
+						<Sun class="h-6 w-6 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
+						<Moon class="absolute scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
 					</button>
 				{/snippet}
 			</NavigationMenu.Item>
@@ -175,6 +171,9 @@
 			<main class="min-h-0 flex-1">
 				{@render children()}
 			</main>
+			<footer class="w-full pb-4 text-center  text-muted-foreground">
+				<span>{$_('pages.footer.gameVersion')} {GAME_VERSION}</span>
+			</footer>
 		</Tooltip.Provider>
 	{/if}
 </div>

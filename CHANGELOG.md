@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.6.0] - 2026-03-14
 ### Added
-- Keep up with "Patch Notes 0.15.5"
+- Keep up with "Patch Notes 0.15.5".
+- Add game version footer.
 
 ### Fixed
 - Fix a bug where the spread of barrel extensions is treated as plain value instead of percentage.
