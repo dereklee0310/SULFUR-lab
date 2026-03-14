@@ -72,23 +72,23 @@ export class Build {
 
 		for (const enchantment of this.enchantments) {
 			if (enchantment.Damage) {
-				if (Math.abs(enchantment.Damage) <= 1) {
-					damageMultiplier += enchantment.Damage;
+				if (enchantment.Damage.isMultiplier) {
+					damageMultiplier += enchantment.Damage.value;
 				} else {
-					baseDamage += enchantment.Damage
+					baseDamage += enchantment.Damage.value;
 				}
 			}
 			if (enchantment.ProjectileAmount) {
-				ammoMultiplier += enchantment.ProjectileAmount;
+				ammoMultiplier += enchantment.ProjectileAmount.value;
 			}
 		}
 
 		for (const attachment of this.attachments) {
 			if (attachment.Damage) {
-				if (Math.abs(attachment.Damage) <= 1) {
-					damageMultiplier += attachment.Damage;
+				if (attachment.Damage.isMultiplier) {
+					damageMultiplier += attachment.Damage.value;
 				} else {
-					baseDamage += attachment.Damage
+					baseDamage += attachment.Damage.value;
 				}
 			}
 			// No need to check ProjectileAmount here
@@ -111,10 +111,10 @@ export class Build {
 
 		for (const enchantment of this.enchantments) {
 			if (enchantment.RPM)
-				multiplier += enchantment.RPM;
+				multiplier += enchantment.RPM.value;
 		}
 
-		return Math.round((baserpm * multiplier)).toString();
+		return Math.trunc(baserpm * multiplier).toString();
 	}
 
 	getMagSize(): string | undefined {
@@ -126,21 +126,33 @@ export class Build {
 			return;
 
 		var baseSpread = 0;
+		var spreadMultiplier = 1.0;
+
 		if (this.chamberChisel)
 			baseSpread = this.weapon.spreadPerCaliber[this.chamberChisel.modifiesCaliber];
 		else
 			baseSpread = this.weapon.spreadPerCaliber[this.weapon.AmmoType];
 
 		for (const enchantment of this.enchantments) {
-			if (enchantment.Spread)
-				baseSpread += enchantment.Spread;
+			if (enchantment.Spread) {
+				if (enchantment.Spread.isMultiplier)
+					spreadMultiplier += enchantment.Spread.value;
+				else
+					baseSpread += enchantment.Spread.value;
+			}
 		}
 		for (const attachment of this.attachments) {
-			if (attachment.Spread)
-				baseSpread += attachment.Spread;
+			if (attachment.Spread) {
+				if (attachment.Spread.isMultiplier)
+					spreadMultiplier += attachment.Spread.value;
+				else
+					baseSpread += attachment.Spread.value;
+			}
 		}
 
-		return (baseSpread).toString();
+		return Math.max(
+			Number((baseSpread * spreadMultiplier).toFixed(3)), 0
+		).toString();
 	}
 
 	getDurability(): string | undefined {
@@ -152,11 +164,11 @@ export class Build {
 
 		for (const enchantment of this.enchantments) {
 			if (enchantment.MaxDurability)
-				multiplier += enchantment.MaxDurability;
+				multiplier += enchantment.MaxDurability.value;
 		}
 		for (const attachment of this.attachments) {
 			if (attachment.MaxDurability)
-				multiplier += attachment.MaxDurability;
+				multiplier += attachment.MaxDurability.value;
 		}
 
 		var durability = Math.round(baseDurability * multiplier).toString();

@@ -25,8 +25,14 @@
             "EnergyCell": 2.5
         },
         "Spread": 2.5,
-        "KickCompensation": 0.0,
-        "ExtraDamageLeftGun": 0.5,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "ExtraDamageLeftGun": {
+            "value": 0.5,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -63,7 +69,10 @@
             "EnergyCell": 2.5
         },
         "Spread": 2.5,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -99,9 +108,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 2.5,
-        "KickCompensation": 0.08,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -137,9 +152,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 0.0,
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "Spread": 2.5,
-        "KickCompensation": 0.08,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -175,9 +196,15 @@
             "50BMG": 4.0,
             "EnergyCell": 20.0
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 20.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -214,7 +241,10 @@
             "EnergyCell": 1.5
         },
         "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -251,7 +281,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -287,9 +320,15 @@
             "50BMG": 3.0,
             "EnergyCell": 3.0
         },
-        "FullAuto": 0.0,
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "Spread": 3.0,
-        "KickCompensation": 0.08,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -325,9 +364,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 2.5,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -363,9 +408,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 1.0,
-        "Spread": 1.5,
-        "KickCompensation": 0.62,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 2.5,
+        "KickCompensation": {
+            "value": 0.62,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -401,9 +452,15 @@
             "50BMG": 2.0,
             "EnergyCell": 2.0
         },
-        "Spread": 5.0,
-        "KickCompensation": 0.0,
-        "FullAuto": 0.0,
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -439,9 +496,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 2.5,
-        "KickCompensation": 0.25,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -477,9 +540,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 2.5,
-        "KickCompensation": 0.08,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -515,9 +584,15 @@
             "50BMG": 5.0,
             "EnergyCell": 5.0
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 5.0,
-        "KickCompensation": 0.05,
+        "KickCompensation": {
+            "value": 0.05,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -554,7 +629,10 @@
             "EnergyCell": 1.5
         },
         "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -591,7 +669,10 @@
             "EnergyCell": 1.0
         },
         "Spread": 1.0,
-        "KickCompensation": 0.35,
+        "KickCompensation": {
+            "value": 0.35,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -628,7 +709,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 10.0,
-        "KickCompensation": 0.3,
+        "KickCompensation": {
+            "value": 0.3,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -665,7 +749,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.25,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -702,7 +789,10 @@
             "EnergyCell": 2.5
         },
         "Spread": 2.5,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -739,7 +829,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -775,9 +868,15 @@
             "50BMG": 1.0,
             "EnergyCell": 1.0
         },
-        "Spread": 2.5,
-        "KickCompensation": 0.08,
-        "FullAuto": 0.0,
+        "Spread": 3.5,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -813,9 +912,15 @@
             "50BMG": 3.0,
             "EnergyCell": 3.0
         },
-        "FullAuto": 0.0,
-        "Spread": 2.5,
-        "KickCompensation": 0.08,
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "Spread": 3.0,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -851,8 +956,11 @@
             "50BMG": 2.5,
             "EnergyCell": 1.0
         },
-        "Spread": 0.0,
-        "KickCompensation": 0.0,
+        "Spread": 1.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -888,9 +996,15 @@
             "50BMG": 1.0,
             "EnergyCell": 1.0
         },
-        "FullAuto": 0.0,
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "Spread": 1.0,
-        "KickCompensation": 0.35,
+        "KickCompensation": {
+            "value": 0.35,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -926,9 +1040,15 @@
             "50BMG": 4.0,
             "EnergyCell": 4.0
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 4.0,
-        "KickCompensation": 0.7,
+        "KickCompensation": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -965,7 +1085,10 @@
             "EnergyCell": 1.0
         },
         "Spread": 4.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1001,8 +1124,11 @@
             "50BMG": 2.0,
             "EnergyCell": 4.0
         },
-        "Spread": 5.0,
-        "KickCompensation": 0.0,
+        "Spread": 4.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1038,8 +1164,11 @@
             "50BMG": 1.0,
             "EnergyCell": 1.0
         },
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "Spread": 1.0,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1076,7 +1205,10 @@
             "EnergyCell": 1.0
         },
         "Spread": 5.0,
-        "KickCompensation": 0.5,
+        "KickCompensation": {
+            "value": 0.5,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1112,9 +1244,15 @@
             "50BMG": 3.5,
             "EnergyCell": 3.5
         },
-        "FullAuto": 1.0,
-        "Spread": 5.0,
-        "KickCompensation": 0.05,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 3.5,
+        "KickCompensation": {
+            "value": 0.05,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1151,7 +1289,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.25,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1187,9 +1328,15 @@
             "50BMG": 2.0,
             "EnergyCell": 2.0
         },
-        "Spread": 5.0,
-        "KickCompensation": 0.0,
-        "FullAuto": 0.0,
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1225,8 +1372,11 @@
             "50BMG": 3.0,
             "EnergyCell": 3.0
         },
-        "Spread": 0.0,
-        "KickCompensation": 0.0,
+        "Spread": 3.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1262,9 +1412,15 @@
             "50BMG": 2.5,
             "EnergyCell": 2.5
         },
-        "Spread": 2.5,
-        "KickCompensation": 0.08,
-        "FullAuto": 1.0,
+        "Spread": 7.0,
+        "KickCompensation": {
+            "value": 0.08,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1301,7 +1457,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1337,9 +1496,15 @@
             "50BMG": 1.5,
             "EnergyCell": 1.5
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 1.5,
-        "KickCompensation": 0.62,
+        "KickCompensation": {
+            "value": 0.62,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1376,7 +1541,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1412,9 +1580,15 @@
             "50BMG": 3.0,
             "EnergyCell": 3.0
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 3.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1450,9 +1624,15 @@
             "EnergyCell": 3.0,
             "50BMG": 3.0
         },
-        "FullAuto": 1.0,
-        "Spread": 1.5,
-        "KickCompensation": 0.62,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 3.0,
+        "KickCompensation": {
+            "value": 0.62,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1489,7 +1669,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.25,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1525,9 +1708,15 @@
             "50BMG": 2.0,
             "EnergyCell": 2.0
         },
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
-        "FullAuto": 1.0,
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1556,8 +1745,14 @@
         "Type": "Revolver",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {},
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "Spread": {
+            "value": 1.5,
+            "isMultiplier": false
+        },
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1593,9 +1788,15 @@
             "50BMG": 2.0,
             "EnergyCell": 2.0
         },
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "Spread": 2.0,
-        "KickCompensation": 0.25,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1632,7 +1833,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 10.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1669,7 +1873,10 @@
             "EnergyCell": 2.0
         },
         "Spread": 2.0,
-        "KickCompensation": 0.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1705,9 +1912,15 @@
             "50BMG": 1.5,
             "EnergyCell": 1.5
         },
-        "FullAuto": 1.0,
-        "Spread": 2.5,
-        "KickCompensation": 0.25,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 1.5,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1736,8 +1949,14 @@
         "Type": "Sniper",
         "AmmoType": "EnergyCell",
         "spreadPerCaliber": {},
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "Spread": {
+            "value": 1.5,
+            "isMultiplier": false
+        },
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1773,9 +1992,15 @@
             "50BMG": 4.0,
             "EnergyCell": 4.0
         },
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
-        "FullAuto": 1.0,
+        "Spread": 4.0,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1811,8 +2036,11 @@
             "50BMG": 1.0,
             "EnergyCell": 1.0
         },
-        "Spread": 1.5,
-        "KickCompensation": 0.2,
+        "Spread": 1.0,
+        "KickCompensation": {
+            "value": 0.2,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Type",
             "AmmoType",
@@ -1833,10 +2061,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "MaxDurability": -0.3,
-        "ProjectileAmount": 2.0,
-        "Damage": -0.3,
-        "Spread": 0.3,
+        "MaxDurability": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ProjectileAmount",
@@ -1854,8 +2094,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.5,
-        "ItemStat_LootChanceMultiplier": -0.3,
+        "Spread": {
+            "value": -0.7,
+            "isMultiplier": false
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_LootChanceMultiplier"
@@ -1871,8 +2117,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.4,
-        "DisableLootOrgans": 1.0,
+        "ProjectileTimeScale": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "DisableLootOrgans"
@@ -1888,8 +2140,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "ConsumeExtraAmmoChance": 0.25,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ConsumeExtraAmmoChance"
@@ -1905,8 +2163,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 50.0,
-        "MaxDurability": -0.75,
+        "Damage": {
+            "value": 50.0,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": -0.75,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "MaxDurability"
@@ -1922,8 +2186,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.2,
-        "Damage": -0.1,
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "Damage"
@@ -1939,7 +2209,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.25,
+        "ProjectileTimeScale": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale"
         ]
@@ -1954,8 +2227,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.3,
-        "MaxDurability": -0.25,
+        "ConsumeAmmoChance": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "MaxDurability"
@@ -1971,8 +2250,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": 1.0,
-        "ReloadSpeed": 0.9,
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 0.9,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ReloadSpeed"
@@ -1988,8 +2273,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.3,
-        "KickMultiplier": 1.5,
+        "Damage": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 1.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "KickMultiplier"
@@ -2005,10 +2296,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.2,
-        "ProjectileAmount": 1.0,
-        "Spread": 1.7,
-        "DisableLootOrgans": 1.0,
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.7,
+            "isMultiplier": false
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -2026,8 +2329,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.25,
-        "DisableLootOrgans": 1.0,
+        "MaxDurability": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "DisableLootOrgans"
@@ -2043,8 +2352,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.3,
-        "Spread": 1.0,
+        "Damage": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "Spread"
@@ -2060,8 +2375,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.25,
-        "DisableADS": 1.0,
+        "ConsumeAmmoChance": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "DisableADS"
@@ -2077,8 +2398,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "Spread": 0.3,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.3,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileScale",
             "Spread"
@@ -2094,8 +2421,14 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.2,
-        "Spread": 2.0,
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "Spread"
@@ -2111,8 +2444,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "DisableLootMoney": 1.0,
-        "ConsumeAmmoChance": -0.2,
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "DisableLootMoney",
             "ConsumeAmmoChance"
@@ -2128,8 +2467,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.25,
-        "ReloadSpeed": -0.5,
+        "CritChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ReloadSpeed"
@@ -2145,8 +2490,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.25,
-        "DisableLootMoney": 1.0,
+        "MaxDurability": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "DisableLootMoney"
@@ -2162,8 +2513,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "ConsumeExtraAmmoChance": 0.3,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "ConsumeExtraAmmoChance"
@@ -2179,8 +2536,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.35,
-        "Spread": 1.0,
+        "RPM": {
+            "value": 0.35,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "RPM",
             "Spread"
@@ -2196,8 +2559,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.65,
-        "ProjectileMass": 5.0,
+        "KickMultiplier": {
+            "value": -0.65,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "ProjectileMass"
@@ -2213,8 +2582,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.5,
-        "ItemStat_JumpPower": -0.1,
+        "Spread": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_JumpPower"
@@ -2230,8 +2605,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 2.0,
-        "ItemStat_LootChanceMultiplier": -0.25,
+        "ProjectileBounce": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ItemStat_LootChanceMultiplier"
@@ -2247,8 +2628,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.2,
-        "RPM": -0.25,
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "RPM"
@@ -2264,8 +2651,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.2,
-        "ReloadSpeed": -0.4,
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "ReloadSpeed"
@@ -2281,8 +2674,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "KickMultiplier": 0.3,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "KickMultiplier"
@@ -2298,8 +2697,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.15,
-        "ItemStat_MoveSpeed": -0.3,
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ItemStat_MoveSpeed"
@@ -2315,8 +2720,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 2.0,
-        "ReloadSpeed": -0.15,
+        "ProjectileBounce": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ReloadSpeed"
@@ -2332,7 +2743,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.15,
+        "ConsumeAmmoChance": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance"
         ]
@@ -2347,8 +2761,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.8,
-        "ConsumeExtraAmmoChance": 0.2,
+        "ProjectileTimeScale": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ConsumeExtraAmmoChance"
@@ -2364,9 +2784,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.4,
-        "Damage": -0.15,
-        "ProjectileTimeScale": -0.3,
+        "ConsumeAmmoChance": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "Damage",
@@ -2383,8 +2812,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.7,
-        "DisableADS": 1.0,
+        "Spread": {
+            "value": -0.8,
+            "isMultiplier": false
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "DisableADS"
@@ -2400,13 +2835,34 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileAmount": 2.0,
-        "Damage": -0.25,
-        "KickMultiplier": 0.1,
-        "ItemStat_MoveSpeed": -0.5,
-        "ProjectileMass": 10.0,
-        "ProjectileScale": 200.0,
-        "Spread": 2.0,
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileAmount",
             "Damage",
@@ -2427,8 +2883,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.35,
-        "ConsumeExtraAmmoChance": 0.1,
+        "KickMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ConsumeExtraAmmoChance"
@@ -2444,8 +2906,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ItemStat_LootChanceMultiplier": -0.3,
-        "ReloadSpeed": 0.8,
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ItemStat_LootChanceMultiplier",
             "ReloadSpeed"
@@ -2461,8 +2929,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 2.0,
-        "DisableLootMoney": 1.0,
+        "ProjectileBounce": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "DisableLootMoney"
@@ -2478,8 +2952,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 3.0,
-        "Damage": -0.1,
+        "ProjectileBounce": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "Damage"
@@ -2495,8 +2975,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.3,
-        "ItemStat_LootChanceMultiplier": -1.0,
+        "ConsumeAmmoChance": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "ItemStat_LootChanceMultiplier"
@@ -2512,8 +2998,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.5,
-        "ProjectileTimeScale": -0.5,
+        "Damage": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileTimeScale"
@@ -2529,8 +3021,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 25.0,
-        "ItemStat_MoveSpeed": -0.15,
+        "Damage": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_MoveSpeed"
@@ -2546,8 +3044,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.2,
-        "Spread": 1.0,
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "Spread"
@@ -2563,8 +3067,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 3.0,
-        "Damage": -15.0,
+        "ProjectileBounce": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "Damage"
@@ -2580,8 +3090,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 5.0,
-        "ItemStat_MoveSpeed": -0.3,
+        "ProjectileBounce": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ItemStat_MoveSpeed"
@@ -2597,8 +3113,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.7,
-        "ProjectileMass": 10.0,
+        "MaxDurability": {
+            "value": 0.7,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "ProjectileMass"
@@ -2614,8 +3136,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": -0.3,
-        "ReloadSpeed": 0.8,
+        "ProjectileTimeScale": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ReloadSpeed"
@@ -2631,9 +3159,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.15,
-        "ProjectileAmount": 1.0,
-        "Spread": 0.7,
+        "Damage": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -2650,8 +3187,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.25,
-        "DisableLootMoney": 1.0,
+        "RPM": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "RPM",
             "DisableLootMoney"
@@ -2667,8 +3210,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.75,
-        "ProjectileTimeScale": -0.2,
+        "Spread": {
+            "value": -0.75,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ProjectileTimeScale"
@@ -2684,8 +3233,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
-        "DisableLootOrgans": 1.0,
+        "ProjectilePenetration": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "DisableLootOrgans"
@@ -2701,8 +3256,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.4,
-        "DisableLootOrgans": 1.0,
+        "Spread": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "DisableLootOrgans"
@@ -2718,8 +3279,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 30.0,
-        "Spread": 0.7,
+        "Damage": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "Spread"
@@ -2735,10 +3302,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 1.6,
-        "ItemStat_MoveSpeed": -0.6,
-        "Spread": -0.1,
-        "KickMultiplier": -0.1,
+        "ReloadSpeed": {
+            "value": 1.6,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.6,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ReloadSpeed",
             "ItemStat_MoveSpeed",
@@ -2756,8 +3335,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 0.5,
-        "ItemStat_JumpPower": -0.1,
+        "ProjectileScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "ItemStat_JumpPower"
@@ -2773,8 +3358,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.25,
-        "DisableADS": 1.0,
+        "Damage": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableADS"
@@ -2790,8 +3381,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "ItemStat_LootChanceMultiplier": -1.0,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ItemStat_LootChanceMultiplier"
@@ -2807,8 +3404,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 1.0,
-        "ProjectileMass": 20.0,
+        "ProjectileTimeScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ProjectileMass"
@@ -2824,8 +3427,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 25.0,
-        "ItemStat_LootChanceMultiplier": -0.35,
+        "Damage": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_LootChanceMultiplier"
@@ -2841,8 +3450,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 10.0,
-        "ProjectileTimeScale": -0.8,
+        "ProjectileBounce": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.8,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ProjectileTimeScale"
@@ -2858,7 +3473,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.2,
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier"
         ]
@@ -2873,8 +3491,14 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 6.0,
-        "KickMultiplier": 2.0,
+        "ProjectileBounce": {
+            "value": 6.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "KickMultiplier"
@@ -2890,8 +3514,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.4,
-        "ConsumeExtraAmmoChance": 0.2,
+        "MaxDurability": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ConsumeExtraAmmoChance"
@@ -2907,8 +3537,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.25,
-        "ProjectileScale": -1.0,
+        "KickMultiplier": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ProjectileScale": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ProjectileScale"
@@ -2924,8 +3560,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 30.0,
-        "ProjectileTimeScale": -0.3,
+        "Damage": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileTimeScale"
@@ -2941,8 +3583,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.5,
-        "ReloadSpeed": -0.25,
+        "Spread": {
+            "value": -0.5,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ReloadSpeed"
@@ -2958,8 +3606,14 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": 1.25,
-        "ConsumeAmmoChance": -0.2,
+        "KickMultiplier": {
+            "value": 1.25,
+            "isMultiplier": true
+        },
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ConsumeAmmoChance"
@@ -2975,9 +3629,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -15.0,
-        "ProjectileDrag": 7.0,
-        "ReloadSpeed": 1.2,
+        "Damage": {
+            "value": -15.0,
+            "isMultiplier": false
+        },
+        "ProjectileDrag": {
+            "value": 7.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 1.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileDrag",
@@ -2994,8 +3657,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.4,
-        "ProjectileMass": 15.0,
+        "ConsumeAmmoChance": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "ProjectileMass"
@@ -3011,8 +3680,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -2.0,
-        "ConsumeExtraAmmoChance": 0.3,
+        "Spread": {
+            "value": -2.0,
+            "isMultiplier": false
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ConsumeExtraAmmoChance"
@@ -3028,8 +3703,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 25.0,
-        "RPM": -0.25,
+        "Damage": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "RPM"
@@ -3045,8 +3726,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.45,
-        "MaxDurability": -0.1,
+        "KickMultiplier": {
+            "value": -0.45,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "MaxDurability"
@@ -3062,9 +3749,18 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.7,
-        "ProjectileAmount": 2.0,
-        "Spread": 0.4,
+        "Damage": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -3081,8 +3777,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 1.3,
-        "ConsumeExtraAmmoChance": 0.3,
+        "ReloadSpeed": {
+            "value": 1.3,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ReloadSpeed",
             "ConsumeExtraAmmoChance"
@@ -3098,8 +3800,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.1,
-        "DisableLootMoney": 1.0,
+        "CritChance": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "DisableLootMoney"
@@ -3115,8 +3823,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.35,
-        "ReloadSpeed": -0.3,
+        "KickMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ReloadSpeed"
@@ -3132,8 +3846,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "Damage": -25.0,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -25.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "Damage"
@@ -3149,8 +3869,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.4,
-        "KickMultiplier": 1.5,
+        "MaxDurability": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 1.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "KickMultiplier"
@@ -3166,8 +3892,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 2.0,
-        "DisableLootOrgans": 1.0,
+        "ProjectileBounce": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "DisableLootOrgans"
@@ -3183,8 +3915,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ItemStat_JumpPower": -1.0,
-        "ConsumeAmmoChance": -0.2,
+        "ItemStat_JumpPower": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ItemStat_JumpPower",
             "ConsumeAmmoChance"
@@ -3200,8 +3938,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 20.0,
-        "KickMultiplier": 0.5,
+        "Damage": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "KickMultiplier"
@@ -3217,7 +3961,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.2,
+        "RPM": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM"
         ]
@@ -3232,8 +3979,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 1.0,
-        "MaxDurability": -0.15,
+        "ReloadSpeed": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ReloadSpeed",
             "MaxDurability"
@@ -3249,9 +4002,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileAmount": 1.0,
-        "ReloadSpeed": -0.5,
-        "Spread": 0.7,
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileAmount",
             "ReloadSpeed",
@@ -3268,8 +4030,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.2,
-        "DisableLootMoney": 1.0,
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "DisableLootMoney"
@@ -3285,7 +4053,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.2,
+        "Damage": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage"
         ]
@@ -3300,8 +4071,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.7,
-        "ItemStat_MoveSpeed": -0.25,
+        "ProjectileTimeScale": {
+            "value": 0.7,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ItemStat_MoveSpeed"
@@ -3317,8 +4094,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 3.0,
-        "ConsumeExtraAmmoChance": 0.3,
+        "ProjectilePenetration": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ConsumeExtraAmmoChance"
@@ -3334,8 +4117,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.5,
-        "ItemStat_LootChanceMultiplier": -0.25,
+        "ProjectileTimeScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ItemStat_LootChanceMultiplier"
@@ -3351,8 +4140,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 20.0,
-        "ReloadSpeed": -0.25,
+        "Damage": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -3368,8 +4163,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.15,
-        "ItemStat_MoveSpeed": -0.1,
+        "ConsumeAmmoChance": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "ItemStat_MoveSpeed"
@@ -3385,9 +4186,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 40.0,
-        "ProjectileMass": 10.0,
-        "ProjectileScale": 0.5,
+        "Damage": {
+            "value": 40.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileMass",
@@ -3404,8 +4214,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 2.0,
-        "Spread": 1.0,
+        "ProjectileBounce": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "Spread"
@@ -3421,8 +4237,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.6,
-        "Damage": -15.0,
+        "ProjectileTimeScale": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "Damage"
@@ -3438,8 +4260,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.15,
-        "ItemStat_LootChanceMultiplier": -0.25,
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ItemStat_LootChanceMultiplier"
@@ -3455,8 +4283,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.45,
-        "Damage": -0.08,
+        "KickMultiplier": {
+            "value": -0.45,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.08,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "Damage"
@@ -3472,7 +4306,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.2,
+        "MaxDurability": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability"
         ]
@@ -3487,9 +4324,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 4.0,
-        "ProjectileScale": -50.0,
-        "Damage": -0.5,
+        "ProjectileBounce": {
+            "value": 4.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": -50.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ProjectileScale",
@@ -3506,8 +4352,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.3,
-        "DisableADS": 1.0,
+        "MaxDurability": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "DisableADS"
@@ -3523,8 +4375,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "Damage": -0.2,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "Damage"
@@ -3540,8 +4398,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.62,
-        "DisableADS": 1.0,
+        "KickMultiplier": {
+            "value": -0.62,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "DisableADS"
@@ -3557,8 +4421,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 20.0,
-        "DisableLootOrgans": 1.0,
+        "Damage": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableLootOrgans"
@@ -3574,8 +4444,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.5,
-        "ItemStat_JumpPower": -0.2,
+        "ProjectileTimeScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ItemStat_JumpPower"
@@ -3591,7 +4467,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale"
         ]
@@ -3606,7 +4485,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 1.0,
+        "ProjectileBounce": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce"
         ]
@@ -3621,8 +4503,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.2,
-        "DisableLootMoney": 1.0,
+        "Damage": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableLootMoney"
@@ -3638,8 +4526,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 1.0,
-        "RPM": -0.5,
+        "ProjectileTimeScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "RPM"
@@ -3655,7 +4549,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.15,
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance"
         ]
@@ -3670,8 +4567,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.1,
-        "ProjectileScale": -0.5,
+        "CritChance": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "ProjectileScale": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ProjectileScale"
@@ -3687,8 +4590,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.6,
-        "RPM": -0.2,
+        "ReloadSpeed": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ReloadSpeed",
             "RPM"
@@ -3704,7 +4613,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.75,
+        "Spread": {
+            "value": -0.5,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread"
         ]
@@ -3719,8 +4631,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.5,
-        "ProjectileTimeScale": -0.2,
+        "KickMultiplier": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ProjectileTimeScale"
@@ -3736,9 +4654,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.6,
-        "ProjectileMass": 10.0,
-        "ProjectileScale": 0.5,
+        "Damage": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileMass",
@@ -3755,8 +4682,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.3,
-        "DisableADS": 1.0,
+        "RPM": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "RPM",
             "DisableADS"
@@ -3772,8 +4705,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ItemStat_JumpPower": -0.3,
-        "ReloadSpeed": 0.8,
+        "ItemStat_JumpPower": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ItemStat_JumpPower",
             "ReloadSpeed"
@@ -3789,8 +4728,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "DisableADS": 1.0,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "DisableADS"
@@ -3806,8 +4751,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 3.0,
-        "MaxDurability": -0.3,
+        "ProjectileScale": {
+            "value": 3.0,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "MaxDurability"
@@ -3823,8 +4774,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "Spread": 2.0,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "Spread"
@@ -3840,8 +4797,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "ProjectileTimeScale": -0.5,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ProjectileTimeScale"
@@ -3857,8 +4820,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.5,
-        "ReloadSpeed": -0.15,
+        "ProjectileTimeScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ReloadSpeed"
@@ -3874,8 +4843,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "ReloadSpeed": -0.25,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ReloadSpeed"
@@ -3891,8 +4866,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "DisableLootOrgans": 1.0,
-        "ReloadSpeed": 0.6,
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
         "displayFields": [
             "DisableLootOrgans",
             "ReloadSpeed"
@@ -3908,8 +4889,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 3.0,
-        "Damage": -0.3,
+        "ProjectilePenetration": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "Damage"
@@ -3925,8 +4912,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.4,
-        "ProjectileTimeScale": -0.2,
+        "RPM": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ProjectileTimeScale"
@@ -3942,8 +4935,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 2.0,
-        "DisableADS": 1.0,
+        "ProjectileScale": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileScale",
             "DisableADS"
@@ -3959,8 +4958,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "KickMultiplier": 0.5,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "KickMultiplier"
@@ -3976,8 +4981,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.25,
-        "DisableLootOrgans": 1.0,
+        "RPM": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "RPM",
             "DisableLootOrgans"
@@ -3993,11 +5004,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": -0.9,
-        "ProjectileAmount": 3.0,
-        "Damage": -0.3,
-        "ProjectileDrag": 40.0,
-        "Spread": 4.0,
+        "ProjectileTimeScale": {
+            "value": -0.9,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 3.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ProjectileDrag": {
+            "value": 40.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 4.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ProjectileAmount",
@@ -4016,8 +5042,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.2,
-        "ConsumeAmmoChance": -0.3,
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "ConsumeAmmoChance": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ConsumeAmmoChance"
@@ -4033,8 +5065,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.45,
-        "ItemStat_MoveSpeed": -0.2,
+        "MaxDurability": {
+            "value": 0.45,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ItemStat_MoveSpeed"
@@ -4050,8 +5088,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.22,
-        "DisableLootOrgans": 1.0,
+        "Damage": {
+            "value": 0.22,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableLootOrgans"
@@ -4067,8 +5111,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.5,
-        "DisableLootMoney": 1.0,
+        "Spread": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "DisableLootMoney"
@@ -4084,8 +5134,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -2.0,
-        "KickMultiplier": 1.0,
+        "Spread": {
+            "value": -2.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "KickMultiplier"
@@ -4101,8 +5157,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.5,
-        "RPM": -0.25,
+        "Spread": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "RPM"
@@ -4118,8 +5180,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.25,
-        "RPM": -0.2,
+        "Damage": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "RPM"
@@ -4135,9 +5203,18 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.4,
-        "ProjectileMass": 40.0,
-        "ProjectileTimeScale": 1.0,
+        "Damage": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 40.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileMass",
@@ -4154,8 +5231,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "ItemStat_MoveSpeed": -0.15,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ItemStat_MoveSpeed"
@@ -4171,8 +5254,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.65,
-        "Spread": 3.0,
+        "KickMultiplier": {
+            "value": -0.65,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "Spread"
@@ -4188,8 +5277,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "RPM": -0.25,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "RPM"
@@ -4205,9 +5300,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMass": 20.0,
-        "ProjectileTimeScale": -0.2,
-        "Damage": 35.0,
+        "ProjectileMass": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": 35.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileMass",
             "ProjectileTimeScale",
@@ -4224,8 +5328,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.5,
-        "MaxDurability": -0.25,
+        "Damage": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "MaxDurability"
@@ -4241,8 +5351,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.25,
-        "ConsumeExtraAmmoChance": 0.2,
+        "CritChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ConsumeExtraAmmoChance"
@@ -4258,8 +5374,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "ItemStat_JumpPower": -0.3,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ItemStat_JumpPower"
@@ -4275,8 +5397,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.9,
-        "Damage": -0.2,
+        "Spread": {
+            "value": -0.9,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "Damage"
@@ -4292,8 +5420,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "KickMultiplier": 1.0,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "KickMultiplier"
@@ -4309,8 +5443,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "ItemStat_LootChanceMultiplier": -0.5,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "ItemStat_LootChanceMultiplier"
@@ -4326,8 +5466,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 5.0,
-        "RPM": -0.5,
+        "ProjectileBounce": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "RPM"
@@ -4343,8 +5489,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.1,
-        "ReloadSpeed": 1.1,
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 1.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -4360,8 +5512,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ItemStat_MoveSpeed": -0.4,
-        "ReloadSpeed": 1.4,
+        "ItemStat_MoveSpeed": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 1.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ItemStat_MoveSpeed",
             "ReloadSpeed"
@@ -4377,8 +5535,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.5,
-        "Damage": -0.25,
+        "MaxDurability": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "Damage"
@@ -4394,8 +5558,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.4,
-        "ConsumeExtraAmmoChance": 0.3,
+        "Damage": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ConsumeExtraAmmoChance"
@@ -4411,7 +5581,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ReloadSpeed": 0.4,
+        "ReloadSpeed": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ReloadSpeed"
         ]
@@ -4426,8 +5599,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.35,
-        "RPM": -0.25,
+        "MaxDurability": {
+            "value": 0.35,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "RPM"
@@ -4443,8 +5622,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.2,
-        "ItemStat_LootChanceMultiplier": -0.5,
+        "Damage": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_LootChanceMultiplier"
@@ -4460,8 +5645,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -0.6,
-        "ItemStat_MoveSpeed": -0.15,
+        "Spread": {
+            "value": -0.8,
+            "isMultiplier": false
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_MoveSpeed"
@@ -4477,8 +5668,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.3,
-        "ProjectileScale": -0.7,
+        "RPM": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "ProjectileScale": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ProjectileScale"
@@ -4494,8 +5691,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 2.0,
-        "ItemStat_LootChanceMultiplier": -0.5,
+        "ProjectilePenetration": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ItemStat_LootChanceMultiplier"
@@ -4511,8 +5714,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -2.0,
-        "ProjectileMass": 15.0,
+        "Spread": {
+            "value": -2.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "ProjectileMass"
@@ -4528,8 +5737,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 3.0,
-        "DisableLootOrgans": 1.0,
+        "ProjectileScale": {
+            "value": 3.0,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileScale",
             "DisableLootOrgans"
@@ -4545,8 +5760,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.3,
-        "ItemStat_JumpPower": -0.2,
+        "KickMultiplier": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ItemStat_JumpPower"
@@ -4562,8 +5783,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 4.0,
-        "ConsumeExtraAmmoChance": 0.25,
+        "ProjectileBounce": {
+            "value": 4.0,
+            "isMultiplier": false
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "ConsumeExtraAmmoChance"
@@ -4579,8 +5806,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.3,
-        "ItemStat_LootChanceMultiplier": -0.2,
+        "KickMultiplier": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ItemStat_LootChanceMultiplier"
@@ -4596,8 +5829,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 1.5,
-        "DisableADS": 1.0,
+        "ProjectileTimeScale": {
+            "value": 1.5,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "DisableADS"
@@ -4613,8 +5852,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.25,
-        "ProjectileMass": 10.0,
+        "CritChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "ProjectileMass"
@@ -4630,9 +5875,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeExtraAmmoChance": 1.0,
-        "ProjectileAmount": 1.0,
-        "Spread": 1.0,
+        "ConsumeExtraAmmoChance": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeExtraAmmoChance",
             "ProjectileAmount",
@@ -4649,9 +5903,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.1,
-        "ReloadSpeed": 1.2,
-        "ProjectileMass": 5.0,
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 1.2,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ReloadSpeed",
@@ -4668,8 +5931,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 3.0,
-        "MaxDurability": -0.15,
+        "ProjectileBounce": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileBounce",
             "MaxDurability"
@@ -4685,8 +5954,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 3.0,
-        "DisableADS": 1.0,
+        "ProjectileBounce": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "DisableADS"
@@ -4702,8 +5977,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.45,
-        "Damage": -10.0,
+        "KickMultiplier": {
+            "value": -0.45,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "Damage"
@@ -4719,10 +6000,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.1,
-        "ProjectileAmount": 2.0,
-        "DisableLootMoney": 1.0,
-        "Spread": 4.4,
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 4.4,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -4740,8 +6033,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "DisableADS": 1.0,
-        "ReloadSpeed": 0.75,
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 0.75,
+            "isMultiplier": true
+        },
         "displayFields": [
             "DisableADS",
             "ReloadSpeed"
@@ -4757,10 +6056,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.8,
-        "ItemStat_MoveSpeed": -0.9,
-        "ItemStat_JumpPower": -0.9,
-        "KickMultiplier": -0.85,
+        "RPM": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.9,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.9,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.85,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ItemStat_MoveSpeed",
@@ -4778,9 +6089,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.25,
-        "ProjectileAmount": 1.0,
-        "Spread": 0.7,
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -4797,8 +6117,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.3,
-        "ProjectileTimeScale": -0.3,
+        "MaxDurability": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ProjectileTimeScale"
@@ -4814,8 +6140,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 35.0,
-        "DisableADS": 1.0,
+        "Damage": {
+            "value": 35.0,
+            "isMultiplier": false
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableADS"
@@ -4831,8 +6163,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileBounce": 4.0,
-        "ProjectileMass": 10.0,
+        "ProjectileBounce": {
+            "value": 4.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileBounce",
             "ProjectileMass"
@@ -4848,8 +6186,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.8,
-        "Damage": -0.15,
+        "ProjectileTimeScale": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "Damage"
@@ -4865,8 +6209,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "MaxDurability": -0.15,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "MaxDurability"
@@ -4882,8 +6232,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.25,
-        "ItemStat_JumpPower": -0.15,
+        "Damage": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_JumpPower"
@@ -4899,9 +6255,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -30.0,
-        "ProjectileAmount": 1.0,
-        "Spread": 0.7,
+        "Damage": {
+            "value": -30.0,
+            "isMultiplier": false
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -4918,8 +6283,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "DisableLootMoney": 1.0,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileScale",
             "DisableLootMoney"
@@ -4935,8 +6306,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 1.0,
-        "RPM": -0.1,
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "RPM"
@@ -4952,8 +6329,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.35,
-        "DisableLootMoney": 1.0,
+        "ProjectileTimeScale": {
+            "value": 0.35,
+            "isMultiplier": true
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "DisableLootMoney"
@@ -4969,10 +6352,22 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.2,
-        "ProjectileMass": 10.0,
-        "ProjectileBounce": 1.0,
-        "ProjectileBounciness": 0.8,
+        "Damage": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounce": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounciness": {
+            "value": 0.8,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileMass",
@@ -4990,8 +6385,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.3,
-        "DisableADS": 1.0,
+        "CritChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "DisableADS"
@@ -5007,8 +6408,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.3,
-        "ItemStat_JumpPower": -0.2,
+        "MaxDurability": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ItemStat_JumpPower"
@@ -5024,7 +6431,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
+        "ProjectilePenetration": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration"
         ]
@@ -5039,8 +6449,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "Damage": -0.15,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "Damage"
@@ -5056,11 +6472,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.25,
-        "ProjectileAmount": 2.0,
-        "KickMultiplier": 2.0,
-        "DisableADS": 1.0,
-        "Spread": 1.5,
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 1.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5079,8 +6510,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.2,
-        "ProjectileTimeScale": -0.6,
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.6,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ProjectileTimeScale"
@@ -5096,8 +6533,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 30.0,
-        "ItemStat_JumpPower": -0.15,
+        "Damage": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "ItemStat_JumpPower": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_JumpPower"
@@ -5113,8 +6556,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 1.0,
-        "DisableLootMoney": 1.0,
+        "ProjectilePenetration": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "DisableLootMoney"
@@ -5130,8 +6579,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.3,
-        "DisableLootOrgans": 1.0,
+        "KickMultiplier": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "KickMultiplier",
             "DisableLootOrgans"
@@ -5147,8 +6602,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.25,
-        "Damage": -15.0,
+        "CritChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "Damage"
@@ -5164,8 +6625,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 3.0,
-        "MaxDurability": -0.25,
+        "ProjectilePenetration": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectilePenetration",
             "MaxDurability"
@@ -5181,7 +6648,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 15.0,
+        "Damage": {
+            "value": 15.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage"
         ]
@@ -5196,8 +6666,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 30.0,
-        "ConsumeExtraAmmoChance": 0.3,
+        "Damage": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ConsumeExtraAmmoChance"
@@ -5213,10 +6689,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.2,
-        "ProjectileAmount": 1.0,
-        "Spread": 1.7,
-        "ProjectileScale": -0.7,
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.7,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5234,10 +6722,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.25,
-        "ProjectileAmount": 1.0,
-        "ItemStat_LootChanceMultiplier": -1.0,
-        "Spread": 0.7,
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5255,8 +6755,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 2.0,
-        "ItemStat_MoveSpeed": -0.25,
+        "ProjectileScale": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "ItemStat_MoveSpeed"
@@ -5272,8 +6778,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.2,
-        "MaxDurability": -0.15,
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "MaxDurability"
@@ -5289,8 +6801,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -15.0,
-        "ReloadSpeed": 1.0,
+        "Damage": {
+            "value": -15.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -5306,8 +6824,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileScale": 2.0,
-        "ReloadSpeed": -0.5,
+        "ProjectileScale": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileScale",
             "ReloadSpeed"
@@ -5323,8 +6847,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.5,
-        "KickMultiplier": 0.3,
+        "ProjectileTimeScale": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "KickMultiplier"
@@ -5340,8 +6870,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.5,
-        "ReloadSpeed": -0.75,
+        "RPM": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.75,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ReloadSpeed"
@@ -5357,8 +6893,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.35,
-        "ItemStat_MoveSpeed": -0.15,
+        "KickMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ItemStat_MoveSpeed"
@@ -5374,10 +6916,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "AimMovingBonus": -2.0,
-        "ProjectileAmount": 3.0,
-        "Damage": -0.4,
-        "Spread": 2.1,
+        "AimMovingBonus": {
+            "value": -2.0,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 3.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 2.1,
+            "isMultiplier": false
+        },
         "displayFields": [
             "AimMovingBonus",
             "ProjectileAmount",
@@ -5395,8 +6949,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.3,
-        "Spread": 1.0,
+        "MaxDurability": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "Spread"
@@ -5412,8 +6972,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.5,
-        "ItemStat_LootChanceMultiplier": -1.0,
+        "MaxDurability": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_LootChanceMultiplier": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ItemStat_LootChanceMultiplier"
@@ -5429,8 +6995,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.7,
-        "MaxDurability": -0.1,
+        "ProjectileTimeScale": {
+            "value": 0.7,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "MaxDurability"
@@ -5446,11 +7018,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.25,
-        "ProjectileAmount": 3.0,
-        "KickMultiplier": 2.0,
-        "Spread": 2.0,
-        "MaxDurability": -0.75,
+        "Damage": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 3.0,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.75,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5469,8 +7056,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.15,
-        "KickMultiplier": 0.4,
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "KickMultiplier"
@@ -5486,8 +7079,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "DisableLootMoney": 1.0,
-        "ReloadSpeed": 0.5,
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "DisableLootMoney",
             "ReloadSpeed"
@@ -5503,8 +7102,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.6,
-        "ProjectileMass": 10.0,
+        "RPM": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "RPM",
             "ProjectileMass"
@@ -5520,9 +7125,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.15,
-        "ProjectileAmount": 1.0,
-        "Spread": 1.7,
+        "Damage": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.7,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5539,8 +7153,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": -0.45,
-        "RPM": -0.3,
+        "KickMultiplier": {
+            "value": -0.45,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "RPM"
@@ -5556,8 +7176,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.2,
-        "ReloadSpeed": -0.25,
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChance",
             "ReloadSpeed"
@@ -5573,8 +7199,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.3,
-        "ItemStat_MoveSpeed": -0.15,
+        "Damage": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ItemStat_MoveSpeed"
@@ -5590,8 +7222,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 30.0,
-        "DisableLootMoney": 1.0,
+        "Damage": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "DisableLootMoney": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "DisableLootMoney"
@@ -5607,8 +7245,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTimeScale": 0.8,
-        "Spread": 1.0,
+        "ProjectileTimeScale": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "Spread"
@@ -5624,8 +7268,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": 0.3,
-        "ReloadSpeed": -0.25,
+        "Damage": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Damage",
             "ReloadSpeed"
@@ -5641,8 +7291,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.4,
-        "ProjectileTimeScale": -0.4,
+        "ConsumeAmmoChance": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "ProjectileTimeScale"
@@ -5658,8 +7314,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.45,
-        "ReloadSpeed": -0.5,
+        "MaxDurability": {
+            "value": 0.45,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ReloadSpeed"
@@ -5675,8 +7337,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePenetration": 4.0,
-        "ProjectileMass": 20.0,
+        "ProjectilePenetration": {
+            "value": 4.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePenetration",
             "ProjectileMass"
@@ -5692,8 +7360,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.25,
-        "ProjectileScale": -0.3,
+        "MaxDurability": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "ProjectileScale": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "MaxDurability",
             "ProjectileScale"
@@ -5709,8 +7383,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ConsumeAmmoChance": -0.2,
-        "DisableLootOrgans": 1.0,
+        "ConsumeAmmoChance": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ConsumeAmmoChance",
             "DisableLootOrgans"
@@ -5726,8 +7406,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "KickMultiplier": 1.0,
-        "ReloadSpeed": 0.8,
+        "KickMultiplier": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "ReloadSpeed": {
+            "value": 0.8,
+            "isMultiplier": true
+        },
         "displayFields": [
             "KickMultiplier",
             "ReloadSpeed"
@@ -5743,8 +7429,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "RPM": 0.6,
-        "ItemStat_MoveSpeed": -0.3,
+        "RPM": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "RPM",
             "ItemStat_MoveSpeed"
@@ -5760,8 +7452,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 0,
-        "MaxDurability": 0.3,
-        "Damage": -10.0,
+        "MaxDurability": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "MaxDurability",
             "Damage"
@@ -5777,10 +7475,22 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.1,
-        "ProjectileAmount": 2.0,
-        "ProjectileMass": 10.0,
-        "Spread": 1.4,
+        "Damage": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ProjectileAmount": {
+            "value": 2.0,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 1.4,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileAmount",
@@ -5798,8 +7508,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": -2.0,
-        "MaxDurability": -0.25,
+        "Spread": {
+            "value": -2.0,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "MaxDurability"
@@ -5815,8 +7531,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "CritChance": 0.15,
-        "DisableLootOrgans": 1.0,
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "DisableLootOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "CritChance",
             "DisableLootOrgans"
@@ -5832,9 +7554,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMass": 35.0,
-        "ProjectileTimeScale": -0.2,
-        "Damage": 0.6,
+        "ProjectileMass": {
+            "value": 35.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": 0.6,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileMass",
             "ProjectileTimeScale",
@@ -5851,8 +7582,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Damage": -0.8,
-        "ProjectileApplyBlind": 1.0,
+        "Damage": {
+            "value": -0.8,
+            "isMultiplier": true
+        },
+        "ProjectileApplyBlind": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Damage",
             "ProjectileApplyBlind"
@@ -5868,9 +7605,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitLava": 1.0,
-        "ProjectileMass": 25.0,
-        "ProjectileTurnOffBulletHoles": 1.0,
+        "ProjectileOnHitLava": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitLava",
             "ProjectileMass",
@@ -5887,7 +7633,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyCharm": 1.0,
+        "ProjectileApplyCharm": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyCharm"
         ]
@@ -5902,10 +7651,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileFrostPuddle": 1.0,
-        "EnchantmentSolidFreezeChance": 0.1,
-        "ProjectileMass": 40.0,
-        "ProjectileTurnOffBulletHoles": 1.0,
+        "ProjectileFrostPuddle": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "EnchantmentSolidFreezeChance": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 40.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileFrostPuddle",
             "EnchantmentSolidFreezeChance",
@@ -5923,7 +7684,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyFear": 1.0,
+        "ProjectileApplyFear": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyFear"
         ]
@@ -5938,12 +7702,30 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "EnchantmentDamageAoe": 0.1,
-        "EnchantmentBlindAoe": 1.0,
-        "DurabilityLoss": 2.5,
-        "EnchantmentSelfDamage": 10.0,
-        "EnchantmentRemoveBullets": 1.0,
-        "ProjectileHoly": 1.0,
+        "EnchantmentDamageAoe": {
+            "value": 0.1,
+            "isMultiplier": false
+        },
+        "EnchantmentBlindAoe": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 2.5,
+            "isMultiplier": false
+        },
+        "EnchantmentSelfDamage": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "EnchantmentRemoveBullets": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileHoly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "EnchantmentDamageAoe",
             "EnchantmentBlindAoe",
@@ -5963,7 +7745,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitCorrosiveBlood": 1.0,
+        "ProjectileOnHitCorrosiveBlood": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitCorrosiveBlood"
         ]
@@ -5978,8 +7763,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileSacrifice": 0.05,
-        "Damage": 1.0,
+        "ProjectileSacrifice": {
+            "value": 0.05,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileSacrifice",
             "Damage"
@@ -5995,9 +7786,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitStormSurge": 1.0,
-        "ProjectileMass": 25.0,
-        "ProjectileTurnOffBulletHoles": 1.0,
+        "ProjectileOnHitStormSurge": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitStormSurge",
             "ProjectileMass",
@@ -6014,20 +7814,62 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": 1.5,
-        "ProjectileTimeScale": -0.7,
-        "ProjectileMoveAsSpray": 10.0,
-        "ProjectileDrag": 8.0,
-        "ProjectileForce": -0.6,
-        "ProjectileTurnOffBulletHoles": 1.0,
-        "Damage": -0.86,
-        "ProjectilePesticide": 1.0,
-        "ProjectileLifeTime": 0.8,
-        "ProjectileBounciness": -0.8,
-        "ProjectileDisableDamageComponentEffects": 1.0,
-        "ProjectileBounce": 1.0,
-        "ShootEffectSoundOnly": 1.0,
-        "ImpactEffectSoundOnly": 1.0,
+        "Spread": {
+            "value": 1.5,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "ProjectileMoveAsSpray": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileDrag": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "ProjectileForce": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.86,
+            "isMultiplier": false
+        },
+        "ProjectilePesticide": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileLifeTime": {
+            "value": 0.8,
+            "isMultiplier": false
+        },
+        "ProjectileBounciness": {
+            "value": -0.8,
+            "isMultiplier": false
+        },
+        "ProjectileDisableDamageComponentEffects": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounce": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "ProjectileTimeScale",
@@ -6055,10 +7897,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileKinematicForce": 7500.0,
-        "ProjectileMass": 10.0,
-        "ProjectileVisualRocket": 1.0,
-        "ProjectileOnHitExplosionRPG": 1.0,
+        "ProjectileKinematicForce": {
+            "value": 7500.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileVisualRocket": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileOnHitExplosionRPG": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileKinematicForce",
             "ProjectileMass",
@@ -6076,7 +7930,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyElectricity": 1.0,
+        "ProjectileApplyElectricity": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyElectricity"
         ]
@@ -6091,20 +7948,62 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Spread": 1.5,
-        "ProjectileTimeScale": -0.7,
-        "ProjectileMoveAsSpray": 10.0,
-        "ProjectileDrag": 8.0,
-        "ProjectileForce": -0.6,
-        "ProjectileTurnOffBulletHoles": 1.0,
-        "Damage": -0.86,
-        "ProjectileFlameThrower": 1.0,
-        "ProjectileLifeTime": 0.8,
-        "ProjectileBounciness": -0.8,
-        "ProjectileDisableDamageComponentEffects": 1.0,
-        "ProjectileBounce": 1.0,
-        "ShootEffectSoundOnly": 1.0,
-        "ImpactEffectSoundOnly": 1.0,
+        "Spread": {
+            "value": 1.5,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "ProjectileMoveAsSpray": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileDrag": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "ProjectileForce": {
+            "value": -0.6,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.86,
+            "isMultiplier": false
+        },
+        "ProjectileFlameThrower": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileLifeTime": {
+            "value": 0.8,
+            "isMultiplier": false
+        },
+        "ProjectileBounciness": {
+            "value": -0.8,
+            "isMultiplier": false
+        },
+        "ProjectileDisableDamageComponentEffects": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounce": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "ProjectileTimeScale",
@@ -6132,11 +8031,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMoveAsLight": 1.0,
-        "ProjectilePenetration": 999.0,
-        "ProjectilePenetrationDamageMultiplier": 0.5,
-        "ProjectileHolyFire": 1.0,
-        "RPM": -0.5,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectilePenetration": {
+            "value": 999.0,
+            "isMultiplier": false
+        },
+        "ProjectilePenetrationDamageMultiplier": {
+            "value": 0.5,
+            "isMultiplier": false
+        },
+        "ProjectileHolyFire": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileMoveAsLight",
             "ProjectilePenetration",
@@ -6155,9 +8069,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMoveAsLight": 1.0,
-        "ProjectileThunderbolt": 1.0,
-        "RPM": -0.5,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileThunderbolt": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileMoveAsLight",
             "ProjectileThunderbolt",
@@ -6174,7 +8097,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyFire": 1.0,
+        "ProjectileApplyFire": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyFire"
         ]
@@ -6189,7 +8115,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyFrost": 1.0,
+        "ProjectileApplyFrost": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyFrost"
         ]
@@ -6204,7 +8133,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyPoison": 1.0,
+        "ProjectileApplyPoison": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyPoison"
         ]
@@ -6219,7 +8151,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectilePrism": 1.0,
+        "ProjectilePrism": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectilePrism"
         ]
@@ -6234,7 +8169,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyCrusader": 1.0,
+        "ProjectileApplyCrusader": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyCrusader"
         ]
@@ -6249,7 +8187,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyPetrification": 10.0,
+        "ProjectileApplyPetrification": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyPetrification"
         ]
@@ -6264,10 +8205,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitOil": 1.0,
-        "ProjectileApplyOil": 1.0,
-        "ProjectileMass": 25.0,
-        "ProjectileTurnOffBulletHoles": 1.0,
+        "ProjectileOnHitOil": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyOil": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 25.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitOil",
             "ProjectileApplyOil",
@@ -6285,7 +8238,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyVoodoo": 1.0,
+        "ProjectileApplyVoodoo": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyVoodoo"
         ]
@@ -6300,7 +8256,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyRoot": 20.0,
+        "ProjectileApplyRoot": {
+            "value": 20.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyRoot"
         ]
@@ -6315,11 +8274,26 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileTurnOffBulletHoles": 1.0,
-        "ProjectileApplyWet": 100.0,
-        "Damage": -0.99,
-        "ProjectileOnHitWater": 1.0,
-        "ProjectileMass": 5.0,
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyWet": {
+            "value": 100.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.99,
+            "isMultiplier": true
+        },
+        "ProjectileOnHitWater": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileMass": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTurnOffBulletHoles",
             "ProjectileApplyWet",
@@ -6338,7 +8312,10 @@
         "includedInDemo": 1,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileApplyStun": 1.0,
+        "ProjectileApplyStun": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileApplyStun"
         ]
@@ -6353,7 +8330,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitAftershock": 1.0,
+        "ProjectileOnHitAftershock": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitAftershock"
         ]
@@ -6368,11 +8348,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "EnchantmentIncreasedHeadshotDamage": 3.0,
-        "EnchantmentAlwaysSpawnOrgans": 1.0,
-        "DurabilityLoss": 3.5,
-        "ProjectileMoveAsLight": 1.0,
-        "ProjectileToxicLobotomy": 1.0,
+        "EnchantmentIncreasedHeadshotDamage": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "EnchantmentAlwaysSpawnOrgans": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 3.5,
+            "isMultiplier": false
+        },
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileToxicLobotomy": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "EnchantmentIncreasedHeadshotDamage",
             "EnchantmentAlwaysSpawnOrgans",
@@ -6391,7 +8386,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitCorpseExplosion": 1.0,
+        "ProjectileOnHitCorpseExplosion": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitCorpseExplosion"
         ]
@@ -6406,11 +8404,26 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileDark": 50.0,
-        "ProjectileChaosStrike": 3.0,
-        "ProjectileApplyStun": 1.0,
-        "EnchantmentSwapUnits": 1.0,
-        "ProjectileScale": 1.0,
+        "ProjectileDark": {
+            "value": 50.0,
+            "isMultiplier": false
+        },
+        "ProjectileChaosStrike": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyStun": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "EnchantmentSwapUnits": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileDark",
             "ProjectileChaosStrike",
@@ -6429,8 +8442,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitNoxiosaCloud": 1.0,
-        "ProjectileTurnOffBulletHoles": 1.0,
+        "ProjectileOnHitNoxiosaCloud": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitNoxiosaCloud",
             "ProjectileTurnOffBulletHoles"
@@ -6446,10 +8465,22 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMoveAsLight": 1.0,
-        "ProjectilePenetration": 999.0,
-        "ProjectilePenetrationDamageMultiplier": -0.5,
-        "RPM": -0.5,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectilePenetration": {
+            "value": 999.0,
+            "isMultiplier": false
+        },
+        "ProjectilePenetrationDamageMultiplier": {
+            "value": -0.5,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "ProjectileMoveAsLight",
             "ProjectilePenetration",
@@ -6467,9 +8498,18 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "Homing": 1.0,
-        "ProjectileTimeScale": -0.9,
-        "DurabilityLoss": 2.0,
+        "Homing": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.9,
+            "isMultiplier": true
+        },
+        "DurabilityLoss": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Homing",
             "ProjectileTimeScale",
@@ -6486,7 +8526,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitChainLightning": 1.0,
+        "ProjectileOnHitChainLightning": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitChainLightning"
         ]
@@ -6501,7 +8544,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileOnHitExplosion": 1.0,
+        "ProjectileOnHitExplosion": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileOnHitExplosion"
         ]
@@ -6513,9 +8559,18 @@
         "artwork": "-6523685177888385431",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.2,
-        "KickMultiplier": -0.2,
-        "DisableMuzzleFlash": 1.0,
+        "Spread": {
+            "value": -0.2,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "DisableMuzzleFlash": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "KickMultiplier",
@@ -6529,8 +8584,14 @@
         "artwork": "1966380055875612481",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.15,
-        "KickMultiplier": -0.2,
+        "Spread": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "KickMultiplier"
@@ -6543,9 +8604,18 @@
         "artwork": "-5124885586185063123",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.1,
-        "ItemStat_MoveSpeed": -0.05,
-        "ProjectileTimeScale": 0.1,
+        "Spread": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.05,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_MoveSpeed",
@@ -6559,9 +8629,18 @@
         "artwork": "4577440764623185384",
         "basePrice": 740,
         "itemQuality": 2,
-        "Silenced": 1.0,
-        "CritChance": 0.25,
-        "RPM": -0.15,
+        "Silenced": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "CritChance": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Silenced",
             "CritChance",
@@ -6575,8 +8654,14 @@
         "artwork": "-6186660835014919552",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.15,
-        "KickMultiplier": -0.25,
+        "Spread": {
+            "value": -0.15,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "KickMultiplier"
@@ -6589,10 +8674,22 @@
         "artwork": "-5510339320352151025",
         "basePrice": 580,
         "itemQuality": 2,
-        "Silenced": 1.0,
-        "CritChance": 0.1,
-        "KickMultiplier": -0.2,
-        "RPM": -0.1,
+        "Silenced": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "CritChance": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Silenced",
             "CritChance",
@@ -6607,8 +8704,14 @@
         "artwork": "3890306923534608493",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.15,
-        "KickMultiplier": -0.2,
+        "Spread": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "KickMultiplier"
@@ -6621,9 +8724,18 @@
         "artwork": "-3687804267120903982",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.25,
-        "ItemStat_MoveSpeed": -0.1,
-        "ProjectileTimeScale": 0.25,
+        "Spread": {
+            "value": -0.25,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_MoveSpeed",
@@ -6637,8 +8749,14 @@
         "artwork": "7230912563220082973",
         "basePrice": 300,
         "itemQuality": 0,
-        "Spread": 0.1,
-        "MaxDurability": 0.15,
+        "Spread": {
+            "value": 0.1,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "MaxDurability"
@@ -6651,9 +8769,18 @@
         "artwork": "-1355909169371700941",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.5,
-        "ItemStat_MoveSpeed": -0.2,
-        "ProjectileTimeScale": 0.4,
+        "Spread": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": 0.4,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "ItemStat_MoveSpeed",
@@ -6667,8 +8794,14 @@
         "artwork": "-9203944371227568660",
         "basePrice": 480,
         "itemQuality": 2,
-        "Spread": -0.2,
-        "MaxDurability": 0.2,
+        "Spread": {
+            "value": -0.2,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Spread",
             "MaxDurability"
@@ -6681,11 +8814,26 @@
         "artwork": "3914630196852052575",
         "basePrice": 550,
         "itemQuality": 2,
-        "Silenced": 1.0,
-        "CritChance": 0.15,
-        "Damage": 0.15,
-        "MaxDurability": -0.1,
-        "Spread": 0.25,
+        "Silenced": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "CritChance": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
+        "MaxDurability": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Silenced",
             "CritChance",
@@ -6701,10 +8849,22 @@
         "artwork": "5886219657383400021",
         "basePrice": 890,
         "itemQuality": 2,
-        "Silenced": 1.0,
-        "CritChance": 0.2,
-        "KickMultiplier": -0.1,
-        "RPM": -0.1,
+        "Silenced": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "KickMultiplier": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
+        "RPM": {
+            "value": -0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "Silenced",
             "CritChance",
@@ -6719,7 +8879,10 @@
         "artwork": "5796012905325947917",
         "basePrice": 320,
         "itemQuality": 1,
-        "CritChanceADS": 0.15,
+        "CritChanceADS": {
+            "value": 0.15,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6731,7 +8894,10 @@
         "artwork": "6443706946140132359",
         "basePrice": 230,
         "itemQuality": 1,
-        "CritChanceADS": 0.1,
+        "CritChanceADS": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6743,7 +8909,10 @@
         "artwork": "7258268435393088281",
         "basePrice": 280,
         "itemQuality": 2,
-        "CritChanceADS": 0.1,
+        "CritChanceADS": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6755,7 +8924,10 @@
         "artwork": "1789054952220704182",
         "basePrice": 700,
         "itemQuality": 2,
-        "CritChanceADS": 0.3,
+        "CritChanceADS": {
+            "value": 0.3,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6767,7 +8939,10 @@
         "artwork": "-8145290925924978714",
         "basePrice": 500,
         "itemQuality": 2,
-        "CritChanceADS": 0.2,
+        "CritChanceADS": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6779,7 +8954,10 @@
         "artwork": "-2918123608943852815",
         "basePrice": 550,
         "itemQuality": 2,
-        "CritChanceADS": 0.25,
+        "CritChanceADS": {
+            "value": 0.25,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6791,7 +8969,10 @@
         "artwork": "2468179558144936237",
         "basePrice": 500,
         "itemQuality": 2,
-        "CritChanceADS": 0.2,
+        "CritChanceADS": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
         "displayFields": [
             "CritChanceADS"
         ]
@@ -6803,7 +8984,10 @@
         "artwork": "7549716684504455345",
         "basePrice": 280,
         "itemQuality": 1,
-        "AimMovingBonus": 0.5,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "AimMovingBonus"
         ]
@@ -6815,7 +8999,10 @@
         "artwork": "-3366462249123805282",
         "basePrice": 280,
         "itemQuality": 1,
-        "AimMovingBonus": 0.5,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "AimMovingBonus"
         ]
@@ -6827,7 +9014,10 @@
         "artwork": "-438756156728800351",
         "basePrice": 500,
         "itemQuality": 1,
-        "AimMovingBonus": 0.5,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
         "displayFields": [
             "AimMovingBonus"
         ]
@@ -6839,9 +9029,18 @@
         "artwork": "3049222403220594135",
         "basePrice": 680,
         "itemQuality": 1,
-        "FullAuto": -1.0,
-        "Damage": 0.1,
-        "Spread": -0.1,
+        "FullAuto": {
+            "value": -1.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": 0.1,
+            "isMultiplier": true
+        },
+        "Spread": {
+            "value": -0.1,
+            "isMultiplier": false
+        },
         "displayFields": [
             "FullAuto",
             "Damage",
@@ -6855,7 +9054,10 @@
         "artwork": "3710197744637175818",
         "basePrice": 680,
         "itemQuality": 1,
-        "FullAuto": 1.0,
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "FullAuto"
         ]

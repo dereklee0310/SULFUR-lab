@@ -15737,7 +15737,7 @@
         "recipeName": "Recipe_Jam_2",
         "name": "Item_JamUnsweetened",
         "quantity": 1,
-        "artwork": "5821576994495228222",
+        "artwork": "-761874004575287855",
         "itemsNeeded": [
             {
                 "name": "Item_Berries",
@@ -15752,7 +15752,7 @@
         "recipeName": "Recipe_Jam_3",
         "name": "Item_JamUnsweetened",
         "quantity": 2,
-        "artwork": "5821576994495228222",
+        "artwork": "-761874004575287855",
         "itemsNeeded": [
             {
                 "name": "Item_Berries",
@@ -16192,7 +16192,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -16212,7 +16212,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -16232,7 +16232,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -16252,7 +16252,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -19877,7 +19877,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -19902,7 +19902,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -19927,7 +19927,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -19952,7 +19952,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20137,7 +20137,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20162,7 +20162,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20187,7 +20187,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20212,7 +20212,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20397,7 +20397,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20422,7 +20422,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20447,7 +20447,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -20472,7 +20472,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 2,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             },
             {
                 "name": "Item_Sugar",
@@ -31612,7 +31612,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             }
         ],
         "newPrice": 260,
@@ -31637,7 +31637,7 @@
             {
                 "name": "Item_JamUnsweetened",
                 "quantity": 1,
-                "artwork": "5821576994495228222"
+                "artwork": "-761874004575287855"
             }
         ],
         "newPrice": 260,
@@ -42572,5 +42572,25 @@
         ],
         "newPrice": 250,
         "oldPrice": 200
+    },
+    {
+        "recipeName": "Recipe_FragGrenade_7",
+        "name": "Weapon_PineappleGrenade",
+        "quantity": 2,
+        "artwork": "5248330494893015826",
+        "itemsNeeded": [
+            {
+                "name": "Item_MetalScrap",
+                "quantity": 2,
+                "artwork": "3071159641959592919"
+            },
+            {
+                "name": "Item_Solution",
+                "quantity": 1,
+                "artwork": "6482550251302839458"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 240
     }
 ]
