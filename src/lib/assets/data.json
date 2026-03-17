@@ -3584,7 +3584,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Spread": {
-            "value": -0.5,
+            "value": -0.7,
             "isMultiplier": false
         },
         "ReloadSpeed": {
@@ -5158,7 +5158,7 @@
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
         "Spread": {
-            "value": -0.6,
+            "value": -0.7,
             "isMultiplier": false
         },
         "RPM": {
