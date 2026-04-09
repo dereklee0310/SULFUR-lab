@@ -27,7 +27,7 @@
 	const navItemStyle = navigationMenuTriggerStyle({ class: 'h-14 text-lg' });
 	const iconStyle = 'h-6 fill-current';
 
-	const GAME_VERSION = "v0.15.6"
+	const GAME_VERSION = "v0.15.7"
 
 	const LANGUAGES: Record<string, string> = {
 		en: 'English',
