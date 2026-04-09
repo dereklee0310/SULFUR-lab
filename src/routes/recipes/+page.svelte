@@ -15,7 +15,6 @@
 	import recipeDataList from '$lib/assets/recipes.json';
 
 	let searchQuery = $state('');
-	let activeSearch = $state('');
 
 	// Pagination State
 	let currentPage = $state(1);
@@ -32,20 +31,9 @@
 		}
 	});
 
-	let searchTimer: ReturnType<typeof setTimeout>;
-	function handleSearchInput(e: Event) {
-		const target = e.target as HTMLInputElement;
-		searchQuery = target.value;
-
-		clearTimeout(searchTimer);
-		searchTimer = setTimeout(() => {
-			activeSearch = searchQuery;
-		}, 300);
-	}
-
 	// Reset to page 1 whenever the search query changes
 	$effect(() => {
-		activeSearch;
+		searchQuery;
 		currentPage = 1;
 	});
 
@@ -72,7 +60,7 @@
 	);
 
 	const searchResults = $derived.by(() => {
-		const query = activeSearch.trim();
+		const query = searchQuery.trim();
 		return query === '' ? localizedRecipeDataList : fuse.search(query).map((r) => r.item);
 	});
 
@@ -140,7 +128,6 @@
 		<InputGroup.Input
 			placeholder={$_('pages.build.search')}
 			bind:value={searchQuery}
-			oninput={handleSearchInput}
 		/>
 		<InputGroup.Addon align="inline-end">
 			<InputGroup.Button>

@@ -124,7 +124,6 @@
 	let showAttachment = $state(true);
 	let sortBy = $state('default');
 	let searchQuery = $state('');
-	let activeSearch = $state('');
 
 	// History (Undo/Redo) State
 	let undoStack = $state<ItemData[][]>([]);
@@ -151,7 +150,7 @@
 	});
 
 	const searchResults = $derived.by(() => {
-		const query = activeSearch.trim();
+		const query = searchQuery.trim();
 		const filters = { showWeapon, showChamberChisel, showEnchantment, showAttachment };
 
 		let results = query === '' ? localizedItemDataList : fuse.search(query).map((r) => r.item);
@@ -251,7 +250,6 @@
 			}
 		}
 		selectedItems.set(item.id, item);
-		activeSearch = '';
 		searchQuery = '';
 	}
 
@@ -264,21 +262,9 @@
 		}
 	}
 
-	// Search Handlers
-	let searchTimer: ReturnType<typeof setTimeout>;
-	function handleSearchInput(e: Event) {
-		const target = e.target as HTMLInputElement;
-		searchQuery = target.value;
-
-		clearTimeout(searchTimer);
-		searchTimer = setTimeout(() => {
-			activeSearch = searchQuery;
-		}, 300);
-	}
 
 	function selectFirstResult() {
-		activeSearch = searchQuery;
-		if (activeSearch.length > 0 && searchResults.length > 0) {
+		if (searchQuery.length > 0 && searchResults.length > 0) {
 			handleItemClick(searchResults[0]);
 		}
 	}
@@ -562,7 +548,6 @@
 						<InputGroup.Input
 							placeholder={$_('pages.build.search')}
 							bind:value={searchQuery}
-							oninput={handleSearchInput}
 							onkeydown={(e) => e.key === 'Enter' && selectFirstResult()}
 						/>
 						<InputGroup.Addon align="inline-end">
