@@ -8873,6 +8873,21 @@
         ]
     },
     {
+        "id": "-5782105468785929435",
+        "m_Name": "Attachment_A12CMuzzleBrake",
+        "type": "muzzle",
+        "artwork": "5039157506368197168",
+        "basePrice": 480,
+        "itemQuality": 2,
+        "KickMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KickMultiplier"
+        ]
+    },
+    {
         "id": "-9222654412570265538",
         "m_Name": "Attachment_ReflexSight",
         "type": "scope",
