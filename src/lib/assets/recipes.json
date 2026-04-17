@@ -16626,12 +16626,12 @@
     {
         "recipeName": "Recipe_Jello 5",
         "name": "Item_Jello",
-        "quantity": 3,
+        "quantity": 5,
         "artwork": "-8653834650077850287",
         "itemsNeeded": [
             {
                 "name": "Item_FatbergChunk",
-                "quantity": 2,
+                "quantity": 3,
                 "artwork": "2551009402558895804"
             },
             {
@@ -16640,13 +16640,13 @@
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 270,
-        "oldPrice": 160
+        "newPrice": 450,
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Jello 6",
         "name": "Item_Jello",
-        "quantity": 3,
+        "quantity": 5,
         "artwork": "-8653834650077850287",
         "itemsNeeded": [
             {
@@ -16656,32 +16656,32 @@
             },
             {
                 "name": "Item_Sugar",
-                "quantity": 2,
+                "quantity": 3,
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 270,
-        "oldPrice": 160
+        "newPrice": 450,
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Jello 7",
         "name": "Item_Jello",
-        "quantity": 4,
+        "quantity": 6,
         "artwork": "-8653834650077850287",
         "itemsNeeded": [
             {
                 "name": "Item_FatbergChunk",
-                "quantity": 4,
+                "quantity": 3,
                 "artwork": "2551009402558895804"
             },
             {
                 "name": "Item_Sugar",
-                "quantity": 4,
+                "quantity": 3,
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 360,
-        "oldPrice": 320
+        "newPrice": 540,
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_KidneyPie_1 1",
@@ -42592,5 +42592,140 @@
         ],
         "newPrice": 400,
         "oldPrice": 240
+    },
+    {
+        "recipeName": "Recipe_Pilk",
+        "name": "Item_Pilk",
+        "quantity": 1,
+        "artwork": "8774508945336480324",
+        "itemsNeeded": [
+            {
+                "name": "Item_MilkBlue",
+                "quantity": 1,
+                "artwork": "-7453886484582297559"
+            },
+            {
+                "name": "Item_SulfCola",
+                "quantity": 1,
+                "artwork": "3619831582933252452"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 340
+    },
+    {
+        "recipeName": "Recipe_Pilk2",
+        "name": "Item_Pilk",
+        "quantity": 1,
+        "artwork": "8774508945336480324",
+        "itemsNeeded": [
+            {
+                "name": "Item_MilkGreen",
+                "quantity": 1,
+                "artwork": "-1859587392189770639"
+            },
+            {
+                "name": "Item_SulfCola",
+                "quantity": 1,
+                "artwork": "3619831582933252452"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 340
+    },
+    {
+        "recipeName": "Recipe_Pilk3",
+        "name": "Item_Pilk",
+        "quantity": 1,
+        "artwork": "8774508945336480324",
+        "itemsNeeded": [
+            {
+                "name": "Item_MilkRed",
+                "quantity": 1,
+                "artwork": "-7247210019374005315"
+            },
+            {
+                "name": "Item_SulfCola",
+                "quantity": 1,
+                "artwork": "3619831582933252452"
+            }
+        ],
+        "newPrice": 400,
+        "oldPrice": 340
+    },
+    {
+        "recipeName": "Recipe_SulfCola_1",
+        "name": "Item_SulfCola",
+        "quantity": 3,
+        "artwork": "3619831582933252452",
+        "itemsNeeded": [
+            {
+                "name": "Item_BottledWater",
+                "quantity": 1,
+                "artwork": "-7066971589872746693"
+            },
+            {
+                "name": "Item_Sugar",
+                "quantity": 1,
+                "artwork": "-760002536937637001"
+            },
+            {
+                "name": "Item_LizardBladder",
+                "quantity": 1,
+                "artwork": "-6548577578586404959"
+            }
+        ],
+        "newPrice": 900,
+        "oldPrice": 370
+    },
+    {
+        "recipeName": "Recipe_SulfCola_2",
+        "name": "Item_SulfCola",
+        "quantity": 3,
+        "artwork": "3619831582933252452",
+        "itemsNeeded": [
+            {
+                "name": "Item_MineralWater",
+                "quantity": 1,
+                "artwork": "634777362706650203"
+            },
+            {
+                "name": "Item_Sugar",
+                "quantity": 1,
+                "artwork": "-760002536937637001"
+            },
+            {
+                "name": "Item_LizardBladder",
+                "quantity": 1,
+                "artwork": "-6548577578586404959"
+            }
+        ],
+        "newPrice": 900,
+        "oldPrice": 450
+    },
+    {
+        "recipeName": "Recipe_SulfCola_3",
+        "name": "Item_SulfCola",
+        "quantity": 5,
+        "artwork": "3619831582933252452",
+        "itemsNeeded": [
+            {
+                "name": "Item_HolyWater",
+                "quantity": 1,
+                "artwork": "8470882321417267426"
+            },
+            {
+                "name": "Item_Sugar",
+                "quantity": 1,
+                "artwork": "-760002536937637001"
+            },
+            {
+                "name": "Item_LizardBladder",
+                "quantity": 1,
+                "artwork": "-6548577578586404959"
+            }
+        ],
+        "newPrice": 1500,
+        "oldPrice": 830
     }
 ]
