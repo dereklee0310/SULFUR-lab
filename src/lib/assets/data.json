@@ -684,6 +684,46 @@
         ]
     },
     {
+        "id": "-4315275050514107715",
+        "m_Name": "Weapon_Blackwater",
+        "type": "weapon",
+        "artwork": "1566270000958079032",
+        "basePrice": 3200,
+        "itemQuality": 3,
+        "Durability": 2500.0,
+        "MagSize": 8,
+        "ReloadSpeed": 1.0,
+        "RPM": 120,
+        "Damage": "320",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.6,
+        "damageMultiplier": 1.0,
+        "Type": "Revolver",
+        "AmmoType": "50BMG",
+        "spreadPerCaliber": {
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
+        },
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "-4198653723984912414",
         "m_Name": "Weapon_Breacher8",
         "type": "weapon",
@@ -1516,6 +1556,46 @@
         ]
     },
     {
+        "id": "2458752178939558610",
+        "m_Name": "Weapon_TerrierURB",
+        "type": "weapon",
+        "artwork": "-7236485998518547756",
+        "basePrice": 3000,
+        "itemQuality": 0,
+        "Durability": 3700.0,
+        "MagSize": 14,
+        "ReloadSpeed": 1.0,
+        "RPM": 800,
+        "Damage": "104",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.0,
+        "damageMultiplier": 1.3,
+        "Type": "Pistol",
+        "AmmoType": "556",
+        "spreadPerCaliber": {
+            "9mm": 2.5,
+            "12Ga": 6.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
+        },
+        "Spread": 2.5,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "2663166665132341025",
         "m_Name": "Weapon_Dirk",
         "type": "weapon",
@@ -1835,6 +1915,46 @@
         "Spread": 10.0,
         "KickCompensation": {
             "value": 0.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
+        "id": "6039385645429025927",
+        "m_Name": "Weapon_SocomACR",
+        "type": "weapon",
+        "artwork": "-6020859697574936066",
+        "basePrice": 3500,
+        "itemQuality": 0,
+        "Durability": 4700.0,
+        "MagSize": 42,
+        "ReloadSpeed": 1.0,
+        "RPM": 900,
+        "Damage": "72",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.2,
+        "damageMultiplier": 1.0,
+        "Type": "AssaultRifle",
+        "AmmoType": "9mm",
+        "spreadPerCaliber": {
+            "9mm": 2.0,
+            "12Ga": 7.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
+        },
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.05,
             "isMultiplier": false
         },
         "displayFields": [
@@ -2397,7 +2517,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -2512,9 +2632,9 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
-            "value": 1.0,
+            "value": 2.0,
             "isMultiplier": true
         },
         "ConsumeExtraAmmoChance": {
@@ -2673,7 +2793,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -3334,9 +3454,9 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
-            "value": 0.5,
+            "value": 0.7,
             "isMultiplier": true
         },
         "ItemStat_JumpPower": {
@@ -4329,7 +4449,7 @@
             "isMultiplier": false
         },
         "ProjectileScale": {
-            "value": -50.0,
+            "value": -0.5,
             "isMultiplier": true
         },
         "Damage": {
@@ -4374,7 +4494,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -4466,9 +4586,9 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
-            "value": 1.0,
+            "value": 0.5,
             "isMultiplier": true
         },
         "displayFields": [
@@ -4750,7 +4870,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 3.0,
             "isMultiplier": true
@@ -4934,9 +5054,9 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
-            "value": 2.0,
+            "value": 1.5,
             "isMultiplier": true
         },
         "DisableADS": {
@@ -5024,12 +5144,17 @@
             "value": 4.0,
             "isMultiplier": false
         },
+        "ProjectileBehaviourTimeout": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileTimeScale",
             "ProjectileAmount",
             "Damage",
             "ProjectileDrag",
-            "Spread"
+            "Spread",
+            "ProjectileBehaviourTimeout"
         ]
     },
     {
@@ -5442,7 +5567,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -5736,7 +5861,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 3.0,
             "isMultiplier": true
@@ -6282,7 +6407,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -6305,7 +6430,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 1.0,
             "isMultiplier": true
@@ -6754,9 +6879,9 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
-            "value": 2.0,
+            "value": 3.0,
             "isMultiplier": true
         },
         "ItemStat_MoveSpeed": {
@@ -6823,7 +6948,7 @@
         "itemQuality": 2,
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
-        "CostsDurability": 1,
+        "CostsDurability": 0,
         "ProjectileScale": {
             "value": 2.0,
             "isMultiplier": true
@@ -7901,10 +8026,6 @@
             "value": 7500.0,
             "isMultiplier": false
         },
-        "ProjectileMass": {
-            "value": 10.0,
-            "isMultiplier": false
-        },
         "ProjectileVisualRocket": {
             "value": 1.0,
             "isMultiplier": false
@@ -7913,11 +8034,20 @@
             "value": 1.0,
             "isMultiplier": false
         },
+        "ProjectileForce": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "ProjectileGravityFactor": {
+            "value": -0.99,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileKinematicForce",
-            "ProjectileMass",
             "ProjectileVisualRocket",
-            "ProjectileOnHitExplosionRPG"
+            "ProjectileOnHitExplosionRPG",
+            "ProjectileForce",
+            "ProjectileGravityFactor"
         ]
     },
     {
@@ -8598,6 +8728,21 @@
         ]
     },
     {
+        "id": "-5782105468785929435",
+        "m_Name": "Attachment_A12CMuzzleBrake",
+        "type": "muzzle",
+        "artwork": "5039157506368197168",
+        "basePrice": 480,
+        "itemQuality": 2,
+        "KickMultiplier": {
+            "value": -0.35,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KickMultiplier"
+        ]
+    },
+    {
         "id": "-5101221962554921601",
         "m_Name": "Attachment_BarrelExtension2i",
         "type": "muzzle",
@@ -8873,21 +9018,6 @@
         ]
     },
     {
-        "id": "-5782105468785929435",
-        "m_Name": "Attachment_A12CMuzzleBrake",
-        "type": "muzzle",
-        "artwork": "5039157506368197168",
-        "basePrice": 480,
-        "itemQuality": 2,
-        "KickMultiplier": {
-            "value": -0.35,
-            "isMultiplier": true
-        },
-        "displayFields": [
-            "KickMultiplier"
-        ]
-    },
-    {
         "id": "-9222654412570265538",
         "m_Name": "Attachment_ReflexSight",
         "type": "scope",
@@ -8993,10 +9123,55 @@
         ]
     },
     {
+        "id": "-8968204534169103284",
+        "m_Name": "Attachment_LaserSightPoop",
+        "type": "laserSight",
+        "artwork": "-5935819850272473584",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "-8724145258091048590",
+        "m_Name": "Attachment_LaserSightLime",
+        "type": "laserSight",
+        "artwork": "-5489018880413534817",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "-6882808446690436849",
+        "m_Name": "Attachment_LaserSightBone",
+        "type": "laserSight",
+        "artwork": "809330562972172228",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
         "id": "-5303987779369274303",
         "m_Name": "Attachment_LaserSightRed",
         "type": "laserSight",
-        "artwork": "7549716684504455345",
+        "artwork": "-3462254986811436565",
         "basePrice": 280,
         "itemQuality": 1,
         "AimMovingBonus": {
@@ -9008,11 +9183,151 @@
         ]
     },
     {
+        "id": "-2831482495079702616",
+        "m_Name": "Attachment_LaserSightTangerine",
+        "type": "laserSight",
+        "artwork": "-8461949578965987943",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "-1381679016620401735",
+        "m_Name": "Attachment_LaserSightTeal",
+        "type": "laserSight",
+        "artwork": "-1846614037760994153",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "1584607694682272797",
+        "m_Name": "Attachment_LaserSightLightBlue",
+        "type": "laserSight",
+        "artwork": "4571828520004759800",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "5151483560683537523",
+        "m_Name": "Attachment_LaserSightGold",
+        "type": "laserSight",
+        "artwork": "4877240686590927006",
+        "basePrice": 10000,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "CritChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus",
+            "CritChance"
+        ]
+    },
+    {
         "id": "5403330774815341163",
         "m_Name": "Attachment_LaserSightGreen",
         "type": "laserSight",
-        "artwork": "-3366462249123805282",
+        "artwork": "3925127458613086044",
         "basePrice": 280,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "5671098610037425893",
+        "m_Name": "Attachment_LaserSightMagenta",
+        "type": "laserSight",
+        "artwork": "4186276879834383591",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "6008314411056764199",
+        "m_Name": "Attachment_LaserSightOrange",
+        "type": "laserSight",
+        "artwork": "-7546686742015684014",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "6021104623854554516",
+        "m_Name": "Attachment_LaserSightRosePink",
+        "type": "laserSight",
+        "artwork": "-376640255814871876",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "6214584098469938244",
+        "m_Name": "Attachment_LaserSightDenimBlue",
+        "type": "laserSight",
+        "artwork": "5640807161000467714",
+        "basePrice": 500,
+        "itemQuality": 1,
+        "AimMovingBonus": {
+            "value": 0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "AimMovingBonus"
+        ]
+    },
+    {
+        "id": "6820667425846088213",
+        "m_Name": "Attachment_LaserSightPurple",
+        "type": "laserSight",
+        "artwork": "-7043640399868890955",
+        "basePrice": 500,
         "itemQuality": 1,
         "AimMovingBonus": {
             "value": 0.5,
@@ -9026,7 +9341,7 @@
         "id": "8790050833368574094",
         "m_Name": "Attachment_LaserSightYellow",
         "type": "laserSight",
-        "artwork": "-438756156728800351",
+        "artwork": "2699297470660170247",
         "basePrice": 500,
         "itemQuality": 1,
         "AimMovingBonus": {

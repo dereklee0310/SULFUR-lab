@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.3] - 2026-04-17
+### Changed 
+- Keep up with "SKRIP'S UPDEET".
+
 ## [0.6.2] - 2026-04-10
 ### Changed 
 - Keep up with "Patch Notes 0.15.7".
