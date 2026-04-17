@@ -27,7 +27,7 @@
 	const navItemStyle = navigationMenuTriggerStyle({ class: 'h-14 text-lg' });
 	const iconStyle = 'h-6 fill-current';
 
-	const GAME_VERSION = "v0.15.7"
+	const GAME_VERSION = "SKRIP'S UPDEET"
 
 	const LANGUAGES: Record<string, string> = {
 		en: 'English',
@@ -172,7 +172,7 @@
 				{@render children()}
 			</main>
 			<footer class="w-full pb-4 text-center  text-muted-foreground">
-				<span>{$_('pages.footer.gameVersion')} {GAME_VERSION}</span>
+				<span>{$_('pages.footer.gameVersion')}: {GAME_VERSION}</span>
 			</footer>
 		</Tooltip.Provider>
 	{/if}
