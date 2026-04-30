@@ -684,46 +684,6 @@
         ]
     },
     {
-        "id": "-4315275050514107715",
-        "m_Name": "Weapon_Blackwater",
-        "type": "weapon",
-        "artwork": "1566270000958079032",
-        "basePrice": 3200,
-        "itemQuality": 3,
-        "Durability": 2500.0,
-        "MagSize": 8,
-        "ReloadSpeed": 1.0,
-        "RPM": 120,
-        "Damage": "320",
-        "ammoPerShot": 1,
-        "weaponTypeMultiplier": 1.6,
-        "damageMultiplier": 1.0,
-        "Type": "Revolver",
-        "AmmoType": "50BMG",
-        "spreadPerCaliber": {
-            "9mm": 2.0,
-            "12Ga": 5.0,
-            "556": 2.0,
-            "762": 2.0,
-            "50BMG": 2.0,
-            "EnergyCell": 2.0
-        },
-        "Spread": 2.0,
-        "KickCompensation": {
-            "value": 0.0,
-            "isMultiplier": false
-        },
-        "displayFields": [
-            "Type",
-            "AmmoType",
-            "Damage",
-            "RPM",
-            "MagSize",
-            "Spread",
-            "Durability"
-        ]
-    },
-    {
         "id": "-4198653723984912414",
         "m_Name": "Weapon_Breacher8",
         "type": "weapon",
@@ -8035,7 +7995,7 @@
             "isMultiplier": false
         },
         "ProjectileForce": {
-            "value": 8.0,
+            "value": 16.0,
             "isMultiplier": false
         },
         "ProjectileGravityFactor": {
