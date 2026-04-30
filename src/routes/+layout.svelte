@@ -27,7 +27,7 @@
 	const navItemStyle = navigationMenuTriggerStyle({ class: 'h-14 text-lg' });
 	const iconStyle = 'h-6 fill-current';
 
-	const GAME_VERSION = "SKRIP'S UPDEET"
+	const GAME_VERSION = "0.16.5"
 
 	const LANGUAGES: Record<string, string> = {
 		en: 'English',
