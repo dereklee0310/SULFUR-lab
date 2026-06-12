@@ -30,8 +30,7 @@ npm run dev -- --open
 
 ## License
 The source code in this repository is licensed under the GPLv3 License.  
-
-All rights to the data used in this repo belong to SULFUR. No copyright infringement intended
+All rights to the data used in this repo belong to SULFUR. No copyright infringement intended.
 
 ## Contact 
 dereklee0310@gmail.com
