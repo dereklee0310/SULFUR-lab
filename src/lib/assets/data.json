@@ -653,7 +653,7 @@
         "Durability": 3500.0,
         "MagSize": 5,
         "ReloadSpeed": 1.0,
-        "RPM": 480,
+        "RPM": 210,
         "Damage": "200",
         "ammoPerShot": 1,
         "weaponTypeMultiplier": 2.0,
@@ -671,6 +671,46 @@
         "Spread": 1.0,
         "KickCompensation": {
             "value": 0.35,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
+        "id": "-4315275050514107715",
+        "m_Name": "Weapon_Blackwater",
+        "type": "weapon",
+        "artwork": "-5546127610571523096",
+        "basePrice": 3200,
+        "itemQuality": 3,
+        "Durability": 3000.0,
+        "MagSize": 12,
+        "ReloadSpeed": 1.0,
+        "RPM": 200,
+        "Damage": "320",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.6,
+        "damageMultiplier": 1.0,
+        "Type": "Revolver",
+        "AmmoType": "50BMG",
+        "spreadPerCaliber": {
+            "9mm": 2.0,
+            "12Ga": 5.0,
+            "556": 2.0,
+            "762": 2.0,
+            "50BMG": 2.0,
+            "EnergyCell": 2.0
+        },
+        "Spread": 2.0,
+        "KickCompensation": {
+            "value": 0.0,
             "isMultiplier": false
         },
         "displayFields": [
@@ -1503,6 +1543,50 @@
         "Spread": 1.5,
         "KickCompensation": {
             "value": 0.62,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
+        "id": "2041154490032373731",
+        "m_Name": "Weapon_ChimeraRapid",
+        "type": "weapon",
+        "artwork": "3723572814800867045",
+        "basePrice": 4000,
+        "itemQuality": 2,
+        "Durability": 2800.0,
+        "MagSize": 22,
+        "ReloadSpeed": 2.0,
+        "RPM": 750,
+        "Damage": "88",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.0,
+        "damageMultiplier": 1.1,
+        "Type": "SMG",
+        "AmmoType": "556",
+        "spreadPerCaliber": {
+            "9mm": 3.0,
+            "12Ga": 7.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 2.5
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 3.0,
+        "KickCompensation": {
+            "value": 0.08,
             "isMultiplier": false
         },
         "displayFields": [
