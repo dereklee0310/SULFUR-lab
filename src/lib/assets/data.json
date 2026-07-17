@@ -44,6 +44,50 @@
         ]
     },
     {
+        "id": "-8708932860103998082",
+        "m_Name": "Weapon_CYB47",
+        "type": "weapon",
+        "artwork": "-980094636799546834",
+        "basePrice": 4500,
+        "itemQuality": 2,
+        "Durability": 4000.0,
+        "MagSize": 47,
+        "ReloadSpeed": 2.0,
+        "RPM": 500,
+        "Damage": "60",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.2,
+        "damageMultiplier": 1.0,
+        "Type": "AssaultRifle",
+        "AmmoType": "EnergyCell",
+        "spreadPerCaliber": {
+            "9mm": 2.5,
+            "12Ga": 2.5,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 1.0
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 1.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "-8514333140146387993",
         "m_Name": "Weapon_StarAndWitness",
         "type": "weapon",
@@ -256,6 +300,46 @@
         ]
     },
     {
+        "id": "-7775083011471268219",
+        "m_Name": "Weapon_DeathsToll",
+        "type": "weapon",
+        "artwork": "-8553937452534722373",
+        "basePrice": 7000,
+        "itemQuality": 3,
+        "Durability": 1000.0,
+        "MagSize": 4,
+        "ReloadSpeed": 1.0,
+        "RPM": 72,
+        "Damage": "192",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.6,
+        "damageMultiplier": 1.2,
+        "Type": "Revolver",
+        "AmmoType": "762",
+        "spreadPerCaliber": {
+            "9mm": 3.0,
+            "12Ga": 6.0,
+            "556": 3.0,
+            "762": 3.0,
+            "50BMG": 3.0,
+            "EnergyCell": 3.0
+        },
+        "Spread": 3.0,
+        "KickCompensation": {
+            "value": 0.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "-7550421235920442678",
         "m_Name": "Weapon_Socom9",
         "type": "weapon",
@@ -415,6 +499,50 @@
         "Spread": 2.5,
         "KickCompensation": {
             "value": 0.62,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
+        "id": "-6857189824403891717",
+        "m_Name": "Weapon_KleinBauer",
+        "type": "weapon",
+        "artwork": "4149174577054362676",
+        "basePrice": 4000,
+        "itemQuality": 3,
+        "Durability": 6500.0,
+        "MagSize": 138,
+        "ReloadSpeed": 2.0,
+        "RPM": 2400,
+        "Damage": "60",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.0,
+        "damageMultiplier": 1.0,
+        "Type": "Pistol",
+        "AmmoType": "9mm",
+        "spreadPerCaliber": {
+            "9mm": 5.0,
+            "12Ga": 12.0,
+            "556": 6.0,
+            "762": 7.0,
+            "50BMG": 12.0,
+            "EnergyCell": 4.0
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 5.0,
+        "KickCompensation": {
+            "value": 0.25,
             "isMultiplier": false
         },
         "displayFields": [
@@ -8477,6 +8605,29 @@
         ]
     },
     {
+        "id": "2651801915038961086",
+        "m_Name": "Enchantment_Pollen",
+        "type": "scroll",
+        "artwork": "3820381498762366372",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectilePollen": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectilePollen",
+            "DurabilityLoss"
+        ]
+    },
+    {
         "id": "3050561611956295302",
         "m_Name": "Enchantment_Earth",
         "type": "scroll",
@@ -8548,6 +8699,29 @@
             "DurabilityLoss",
             "ProjectileMoveAsLight",
             "ProjectileToxicLobotomy"
+        ]
+    },
+    {
+        "id": "4902580533179643919",
+        "m_Name": "Enchantment_FoulFate",
+        "type": "scroll",
+        "artwork": "1373177832042548105",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileFoulFate": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileFoulFate",
+            "DurabilityLoss"
         ]
     },
     {
@@ -8627,6 +8801,39 @@
         "displayFields": [
             "ProjectileOnHitNoxiosaCloud",
             "ProjectileTurnOffBulletHoles"
+        ]
+    },
+    {
+        "id": "6613746314450436757",
+        "m_Name": "Enchantment_SacredGround",
+        "type": "scroll",
+        "artwork": "2777700824956513495",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileSacredGround": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ExtraDamageGhost": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "DurabilityLoss": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileSacredGround",
+            "ExtraDamageGhost",
+            "Damage",
+            "DurabilityLoss"
         ]
     },
     {
