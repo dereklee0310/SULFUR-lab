@@ -42957,5 +42957,190 @@
         ],
         "newPrice": 1200,
         "oldPrice": 90
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Titanic",
+        "name": "Enchantment_Titanic",
+        "quantity": 1,
+        "artwork": "-1730748145208607129",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Dark",
+                "quantity": 1,
+                "artwork": "7954706189709371483"
+            },
+            {
+                "name": "Enchantment_Frost",
+                "quantity": 1,
+                "artwork": "6030167245860726887"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_SuperSoaker",
+        "name": "Enchantment_SuperSoaker",
+        "quantity": 1,
+        "artwork": "-5921058001094300940",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Water",
+                "quantity": 2,
+                "artwork": "161770587048742844"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_CryoRocketLauncher",
+        "name": "Enchantment_CryoRocketLauncher",
+        "quantity": 1,
+        "artwork": "3318290643828276921",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Earth",
+                "quantity": 1,
+                "artwork": "-5272188385312275718"
+            },
+            {
+                "name": "Enchantment_Frost",
+                "quantity": 1,
+                "artwork": "6030167245860726887"
+            }
+        ],
+        "newPrice": 2000,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_CryoSnakes",
+        "name": "Enchantment_CryoSnakes",
+        "quantity": 1,
+        "artwork": "5785321145632293454",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Poison",
+                "quantity": 1,
+                "artwork": "992235308759174831"
+            },
+            {
+                "name": "Enchantment_Frost",
+                "quantity": 1,
+                "artwork": "6030167245860726887"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_HolyWater",
+        "name": "Enchantment_HolyWater",
+        "quantity": 1,
+        "artwork": "6217620229616376927",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Light",
+                "quantity": 1,
+                "artwork": "2352091176121211133"
+            },
+            {
+                "name": "Enchantment_Water",
+                "quantity": 1,
+                "artwork": "161770587048742844"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Metamorph",
+        "name": "Enchantment_Metamorph",
+        "quantity": 1,
+        "artwork": "8198092330294418470",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Light",
+                "quantity": 1,
+                "artwork": "2352091176121211133"
+            },
+            {
+                "name": "Enchantment_Dark",
+                "quantity": 1,
+                "artwork": "7954706189709371483"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Steam",
+        "name": "Enchantment_Steam",
+        "quantity": 1,
+        "artwork": "-4462809445028334089",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Water",
+                "quantity": 1,
+                "artwork": "161770587048742844"
+            },
+            {
+                "name": "Enchantment_Fire",
+                "quantity": 1,
+                "artwork": "-5243967006889808548"
+            }
+        ],
+        "newPrice": 5000,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Vinesprout",
+        "name": "Enchantment_Vinesprout",
+        "quantity": 1,
+        "artwork": "-5835767850547281604",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Nature",
+                "quantity": 2,
+                "artwork": "2645463031653542284"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Beamgun",
+        "name": "Enchantment_Beamgun",
+        "quantity": 1,
+        "artwork": "-6545804748001289350",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Light",
+                "quantity": 1,
+                "artwork": "2352091176121211133"
+            },
+            {
+                "name": "Enchantment_Electricity",
+                "quantity": 1,
+                "artwork": "6759790169072894509"
+            }
+        ],
+        "newPrice": 1000,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Icebeam",
+        "name": "Enchantment_IceBeam",
+        "quantity": 1,
+        "artwork": "-7474716244491830299",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Frost",
+                "quantity": 2,
+                "artwork": "6030167245860726887"
+            }
+        ],
+        "newPrice": 1000,
+        "oldPrice": 2000
     }
 ]

@@ -27,7 +27,7 @@
 	const navItemStyle = navigationMenuTriggerStyle({ class: 'h-14 text-lg' });
 	const iconStyle = 'h-6 fill-current';
 
-	const GAME_VERSION = "0.18.5 (Qiosk's Plenty Update)"
+	const GAME_VERSION = "Dungeons & Magic"
 
 	const LANGUAGES: Record<string, string> = {
 		en: 'English',

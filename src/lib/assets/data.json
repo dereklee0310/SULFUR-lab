@@ -1056,6 +1056,50 @@
         ]
     },
     {
+        "id": "-2730233138851621686",
+        "m_Name": "Weapon_Mowlock",
+        "type": "weapon",
+        "artwork": "-4729540606827226103",
+        "basePrice": 2200,
+        "itemQuality": 2,
+        "Durability": 5000.0,
+        "MagSize": 20,
+        "ReloadSpeed": 2.0,
+        "RPM": 470,
+        "Damage": "66",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.0,
+        "damageMultiplier": 1.1,
+        "Type": "SMG",
+        "AmmoType": "9mm",
+        "spreadPerCaliber": {
+            "9mm": 2.5,
+            "12Ga": 6.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 2.5,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "-2022146966428072993",
         "m_Name": "Weapon_Beck",
         "type": "weapon",
@@ -2016,6 +2060,50 @@
         ]
     },
     {
+        "id": "5173014221556071075",
+        "m_Name": "Weapon_LilyOfTheNight",
+        "type": "weapon",
+        "artwork": "5704368812424735626",
+        "basePrice": 9000,
+        "itemQuality": 2,
+        "Durability": 1500.0,
+        "MagSize": 70,
+        "ReloadSpeed": 2.0,
+        "RPM": 850,
+        "Damage": "105",
+        "ammoPerShot": 1,
+        "weaponTypeMultiplier": 1.2,
+        "damageMultiplier": 1.1,
+        "Type": "AssaultRifle",
+        "AmmoType": "556",
+        "spreadPerCaliber": {
+            "9mm": 2.5,
+            "12Ga": 6.0,
+            "556": 2.5,
+            "762": 2.5,
+            "50BMG": 2.5,
+            "EnergyCell": 2.5
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": 2.5,
+        "KickCompensation": {
+            "value": 0.25,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "Type",
+            "AmmoType",
+            "Damage",
+            "RPM",
+            "MagSize",
+            "Spread",
+            "Durability"
+        ]
+    },
+    {
         "id": "5835261243184475534",
         "m_Name": "Weapon_M11Ramshack",
         "type": "weapon",
@@ -2150,10 +2238,10 @@
         "MagSize": 4,
         "ReloadSpeed": 1.0,
         "RPM": 80,
-        "Damage": "160",
+        "Damage": "200",
         "ammoPerShot": 1,
         "weaponTypeMultiplier": 1.6,
-        "damageMultiplier": 1.0,
+        "damageMultiplier": 1.25,
         "Type": "Revolver",
         "AmmoType": "762",
         "spreadPerCaliber": {
@@ -2443,6 +2531,29 @@
         "displayFields": [
             "RPM",
             "ConsumeExtraAmmoChance"
+        ]
+    },
+    {
+        "id": "-9028960151648853584",
+        "m_Name": "Enchantment_RiotOil",
+        "type": "oil",
+        "artwork": "1224314629169474042",
+        "basePrice": 520,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "Spread"
         ]
     },
     {
@@ -3281,6 +3392,29 @@
         ]
     },
     {
+        "id": "-6502943357732799142",
+        "m_Name": "Enchantment_ClashOil",
+        "type": "oil",
+        "artwork": "2854331488983869508",
+        "basePrice": 300,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "ItemStat_JumpPower": {
+            "value": -0.15,
+            "isMultiplier": true
+        },
+        "KnockbackPower": {
+            "value": 3.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ItemStat_JumpPower",
+            "KnockbackPower"
+        ]
+    },
+    {
         "id": "-6413907194714938380",
         "m_Name": "Enchantment_SlowPunchOil",
         "type": "oil",
@@ -3324,6 +3458,29 @@
         "displayFields": [
             "Damage",
             "ItemStat_MoveSpeed"
+        ]
+    },
+    {
+        "id": "-6351118319230927337",
+        "m_Name": "Enchantment_ShoveOil",
+        "type": "oil",
+        "artwork": "3737812235966145881",
+        "basePrice": 500,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -10.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "Damage"
         ]
     },
     {
@@ -3840,6 +3997,52 @@
         "displayFields": [
             "KickMultiplier",
             "ProjectileScale"
+        ]
+    },
+    {
+        "id": "-4734058056258628946",
+        "m_Name": "Enchantment_MuleOil",
+        "type": "oil",
+        "artwork": "-982809350046482269",
+        "basePrice": 800,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": 1.0,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "KickMultiplier"
+        ]
+    },
+    {
+        "id": "-4636757420733594643",
+        "m_Name": "Enchantment_JudoOil",
+        "type": "oil",
+        "artwork": "-8368243285423916081",
+        "basePrice": 800,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 12.0,
+            "isMultiplier": false
+        },
+        "ReloadSpeed": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "ReloadSpeed"
         ]
     },
     {
@@ -4377,6 +4580,34 @@
         ]
     },
     {
+        "id": "-3202481178425409386",
+        "m_Name": "Enchantment_MedicinBallOil",
+        "type": "oil",
+        "artwork": "7144755925148541142",
+        "basePrice": 800,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 15.0,
+            "isMultiplier": false
+        },
+        "ProjectileScale": {
+            "value": 5.0,
+            "isMultiplier": true
+        },
+        "ProjectileMass": {
+            "value": 30.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "ProjectileScale",
+            "ProjectileMass"
+        ]
+    },
+    {
         "id": "-3164141037654599618",
         "m_Name": "Enchantment_FarsightedOil",
         "type": "oil",
@@ -4607,6 +4838,29 @@
         ]
     },
     {
+        "id": "-2103943772194794218",
+        "m_Name": "Enchantment_SturdyOil",
+        "type": "oil",
+        "artwork": "-5888677362010261230",
+        "basePrice": 450,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "ItemStat_MoveSpeed": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "ItemStat_MoveSpeed"
+        ]
+    },
+    {
         "id": "-2094282167976586227",
         "m_Name": "Enchantment_FleaOil",
         "type": "oil",
@@ -4701,6 +4955,29 @@
         "displayFields": [
             "KickMultiplier",
             "DisableADS"
+        ]
+    },
+    {
+        "id": "-1892482446271695532",
+        "m_Name": "Enchantment_ExcessivePowderOil",
+        "type": "oil",
+        "artwork": "5877882157184513501",
+        "basePrice": 150,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "KnockbackPower": {
+            "value": 6.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "DurabilityLoss"
         ]
     },
     {
@@ -4965,6 +5242,29 @@
         ]
     },
     {
+        "id": "-1218643260221830861",
+        "m_Name": "Enchantment_FlatEnergyOil",
+        "type": "oil",
+        "artwork": "-1598114589607748488",
+        "basePrice": 400,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "Damage"
+        ]
+    },
+    {
         "id": "-1168808773233886212",
         "m_Name": "Enchantment_NoLookOil",
         "type": "oil",
@@ -5077,6 +5377,29 @@
         "displayFields": [
             "ProjectilePenetration",
             "Spread"
+        ]
+    },
+    {
+        "id": "-130082498453170751",
+        "m_Name": "Enchantment_KravMagaOil",
+        "type": "oil",
+        "artwork": "932292612992547850",
+        "basePrice": 500,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 6.0,
+            "isMultiplier": false
+        },
+        "DisableADS": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "DisableADS"
         ]
     },
     {
@@ -5396,6 +5719,29 @@
         "displayFields": [
             "Damage",
             "DisableLootOrgans"
+        ]
+    },
+    {
+        "id": "1513084796732543132",
+        "m_Name": "Enchantment_UntightenedScrewOil",
+        "type": "oil",
+        "artwork": "1146224825469748183",
+        "basePrice": 600,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "MaxDurability": {
+            "value": -0.2,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "MaxDurability"
         ]
     },
     {
@@ -6025,6 +6371,29 @@
         ]
     },
     {
+        "id": "3236314921943179691",
+        "m_Name": "Enchantment_ExcessiveForceOil",
+        "type": "oil",
+        "artwork": "1049340090463408414",
+        "basePrice": 400,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 6.0,
+            "isMultiplier": false
+        },
+        "ConsumeExtraAmmoChance": {
+            "value": 0.2,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "ConsumeExtraAmmoChance"
+        ]
+    },
+    {
         "id": "3648602857780564501",
         "m_Name": "Enchantment_SmashOil",
         "type": "oil",
@@ -6262,6 +6631,29 @@
         "displayFields": [
             "ProjectileBounce",
             "DisableADS"
+        ]
+    },
+    {
+        "id": "4313598769972150667",
+        "m_Name": "Enchantment_MooseOil",
+        "type": "oil",
+        "artwork": "-7488897359128621413",
+        "basePrice": 400,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "ProjectileTimeScale": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "ProjectileTimeScale"
         ]
     },
     {
@@ -6844,6 +7236,24 @@
         ]
     },
     {
+        "id": "5896265106405917645",
+        "m_Name": "Enchantment_KnockbackOil",
+        "type": "oil",
+        "artwork": "-3053841987113334148",
+        "basePrice": 300,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "KnockbackPower"
+        ]
+    },
+    {
         "id": "6074113185247653866",
         "m_Name": "Enchantment_SectOil",
         "type": "oil",
@@ -6977,6 +7387,29 @@
         ]
     },
     {
+        "id": "6679620950706331192",
+        "m_Name": "Enchantment_RamOil",
+        "type": "oil",
+        "artwork": "7305807559959938507",
+        "basePrice": 350,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 6.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.3,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "RPM"
+        ]
+    },
+    {
         "id": "6720195267649674287",
         "m_Name": "Enchantment_DivisionOil",
         "type": "oil",
@@ -7063,6 +7496,29 @@
         "displayFields": [
             "ProjectileScale",
             "ItemStat_MoveSpeed"
+        ]
+    },
+    {
+        "id": "6815807135739618152",
+        "m_Name": "Enchantment_MantisShrimpOil",
+        "type": "oil",
+        "artwork": "2262689907794674990",
+        "basePrice": 600,
+        "itemQuality": 2,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 0,
+        "KnockbackPower": {
+            "value": 15.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "KnockbackPower",
+            "RPM"
         ]
     },
     {
@@ -7990,6 +8446,29 @@
         ]
     },
     {
+        "id": "-7870517446341603983",
+        "m_Name": "Enchantment_Metamorph",
+        "type": "scroll",
+        "artwork": "8198092330294418470",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileMetamorph": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.9,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileMetamorph",
+            "Damage"
+        ]
+    },
+    {
         "id": "-7533236663659279110",
         "m_Name": "Enchantment_HolyPurge",
         "type": "scroll",
@@ -8048,6 +8527,34 @@
         },
         "displayFields": [
             "ProjectileOnHitCorrosiveBlood"
+        ]
+    },
+    {
+        "id": "-6959689695371585426",
+        "m_Name": "Enchantment_Titanic",
+        "type": "scroll",
+        "artwork": "-1730748145208607129",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileTitanic": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyFrost": {
+            "value": 100.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": -0.5,
+            "isMultiplier": true
+        },
+        "displayFields": [
+            "ProjectileTitanic",
+            "ProjectileApplyFrost",
+            "RPM"
         ]
     },
     {
@@ -8214,12 +8721,17 @@
             "value": -0.99,
             "isMultiplier": false
         },
+        "KnockbackPower": {
+            "value": -0.99,
+            "isMultiplier": false
+        },
         "displayFields": [
             "ProjectileKinematicForce",
             "ProjectileVisualRocket",
             "ProjectileOnHitExplosionRPG",
             "ProjectileForce",
-            "ProjectileGravityFactor"
+            "ProjectileGravityFactor",
+            "KnockbackPower"
         ]
     },
     {
@@ -8306,6 +8818,10 @@
             "value": 1.0,
             "isMultiplier": false
         },
+        "ProjectileTrailLength": {
+            "value": -0.5,
+            "isMultiplier": false
+        },
         "displayFields": [
             "Spread",
             "ProjectileTimeScale",
@@ -8320,7 +8836,8 @@
             "ProjectileDisableDamageComponentEffects",
             "ProjectileBounce",
             "ShootEffectSoundOnly",
-            "ImpactEffectSoundOnly"
+            "ImpactEffectSoundOnly",
+            "ProjectileTrailLength"
         ]
     },
     {
@@ -8462,6 +8979,240 @@
         ]
     },
     {
+        "id": "-1694391142866609325",
+        "m_Name": "Enchantment_SuperSoaker",
+        "type": "scroll",
+        "artwork": "-5921058001094300940",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": 9.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.99,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "DisableMuzzleFlash": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyWet": {
+            "value": 100.0,
+            "isMultiplier": false
+        },
+        "ConsumeAmmoChance": {
+            "value": -2.0,
+            "isMultiplier": true
+        },
+        "ProjectileSuperSoaker": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "KnockbackPower": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "DisableBloodOnHit": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileMoveAsLight",
+            "ProjectileBeam",
+            "FullAuto",
+            "RPM",
+            "Damage",
+            "Spread",
+            "KickMultiplier",
+            "DisableMuzzleFlash",
+            "ProjectileTurnOffBulletHoles",
+            "ShootEffectSoundOnly",
+            "ImpactEffectSoundOnly",
+            "ProjectileApplyWet",
+            "ConsumeAmmoChance",
+            "ProjectileSuperSoaker",
+            "KnockbackPower",
+            "DisableBloodOnHit"
+        ]
+    },
+    {
+        "id": "-1668312883262940063",
+        "m_Name": "Enchantment_Steam",
+        "type": "scroll",
+        "artwork": "-4462809445028334089",
+        "basePrice": 5000,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileSteam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileLifeTime": {
+            "value": 0.8,
+            "isMultiplier": false
+        },
+        "ProjectileDrag": {
+            "value": 8.0,
+            "isMultiplier": false
+        },
+        "KnockbackPower": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounce": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 5.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -1.0,
+            "isMultiplier": false
+        },
+        "ConsumeAmmoChance": {
+            "value": -1.0,
+            "isMultiplier": true
+        },
+        "ProjectileTimeScale": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "ProjectileMoveAsSpray": {
+            "value": 10.0,
+            "isMultiplier": false
+        },
+        "ProjectileForce": {
+            "value": -0.7,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBounciness": {
+            "value": -0.8,
+            "isMultiplier": false
+        },
+        "ProjectileDisableDamageComponentEffects": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "DurabilityLoss": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileSteam",
+            "ProjectileLifeTime",
+            "ProjectileDrag",
+            "KnockbackPower",
+            "ProjectileBounce",
+            "Spread",
+            "Damage",
+            "ConsumeAmmoChance",
+            "ProjectileTimeScale",
+            "ProjectileMoveAsSpray",
+            "ProjectileForce",
+            "ProjectileTurnOffBulletHoles",
+            "ProjectileBounciness",
+            "ProjectileDisableDamageComponentEffects",
+            "ShootEffectSoundOnly",
+            "ImpactEffectSoundOnly",
+            "DurabilityLoss"
+        ]
+    },
+    {
+        "id": "-1300082819606380772",
+        "m_Name": "Enchantment_HolyWater",
+        "type": "scroll",
+        "artwork": "6217620229616376927",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileOnAllyHitHeal": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileOnHitWater": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileHolyWater": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ExtraDamageGhost": {
+            "value": 51.2,
+            "isMultiplier": false
+        },
+        "DisableBloodOnHit": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileOnAllyHitHeal",
+            "ProjectileOnHitWater",
+            "ProjectileHolyWater",
+            "ExtraDamageGhost",
+            "DisableBloodOnHit",
+            "ProjectileTurnOffBulletHoles"
+        ]
+    },
+    {
         "id": "-806486676045059499",
         "m_Name": "Enchantment_Crusader",
         "type": "scroll",
@@ -8477,6 +9228,102 @@
         },
         "displayFields": [
             "ProjectileApplyCrusader"
+        ]
+    },
+    {
+        "id": "-780095535561068211",
+        "m_Name": "Enchantment_CryoSnakes",
+        "type": "scroll",
+        "artwork": "5785321145632293454",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileCryoSnakes": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileCryoSnakes"
+        ]
+    },
+    {
+        "id": "168369985252402054",
+        "m_Name": "Enchantment_IceBeam",
+        "type": "scroll",
+        "artwork": "-7474716244491830299",
+        "basePrice": 1000,
+        "itemQuality": 3,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": 9.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.9,
+            "isMultiplier": false
+        },
+        "ProjectileBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileIceBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileApplyFrost": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "DisableMuzzleFlash": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileMoveAsLight",
+            "FullAuto",
+            "RPM",
+            "Damage",
+            "ProjectileBeam",
+            "ProjectileIceBeam",
+            "ProjectileApplyFrost",
+            "KickMultiplier",
+            "DisableMuzzleFlash",
+            "ProjectileTurnOffBulletHoles",
+            "ShootEffectSoundOnly",
+            "ImpactEffectSoundOnly",
+            "Spread"
         ]
     },
     {
@@ -8549,6 +9396,74 @@
         ]
     },
     {
+        "id": "1128765639439501426",
+        "m_Name": "Enchantment_Beamgun",
+        "type": "scroll",
+        "artwork": "-6545804748001289350",
+        "basePrice": 1000,
+        "itemQuality": 3,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileMoveAsLight": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "FullAuto": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "RPM": {
+            "value": 9.0,
+            "isMultiplier": true
+        },
+        "Damage": {
+            "value": -0.9,
+            "isMultiplier": false
+        },
+        "ProjectileBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "KickMultiplier": {
+            "value": -0.7,
+            "isMultiplier": true
+        },
+        "DisableMuzzleFlash": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileTurnOffBulletHoles": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ShootEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ImpactEffectSoundOnly": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Spread": {
+            "value": 2.0,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileMoveAsLight",
+            "FullAuto",
+            "RPM",
+            "Damage",
+            "ProjectileBeam",
+            "KickMultiplier",
+            "DisableMuzzleFlash",
+            "ProjectileTurnOffBulletHoles",
+            "ShootEffectSoundOnly",
+            "ImpactEffectSoundOnly",
+            "Spread"
+        ]
+    },
+    {
         "id": "1176333135606722846",
         "m_Name": "Enchantment_Nature",
         "type": "scroll",
@@ -8580,10 +9495,6 @@
             "value": 1.0,
             "isMultiplier": false
         },
-        "ProjectileApplyWet": {
-            "value": 100.0,
-            "isMultiplier": false
-        },
         "Damage": {
             "value": -0.99,
             "isMultiplier": true
@@ -8598,7 +9509,6 @@
         },
         "displayFields": [
             "ProjectileTurnOffBulletHoles",
-            "ProjectileApplyWet",
             "Damage",
             "ProjectileOnHitWater",
             "ProjectileMass"
@@ -8625,6 +9535,39 @@
         "displayFields": [
             "ProjectilePollen",
             "DurabilityLoss"
+        ]
+    },
+    {
+        "id": "2963030902325712368",
+        "m_Name": "Enchantment_CryoRocketLauncher",
+        "type": "scroll",
+        "artwork": "3318290643828276921",
+        "basePrice": 2000,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileKinematicForce": {
+            "value": 7500.0,
+            "isMultiplier": false
+        },
+        "ProjectileVisualCryoRocket": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileForce": {
+            "value": 16.0,
+            "isMultiplier": false
+        },
+        "ProjectileGravityFactor": {
+            "value": -0.99,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileKinematicForce",
+            "ProjectileVisualCryoRocket",
+            "ProjectileForce",
+            "ProjectileGravityFactor"
         ]
     },
     {
@@ -8931,6 +9874,29 @@
         },
         "displayFields": [
             "ProjectileOnHitExplosion"
+        ]
+    },
+    {
+        "id": "8759769821324897011",
+        "m_Name": "Enchantment_Vinesprout",
+        "type": "scroll",
+        "artwork": "-5835767850547281604",
+        "basePrice": 3500,
+        "itemQuality": 4,
+        "includedInDemo": 0,
+        "includedInEarlyAccess": 1,
+        "CostsDurability": 1,
+        "ProjectileVinesprout": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "Damage": {
+            "value": -0.5,
+            "isMultiplier": false
+        },
+        "displayFields": [
+            "ProjectileVinesprout",
+            "Damage"
         ]
     },
     {

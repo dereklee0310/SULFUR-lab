@@ -5,21 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.9] - 2026-08-28
+### Changed 
+- Update to "Dungeons & Magic".
+
 ## [0.6.8] - 2026-07-17
 ### Changed 
-- Keep up with "Patch Notes 0.18.5 (Qiosk's Plenty Update)".
+- Update to "Patch Notes 0.18.5 (Qiosk's Plenty Update)".
 
 ## [0.6.7] - 2026-06-13
 ### Changed 
-- Keep up with "Patch Notes 0.17.4".
+- Update to "Patch Notes 0.17.4".
 
 ## [0.6.6] - 2026-05-08
 ### Changed 
-- Keep up with "Patch Notes 0.16.8".
+- Update to "Patch Notes 0.16.8".
 
 ## [0.6.5] - 2026-04-30
 ### Changed 
-- Keep up with "Patch Notes 0.16.5".
+- Update to "Patch Notes 0.16.5".
 
 ## [0.6.4] - 2026-04-17
 ### Changed 
@@ -27,11 +31,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.6.3] - 2026-04-17
 ### Changed 
-- Keep up with "SKRIP'S UPDEET".
+- Update to "SKRIP'S UPDEET".
 
 ## [0.6.2] - 2026-04-10
 ### Changed 
-- Keep up with "Patch Notes 0.15.7".
+- Update to "Patch Notes 0.15.7".
 - Remove searching delay.
 
 ### Fixed
@@ -39,11 +43,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.6.1] - 2026-03-17
 ### Changed 
-- Keep up with "Patch Notes 0.15.6".
+- Update to "Patch Notes 0.15.6".
 
 ## [0.6.0] - 2026-03-14
 ### Added
-- Keep up with "Patch Notes 0.15.5".
+- Update to "Patch Notes 0.15.5".
 - Add game version footer.
 
 ### Fixed
@@ -61,7 +65,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.5.2] - 2026-03-07
 ### Changed 
-- Keep up with "Patch Notes 0.15.3".
+- Update to "Patch Notes 0.15.3".
 
 ## [0.5.1] - 2026-03-04
 ### Fixed 
@@ -70,7 +74,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.5.0] - 2026-03-04
 ### Changed 
-- Keep up with "Patch Notes 0.15.1".
+- Update to "Patch Notes 0.15.1".
 
 ## [0.4.0] - 2026-02-28
 
