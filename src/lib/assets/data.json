@@ -8850,6 +8850,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
+        "ProjectileHolyFire": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "ProjectileMoveAsLight": {
             "value": 1.0,
             "isMultiplier": false
@@ -8862,19 +8866,15 @@
             "value": 0.5,
             "isMultiplier": false
         },
-        "ProjectileHolyFire": {
-            "value": 1.0,
-            "isMultiplier": false
-        },
         "RPM": {
             "value": -0.5,
             "isMultiplier": true
         },
         "displayFields": [
+            "ProjectileHolyFire",
             "ProjectileMoveAsLight",
             "ProjectilePenetration",
             "ProjectilePenetrationDamageMultiplier",
-            "ProjectileHolyFire",
             "RPM"
         ]
     },
@@ -8988,11 +8988,11 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileMoveAsLight": {
+        "ProjectileBeam": {
             "value": 1.0,
             "isMultiplier": false
         },
-        "ProjectileBeam": {
+        "ProjectileMoveAsLight": {
             "value": 1.0,
             "isMultiplier": false
         },
@@ -9053,8 +9053,8 @@
             "isMultiplier": false
         },
         "displayFields": [
-            "ProjectileMoveAsLight",
             "ProjectileBeam",
+            "ProjectileMoveAsLight",
             "FullAuto",
             "RPM",
             "Damage",
@@ -9258,6 +9258,14 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
+        "ProjectileIceBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
+        "ProjectileBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "ProjectileMoveAsLight": {
             "value": 1.0,
             "isMultiplier": false
@@ -9272,14 +9280,6 @@
         },
         "Damage": {
             "value": -0.9,
-            "isMultiplier": false
-        },
-        "ProjectileBeam": {
-            "value": 1.0,
-            "isMultiplier": false
-        },
-        "ProjectileIceBeam": {
-            "value": 1.0,
             "isMultiplier": false
         },
         "ProjectileApplyFrost": {
@@ -9311,12 +9311,12 @@
             "isMultiplier": false
         },
         "displayFields": [
+            "ProjectileIceBeam",
+            "ProjectileBeam",
             "ProjectileMoveAsLight",
             "FullAuto",
             "RPM",
             "Damage",
-            "ProjectileBeam",
-            "ProjectileIceBeam",
             "ProjectileApplyFrost",
             "KickMultiplier",
             "DisableMuzzleFlash",
@@ -9405,6 +9405,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
+        "ProjectileBeam": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "ProjectileMoveAsLight": {
             "value": 1.0,
             "isMultiplier": false
@@ -9419,10 +9423,6 @@
         },
         "Damage": {
             "value": -0.9,
-            "isMultiplier": false
-        },
-        "ProjectileBeam": {
-            "value": 1.0,
             "isMultiplier": false
         },
         "KickMultiplier": {
@@ -9450,11 +9450,11 @@
             "isMultiplier": false
         },
         "displayFields": [
+            "ProjectileBeam",
             "ProjectileMoveAsLight",
             "FullAuto",
             "RPM",
             "Damage",
-            "ProjectileBeam",
             "KickMultiplier",
             "DisableMuzzleFlash",
             "ProjectileTurnOffBulletHoles",
@@ -9616,6 +9616,10 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
+        "ProjectileToxicLobotomy": {
+            "value": 1.0,
+            "isMultiplier": false
+        },
         "EnchantmentIncreasedHeadshotDamage": {
             "value": 3.0,
             "isMultiplier": false
@@ -9632,16 +9636,12 @@
             "value": 1.0,
             "isMultiplier": false
         },
-        "ProjectileToxicLobotomy": {
-            "value": 1.0,
-            "isMultiplier": false
-        },
         "displayFields": [
+            "ProjectileToxicLobotomy",
             "EnchantmentIncreasedHeadshotDamage",
             "EnchantmentAlwaysSpawnOrgans",
             "DurabilityLoss",
-            "ProjectileMoveAsLight",
-            "ProjectileToxicLobotomy"
+            "ProjectileMoveAsLight"
         ]
     },
     {
@@ -9695,12 +9695,12 @@
         "includedInDemo": 0,
         "includedInEarlyAccess": 1,
         "CostsDurability": 1,
-        "ProjectileDark": {
-            "value": 50.0,
-            "isMultiplier": false
-        },
         "ProjectileChaosStrike": {
             "value": 3.0,
+            "isMultiplier": false
+        },
+        "ProjectileDark": {
+            "value": 50.0,
             "isMultiplier": false
         },
         "ProjectileApplyStun": {
@@ -9716,8 +9716,8 @@
             "isMultiplier": true
         },
         "displayFields": [
-            "ProjectileDark",
             "ProjectileChaosStrike",
+            "ProjectileDark",
             "ProjectileApplyStun",
             "EnchantmentSwapUnits",
             "ProjectileScale"
@@ -10112,7 +10112,7 @@
         "basePrice": 300,
         "itemQuality": 0,
         "Spread": {
-            "value": 0.1,
+            "value": 1.0,
             "isMultiplier": false
         },
         "MaxDurability": {

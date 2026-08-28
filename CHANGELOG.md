@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.10] - 2026-08-29
+### Changed 
+- Update to "Patch Notes 0.19.3".
+
 ## [0.6.9] - 2026-08-28
 ### Changed 
 - Update to "Dungeons & Magic".
