@@ -612,7 +612,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 90
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_BananaSulfs 2",
@@ -632,7 +632,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 90
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_BananaSulfs 3",
@@ -652,7 +652,7 @@
             }
         ],
         "newPrice": 100,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_BananaSulfs 4",
@@ -677,7 +677,7 @@
             }
         ],
         "newPrice": 100,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_BananaSulfs 5",
@@ -702,7 +702,7 @@
             }
         ],
         "newPrice": 140,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_BananaSulfs 6",
@@ -727,7 +727,7 @@
             }
         ],
         "newPrice": 140,
-        "oldPrice": 170
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_BananaSulfs 7",
@@ -752,7 +752,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 200
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_BananaSulfs 8",
@@ -777,7 +777,7 @@
             }
         ],
         "newPrice": 140,
-        "oldPrice": 130
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_BananaSulfs 9",
@@ -802,7 +802,7 @@
             }
         ],
         "newPrice": 140,
-        "oldPrice": 140
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_BananaSulfs 10",
@@ -827,7 +827,7 @@
             }
         ],
         "newPrice": 160,
-        "oldPrice": 160
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_BananaSulfs 11",
@@ -852,7 +852,7 @@
             }
         ],
         "newPrice": 160,
-        "oldPrice": 170
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_BananaSulfs 12",
@@ -952,7 +952,7 @@
             }
         ],
         "newPrice": 40,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_BarkBread 1",
@@ -3231,7 +3231,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 90
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_BloodPudding_3",
@@ -3256,7 +3256,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_BobaTea 1",
@@ -4346,7 +4346,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_CactusFestis_1",
@@ -4396,7 +4396,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 70
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_CactusWater_1",
@@ -4436,7 +4436,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 90
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_CaviarTubed_1",
@@ -6376,7 +6376,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 215
+        "oldPrice": 265
     },
     {
         "recipeName": "Recipe_ChocolateBall_1 2",
@@ -6406,7 +6406,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 115
+        "oldPrice": 165
     },
     {
         "recipeName": "Recipe_ChocolateBall_1",
@@ -6436,7 +6436,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 155
+        "oldPrice": 205
     },
     {
         "recipeName": "Recipe_ChocolateBall_2 1",
@@ -6466,7 +6466,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 180
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_ChocolateBall_2 2",
@@ -6496,7 +6496,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 140
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_ChocolateBall_2",
@@ -6521,7 +6521,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 120
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_ChocolateBall_3 1",
@@ -6561,7 +6561,7 @@
             }
         ],
         "newPrice": 595,
-        "oldPrice": 225
+        "oldPrice": 275
     },
     {
         "recipeName": "Recipe_ChocolateBall_3 2",
@@ -6596,7 +6596,7 @@
             }
         ],
         "newPrice": 595,
-        "oldPrice": 125
+        "oldPrice": 175
     },
     {
         "recipeName": "Recipe_ChocolateBall_3",
@@ -6631,7 +6631,7 @@
             }
         ],
         "newPrice": 595,
-        "oldPrice": 165
+        "oldPrice": 215
     },
     {
         "recipeName": "Recipe_ChocolateBall_4 1",
@@ -6666,7 +6666,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 190
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_ChocolateBall_4 2",
@@ -6696,7 +6696,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 90
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_ChocolateBall_4",
@@ -6726,7 +6726,7 @@
             }
         ],
         "newPrice": 510,
-        "oldPrice": 130
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_ChocolateBall_5 1",
@@ -6756,7 +6756,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 240
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_ChocolateBall_5 2",
@@ -6781,7 +6781,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 140
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_ChocolateBall_5",
@@ -6806,7 +6806,7 @@
             }
         ],
         "newPrice": 340,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_ChocolateSyrup_1",
@@ -6831,7 +6831,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 110
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_ChocolateSyrup_2",
@@ -6856,7 +6856,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 110
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_ChocolateSyrup_3",
@@ -7086,7 +7086,7 @@
             }
         ],
         "newPrice": 260,
-        "oldPrice": 90
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_CottonCandy 2",
@@ -7106,7 +7106,7 @@
             }
         ],
         "newPrice": 130,
-        "oldPrice": 34
+        "oldPrice": 64
     },
     {
         "recipeName": "Recipe_CottonCandy 3",
@@ -7126,7 +7126,7 @@
             }
         ],
         "newPrice": 260,
-        "oldPrice": 64
+        "oldPrice": 124
     },
     {
         "recipeName": "Recipe_CottonCandy",
@@ -7141,7 +7141,7 @@
             }
         ],
         "newPrice": 130,
-        "oldPrice": 60
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_CottonSwab_1",
@@ -7256,7 +7256,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_CurryWurst 1",
@@ -7321,7 +7321,7 @@
             }
         ],
         "newPrice": 225,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_CurryWurst 4",
@@ -7346,7 +7346,7 @@
             }
         ],
         "newPrice": 225,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Dammsugare 1",
@@ -7366,7 +7366,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Dammsugare 2",
@@ -7386,7 +7386,7 @@
             }
         ],
         "newPrice": 160,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Dammsugare 3",
@@ -7406,7 +7406,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_Dammsugare 4",
@@ -7426,7 +7426,7 @@
             }
         ],
         "newPrice": 280,
-        "oldPrice": 210
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Dammsugare 5",
@@ -7446,7 +7446,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 270
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_Dammsugare",
@@ -7466,7 +7466,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 90
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_Dimmies 1",
@@ -7726,7 +7726,7 @@
             }
         ],
         "newPrice": 720,
-        "oldPrice": 150
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_EggToddy_1 2",
@@ -7751,7 +7751,7 @@
             }
         ],
         "newPrice": 720,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_EggToddy_1 3",
@@ -7776,7 +7776,7 @@
             }
         ],
         "newPrice": 720,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_EggToddy_1 4",
@@ -7801,7 +7801,7 @@
             }
         ],
         "newPrice": 1080,
-        "oldPrice": 210
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_EggToddy_1 5",
@@ -7826,7 +7826,7 @@
             }
         ],
         "newPrice": 1080,
-        "oldPrice": 210
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_EggToddy_1 6",
@@ -7851,7 +7851,7 @@
             }
         ],
         "newPrice": 1080,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_EggToddy_1 7",
@@ -7876,7 +7876,7 @@
             }
         ],
         "newPrice": 1440,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_EggToddy_1",
@@ -7901,7 +7901,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_EnergyGum_1",
@@ -7961,7 +7961,7 @@
             }
         ],
         "newPrice": 300,
-        "oldPrice": 40
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Escargot_2",
@@ -8290,7 +8290,7 @@
                 "artwork": "4490442101876979279"
             }
         ],
-        "newPrice": 300,
+        "newPrice": 140,
         "oldPrice": 200
     },
     {
@@ -8310,7 +8310,7 @@
                 "artwork": "-4221016240350774641"
             }
         ],
-        "newPrice": 300,
+        "newPrice": 140,
         "oldPrice": 104
     },
     {
@@ -8330,7 +8330,7 @@
                 "artwork": "-4221016240350774641"
             }
         ],
-        "newPrice": 600,
+        "newPrice": 280,
         "oldPrice": 204
     },
     {
@@ -8345,7 +8345,7 @@
                 "artwork": "4490442101876979279"
             }
         ],
-        "newPrice": 600,
+        "newPrice": 280,
         "oldPrice": 300
     },
     {
@@ -8365,7 +8365,7 @@
                 "artwork": "8045260582126796071"
             }
         ],
-        "newPrice": 600,
+        "newPrice": 280,
         "oldPrice": 140
     },
     {
@@ -8385,7 +8385,7 @@
                 "artwork": "6493222298646563070"
             }
         ],
-        "newPrice": 600,
+        "newPrice": 280,
         "oldPrice": 300
     },
     {
@@ -8591,7 +8591,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_FrenchToast_1 2",
@@ -8616,7 +8616,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 240
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_FrenchToast_1 3",
@@ -8641,7 +8641,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_FrenchToast_1 4",
@@ -8666,7 +8666,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 210
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_FrenchToast_1 5",
@@ -8691,7 +8691,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 270
+        "oldPrice": 330
     },
     {
         "recipeName": "Recipe_FrenchToast_1 6",
@@ -8716,7 +8716,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 270
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_FrenchToast_1 7",
@@ -8741,7 +8741,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 300
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_FrenchToast_1",
@@ -8766,7 +8766,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_FrenchToast_2 1",
@@ -8786,7 +8786,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 150
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_FrenchToast_2 2",
@@ -8806,7 +8806,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 210
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_FrenchToast_2 3",
@@ -8826,7 +8826,7 @@
             }
         ],
         "newPrice": 750,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_FrenchToast_2",
@@ -8846,7 +8846,7 @@
             }
         ],
         "newPrice": 300,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_FullEnglishBreakfast_1 1",
@@ -10460,8 +10460,8 @@
                 "artwork": "-6148527902386984016"
             }
         ],
-        "newPrice": 800,
-        "oldPrice": 240
+        "newPrice": 600,
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Glogg 2",
@@ -10480,7 +10480,7 @@
                 "artwork": "-6148527902386984016"
             }
         ],
-        "newPrice": 200,
+        "newPrice": 150,
         "oldPrice": 210
     },
     {
@@ -10505,7 +10505,7 @@
                 "artwork": "5821576994495228222"
             }
         ],
-        "newPrice": 800,
+        "newPrice": 600,
         "oldPrice": 300
     },
     {
@@ -10525,7 +10525,7 @@
                 "artwork": "-6148527902386984016"
             }
         ],
-        "newPrice": 600,
+        "newPrice": 450,
         "oldPrice": 410
     },
     {
@@ -10545,7 +10545,7 @@
                 "artwork": "-6148527902386984016"
             }
         ],
-        "newPrice": 400,
+        "newPrice": 300,
         "oldPrice": 220
     },
     {
@@ -10565,8 +10565,8 @@
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 400,
-        "oldPrice": 230
+        "newPrice": 300,
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Glogg 7",
@@ -10585,8 +10585,8 @@
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 600,
-        "oldPrice": 430
+        "newPrice": 450,
+        "oldPrice": 460
     },
     {
         "recipeName": "Recipe_Glogg 8",
@@ -10605,8 +10605,8 @@
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 800,
-        "oldPrice": 260
+        "newPrice": 600,
+        "oldPrice": 320
     },
     {
         "recipeName": "Recipe_Glogg 9",
@@ -10625,8 +10625,8 @@
                 "artwork": "-760002536937637001"
             }
         ],
-        "newPrice": 1000,
-        "oldPrice": 460
+        "newPrice": 750,
+        "oldPrice": 520
     },
     {
         "recipeName": "Recipe_Gonster 1",
@@ -10711,7 +10711,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 90
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Gravadlax",
@@ -10736,7 +10736,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 90
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Gravy_1 1",
@@ -10936,7 +10936,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 40
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Gum_3",
@@ -10956,7 +10956,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Gum_4",
@@ -11581,7 +11581,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 80
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_HealthPotion_3",
@@ -11616,7 +11616,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 65
+        "oldPrice": 95
     },
     {
         "recipeName": "Recipe_HealthPotion_5",
@@ -15711,7 +15711,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 70
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_Jam_2",
@@ -15761,7 +15761,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Jam_5 1",
@@ -15781,7 +15781,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Jam_5 2",
@@ -15801,7 +15801,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Jam_5 3",
@@ -15821,7 +15821,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 190
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Jam_5 4",
@@ -15841,7 +15841,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 230
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Jam_5 5",
@@ -15861,7 +15861,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 270
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Jam_5 6",
@@ -15881,7 +15881,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 310
+        "oldPrice": 340
     },
     {
         "recipeName": "Recipe_Jam_5 7",
@@ -15901,7 +15901,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 380
+        "oldPrice": 440
     },
     {
         "recipeName": "Recipe_Jam_5 8",
@@ -15921,7 +15921,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 420
+        "oldPrice": 480
     },
     {
         "recipeName": "Recipe_Jam_5 9",
@@ -15941,7 +15941,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 460
+        "oldPrice": 520
     },
     {
         "recipeName": "Recipe_Jam_5 10",
@@ -15961,7 +15961,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 310
+        "oldPrice": 340
     },
     {
         "recipeName": "Recipe_Jam_5 11",
@@ -15981,7 +15981,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 350
+        "oldPrice": 380
     },
     {
         "recipeName": "Recipe_Jam_5 12",
@@ -16001,7 +16001,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 390
+        "oldPrice": 420
     },
     {
         "recipeName": "Recipe_Jam_5 13",
@@ -16021,7 +16021,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_Jam_5 14",
@@ -16041,7 +16041,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 220
+        "oldPrice": 280
     },
     {
         "recipeName": "Recipe_Jam_5 15",
@@ -16061,7 +16061,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 260
+        "oldPrice": 320
     },
     {
         "recipeName": "Recipe_Jam_5 16",
@@ -16081,7 +16081,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 300
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_Jam_5 17",
@@ -16101,7 +16101,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 340
+        "oldPrice": 400
     },
     {
         "recipeName": "Recipe_Jam_5 18",
@@ -16121,7 +16121,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 380
+        "oldPrice": 440
     },
     {
         "recipeName": "Recipe_Jam_5 19",
@@ -16141,7 +16141,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 420
+        "oldPrice": 480
     },
     {
         "recipeName": "Recipe_Jam_6",
@@ -16161,7 +16161,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 260
+        "oldPrice": 320
     },
     {
         "recipeName": "Recipe_Jam_7 1",
@@ -16181,7 +16181,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Jam_7 2",
@@ -16201,7 +16201,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 110
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Jam_7 3",
@@ -16221,7 +16221,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 160
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Jam_7",
@@ -16241,7 +16241,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Jansson 1",
@@ -16541,7 +16541,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Jello 2",
@@ -16561,7 +16561,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 110
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_Jello 3",
@@ -16581,7 +16581,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Jello 4",
@@ -16601,7 +16601,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 160
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Jello 5",
@@ -16621,7 +16621,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 210
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Jello 6",
@@ -16641,7 +16641,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 190
+        "oldPrice": 280
     },
     {
         "recipeName": "Recipe_Jello 7",
@@ -16661,7 +16661,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 240
+        "oldPrice": 330
     },
     {
         "recipeName": "Recipe_KidneyPie_1 1",
@@ -16916,7 +16916,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Leverpastejsmacka 1",
@@ -17701,7 +17701,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 64
+        "oldPrice": 94
     },
     {
         "recipeName": "Recipe_Marshmellow 5",
@@ -17726,7 +17726,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 94
+        "oldPrice": 154
     },
     {
         "recipeName": "Recipe_Marshmellow 6",
@@ -17751,7 +17751,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 68
+        "oldPrice": 98
     },
     {
         "recipeName": "Recipe_Marshmellow 7",
@@ -17776,7 +17776,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 94
+        "oldPrice": 124
     },
     {
         "recipeName": "Recipe_Marshmellow 8",
@@ -17801,7 +17801,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 98
+        "oldPrice": 158
     },
     {
         "recipeName": "Recipe_Marshmellow 9",
@@ -17826,7 +17826,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 98
+        "oldPrice": 128
     },
     {
         "recipeName": "Recipe_Marshmellow 10",
@@ -17851,7 +17851,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 128
+        "oldPrice": 188
     },
     {
         "recipeName": "Recipe_Marshmellow 11",
@@ -17876,7 +17876,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 158
+        "oldPrice": 218
     },
     {
         "recipeName": "Recipe_Marshmellow 12",
@@ -17901,7 +17901,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 158
+        "oldPrice": 248
     },
     {
         "recipeName": "Recipe_Marshmellow 13",
@@ -17926,7 +17926,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 74
+        "oldPrice": 104
     },
     {
         "recipeName": "Recipe_Marshmellow 14",
@@ -17951,7 +17951,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 104
+        "oldPrice": 164
     },
     {
         "recipeName": "Recipe_Marshmellow 15",
@@ -17976,7 +17976,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 78
+        "oldPrice": 108
     },
     {
         "recipeName": "Recipe_Marshmellow 16",
@@ -18001,7 +18001,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 114
+        "oldPrice": 144
     },
     {
         "recipeName": "Recipe_Marshmellow 17",
@@ -18026,7 +18026,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 108
+        "oldPrice": 168
     },
     {
         "recipeName": "Recipe_Marshmellow 18",
@@ -18051,7 +18051,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 118
+        "oldPrice": 148
     },
     {
         "recipeName": "Recipe_Marshmellow 19",
@@ -18076,7 +18076,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 148
+        "oldPrice": 208
     },
     {
         "recipeName": "Recipe_Marshmellow 20",
@@ -18101,7 +18101,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 188
+        "oldPrice": 248
     },
     {
         "recipeName": "Recipe_Marshmellow 21",
@@ -18126,7 +18126,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 178
+        "oldPrice": 268
     },
     {
         "recipeName": "Recipe_Marshmellow 22",
@@ -18156,7 +18156,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 104
+        "oldPrice": 134
     },
     {
         "recipeName": "Recipe_Marshmellow 23",
@@ -18186,7 +18186,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 134
+        "oldPrice": 194
     },
     {
         "recipeName": "Recipe_Marshmellow 24",
@@ -18216,7 +18216,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 108
+        "oldPrice": 138
     },
     {
         "recipeName": "Recipe_Marshmellow 25",
@@ -18246,7 +18246,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 144
+        "oldPrice": 174
     },
     {
         "recipeName": "Recipe_Marshmellow 26",
@@ -18276,7 +18276,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 138
+        "oldPrice": 198
     },
     {
         "recipeName": "Recipe_Marshmellow 27",
@@ -18306,7 +18306,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 148
+        "oldPrice": 178
     },
     {
         "recipeName": "Recipe_Marshmellow 28",
@@ -18336,7 +18336,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 178
+        "oldPrice": 238
     },
     {
         "recipeName": "Recipe_Marshmellow 29",
@@ -18366,7 +18366,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 218
+        "oldPrice": 278
     },
     {
         "recipeName": "Recipe_Marshmellow 30",
@@ -18396,7 +18396,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 208
+        "oldPrice": 298
     },
     {
         "recipeName": "Recipe_Marshmellow 31",
@@ -18426,7 +18426,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 134
+        "oldPrice": 164
     },
     {
         "recipeName": "Recipe_Marshmellow 32",
@@ -18456,7 +18456,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 164
+        "oldPrice": 224
     },
     {
         "recipeName": "Recipe_Marshmellow 33",
@@ -18486,7 +18486,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 138
+        "oldPrice": 168
     },
     {
         "recipeName": "Recipe_Marshmellow 34",
@@ -18516,7 +18516,7 @@
             }
         ],
         "newPrice": 600,
-        "oldPrice": 174
+        "oldPrice": 204
     },
     {
         "recipeName": "Recipe_Marshmellow 35",
@@ -18546,7 +18546,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 168
+        "oldPrice": 228
     },
     {
         "recipeName": "Recipe_Marshmellow 36",
@@ -18576,7 +18576,7 @@
             }
         ],
         "newPrice": 800,
-        "oldPrice": 178
+        "oldPrice": 208
     },
     {
         "recipeName": "Recipe_Marshmellow 37",
@@ -18606,7 +18606,7 @@
             }
         ],
         "newPrice": 1000,
-        "oldPrice": 208
+        "oldPrice": 268
     },
     {
         "recipeName": "Recipe_Marshmellow 38",
@@ -18636,7 +18636,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 248
+        "oldPrice": 308
     },
     {
         "recipeName": "Recipe_Marshmellow 39",
@@ -18666,7 +18666,7 @@
             }
         ],
         "newPrice": 1200,
-        "oldPrice": 238
+        "oldPrice": 328
     },
     {
         "recipeName": "Recipe_MashedPotatoes",
@@ -19381,7 +19381,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Meringue_2 1",
@@ -19401,7 +19401,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 90
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Meringue_2",
@@ -19421,7 +19421,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Meringue_3 1",
@@ -19441,7 +19441,7 @@
             }
         ],
         "newPrice": 480,
-        "oldPrice": 180
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Meringue_3",
@@ -19461,7 +19461,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 150
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_Milkshake_1 1",
@@ -19866,7 +19866,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Milkshake_4 9",
@@ -19891,7 +19891,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Milkshake_4 10",
@@ -19916,7 +19916,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 200
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_4 11",
@@ -19941,7 +19941,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Milkshake_4",
@@ -20126,7 +20126,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Milkshake_5 9",
@@ -20151,7 +20151,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Milkshake_5 10",
@@ -20176,7 +20176,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 200
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_5 11",
@@ -20201,7 +20201,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Milkshake_5",
@@ -20386,7 +20386,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Milkshake_6 9",
@@ -20411,7 +20411,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Milkshake_6 10",
@@ -20436,7 +20436,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 200
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_6 11",
@@ -20461,7 +20461,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Milkshake_6",
@@ -20506,7 +20506,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 150
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Milkshake_7 2",
@@ -20531,7 +20531,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 150
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Milkshake_7 3",
@@ -20556,7 +20556,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 190
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_7",
@@ -20581,7 +20581,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 110
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Milkshake_8 1",
@@ -20606,7 +20606,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 150
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Milkshake_8 2",
@@ -20631,7 +20631,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 150
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Milkshake_8 3",
@@ -20656,7 +20656,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 190
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_8",
@@ -20681,7 +20681,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 110
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Milkshake_9 1",
@@ -20706,7 +20706,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 150
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Milkshake_9 2",
@@ -20731,7 +20731,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 150
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Milkshake_9 3",
@@ -20756,7 +20756,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 190
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_Milkshake_9",
@@ -20781,7 +20781,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 110
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Mochi_1 1",
@@ -20895,8 +20895,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 840,
-        "oldPrice": 200
+        "newPrice": 600,
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_Mudcake_1 2",
@@ -20930,8 +20930,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 840,
-        "oldPrice": 200
+        "newPrice": 600,
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_Mudcake_1 3",
@@ -20965,8 +20965,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 840,
-        "oldPrice": 200
+        "newPrice": 600,
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_Mudcake_1",
@@ -21000,8 +21000,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 1400,
-        "oldPrice": 220
+        "newPrice": 1000,
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Mudcake_2",
@@ -21035,8 +21035,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 1400,
-        "oldPrice": 360
+        "newPrice": 1000,
+        "oldPrice": 390
     },
     {
         "recipeName": "Recipe_Mudcake_3",
@@ -21065,7 +21065,7 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 1400,
+        "newPrice": 1000,
         "oldPrice": 330
     },
     {
@@ -21100,8 +21100,8 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 1400,
-        "oldPrice": 280
+        "newPrice": 1000,
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_Mudcake_5",
@@ -21130,7 +21130,7 @@
                 "artwork": "5135861254121124724"
             }
         ],
-        "newPrice": 1400,
+        "newPrice": 1000,
         "oldPrice": 250
     },
     {
@@ -29866,7 +29866,7 @@
             }
         ],
         "newPrice": 50,
-        "oldPrice": 50
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_Omelette_1 5",
@@ -29946,7 +29946,7 @@
             }
         ],
         "newPrice": 150,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_Omelette_1 9",
@@ -30026,7 +30026,7 @@
             }
         ],
         "newPrice": 200,
-        "oldPrice": 100
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Omelette_1 13",
@@ -30106,7 +30106,7 @@
             }
         ],
         "newPrice": 100,
-        "oldPrice": 70
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Omelette_1",
@@ -31735,8 +31735,8 @@
                 "artwork": "4490442101876979279"
             }
         ],
-        "newPrice": 400,
-        "oldPrice": 280
+        "newPrice": 450,
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_PizzaLarge",
@@ -31765,8 +31765,8 @@
                 "artwork": "4490442101876979279"
             }
         ],
-        "newPrice": 400,
-        "oldPrice": 270
+        "newPrice": 450,
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_PizzaSlicedUp",
@@ -31780,8 +31780,8 @@
                 "artwork": "5150472566051166494"
             }
         ],
-        "newPrice": 900,
-        "oldPrice": 400
+        "newPrice": 600,
+        "oldPrice": 450
     },
     {
         "recipeName": "Recipe_PoisonGum_1",
@@ -32971,7 +32971,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_PotatoSalad 2",
@@ -32996,7 +32996,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_PotatoSalad 3",
@@ -33021,7 +33021,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_PotatoSalad 4",
@@ -33046,7 +33046,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_PotatoSalad",
@@ -33071,7 +33071,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Poutine 1",
@@ -33576,7 +33576,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 50
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_PowerBar_3",
@@ -33596,7 +33596,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 40
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_PowerBar_4",
@@ -34571,7 +34571,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_RhubarbPie_2",
@@ -34596,7 +34596,7 @@
             }
         ],
         "newPrice": 240,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_RhubarbPie_3",
@@ -34626,7 +34626,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_RhubarbPie_4",
@@ -34661,7 +34661,7 @@
             }
         ],
         "newPrice": 400,
-        "oldPrice": 220
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_RhubarbPie_5",
@@ -34691,7 +34691,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_RhubarbPie_6",
@@ -34721,7 +34721,7 @@
             }
         ],
         "newPrice": 320,
-        "oldPrice": 170
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_RhubarbPorridge_1 1",
@@ -34746,7 +34746,7 @@
             }
         ],
         "newPrice": 100,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_RhubarbPorridge_1",
@@ -34806,7 +34806,7 @@
             }
         ],
         "newPrice": 80,
-        "oldPrice": 50
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_RhubarbSauce_2",
@@ -34851,7 +34851,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_RiceCakes_1",
@@ -35031,7 +35031,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 2",
@@ -35056,7 +35056,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 3",
@@ -35081,7 +35081,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 4",
@@ -35111,7 +35111,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 5",
@@ -35141,7 +35141,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Risgrynsgrot 6",
@@ -35171,7 +35171,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Risgrynsgrot",
@@ -35196,7 +35196,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_SaltedFish 1",
@@ -36011,7 +36011,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_Sill 1",
@@ -36031,7 +36031,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_Sill 2",
@@ -36051,7 +36051,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 80
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Sill 3",
@@ -36071,7 +36071,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Sill 4",
@@ -36096,7 +36096,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_Sill 5",
@@ -36121,7 +36121,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_Sill 6",
@@ -36146,7 +36146,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Sill 7",
@@ -36171,7 +36171,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 190
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Sill 8",
@@ -36196,7 +36196,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Sill 9",
@@ -36221,7 +36221,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 170
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_Sill 10",
@@ -36246,7 +36246,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_Sill 11",
@@ -36271,7 +36271,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 240
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Sill 12",
@@ -36296,7 +36296,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Sill 13",
@@ -36321,7 +36321,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 170
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_Sill 14",
@@ -36346,7 +36346,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 190
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_Sill 15",
@@ -36371,7 +36371,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Sill 16",
@@ -36396,7 +36396,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 210
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_Sill 17",
@@ -36421,7 +36421,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_Sill 18",
@@ -36446,7 +36446,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 280
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_Sill 19",
@@ -36471,7 +36471,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 220
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_Sill 20",
@@ -36496,7 +36496,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 300
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_Sill 21",
@@ -36521,7 +36521,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_Sill 22",
@@ -37071,7 +37071,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_SillSandfish 1",
@@ -37091,7 +37091,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 100
+        "oldPrice": 130
     },
     {
         "recipeName": "Recipe_SillSandfish 2",
@@ -37111,7 +37111,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 80
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_SillSandfish 3",
@@ -37131,7 +37131,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_SillSandfish 4",
@@ -37156,7 +37156,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_SillSandfish 5",
@@ -37181,7 +37181,7 @@
             }
         ],
         "newPrice": 270,
-        "oldPrice": 150
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_SillSandfish 6",
@@ -37206,7 +37206,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_SillSandfish 7",
@@ -37231,7 +37231,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 190
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_SillSandfish 8",
@@ -37256,7 +37256,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_SillSandfish 9",
@@ -37281,7 +37281,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 170
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_SillSandfish 10",
@@ -37306,7 +37306,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 180
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_SillSandfish 11",
@@ -37331,7 +37331,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 240
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_SillSandfish 12",
@@ -37356,7 +37356,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_SillSandfish 13",
@@ -37381,7 +37381,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 170
+        "oldPrice": 230
     },
     {
         "recipeName": "Recipe_SillSandfish 14",
@@ -37406,7 +37406,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 190
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_SillSandfish 15",
@@ -37431,7 +37431,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_SillSandfish 16",
@@ -37456,7 +37456,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 210
+        "oldPrice": 270
     },
     {
         "recipeName": "Recipe_SillSandfish 17",
@@ -37481,7 +37481,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 180
+        "oldPrice": 240
     },
     {
         "recipeName": "Recipe_SillSandfish 18",
@@ -37506,7 +37506,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 280
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_SillSandfish 19",
@@ -37531,7 +37531,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 220
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_SillSandfish 20",
@@ -37556,7 +37556,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 300
+        "oldPrice": 360
     },
     {
         "recipeName": "Recipe_SillSandfish 21",
@@ -37581,7 +37581,7 @@
             }
         ],
         "newPrice": 540,
-        "oldPrice": 240
+        "oldPrice": 300
     },
     {
         "recipeName": "Recipe_SillSandfish 22",
@@ -38131,7 +38131,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 24
+        "oldPrice": 54
     },
     {
         "recipeName": "Recipe_Snus_2",
@@ -38151,7 +38151,7 @@
             }
         ],
         "newPrice": 180,
-        "oldPrice": 40
+        "oldPrice": 70
     },
     {
         "recipeName": "Recipe_Soda_1 1",
@@ -38191,7 +38191,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 110
+        "oldPrice": 140
     },
     {
         "recipeName": "Recipe_Soda_1 3",
@@ -38251,7 +38251,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 100
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_Soda_1 6",
@@ -38291,7 +38291,7 @@
             }
         ],
         "newPrice": 120,
-        "oldPrice": 140
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_Soda_1",
@@ -38311,7 +38311,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 70
+        "oldPrice": 100
     },
     {
         "recipeName": "Recipe_SodaJulmust 1",
@@ -38336,7 +38336,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_SodaJulmust 2",
@@ -38361,7 +38361,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 80
+        "oldPrice": 110
     },
     {
         "recipeName": "Recipe_SodaJulmust 3",
@@ -38386,7 +38386,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 280
+        "oldPrice": 310
     },
     {
         "recipeName": "Recipe_SodaJulmust 4",
@@ -38411,7 +38411,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_SodaJulmust 5",
@@ -38436,7 +38436,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 120
+        "oldPrice": 150
     },
     {
         "recipeName": "Recipe_SodaJulmust 6",
@@ -38461,7 +38461,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 190
+        "oldPrice": 250
     },
     {
         "recipeName": "Recipe_SodaJulmust 7",
@@ -38486,7 +38486,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 110
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_SodaJulmust 8",
@@ -38511,7 +38511,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 110
+        "oldPrice": 170
     },
     {
         "recipeName": "Recipe_SodaJulmust 9",
@@ -38536,7 +38536,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 170
+        "oldPrice": 200
     },
     {
         "recipeName": "Recipe_SodaJulmust 10",
@@ -38561,7 +38561,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 90
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_SodaJulmust 11",
@@ -38586,7 +38586,7 @@
             }
         ],
         "newPrice": 360,
-        "oldPrice": 90
+        "oldPrice": 120
     },
     {
         "recipeName": "Recipe_SodaJulmust 12",
@@ -38611,7 +38611,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 290
+        "oldPrice": 320
     },
     {
         "recipeName": "Recipe_SodaJulmust 13",
@@ -38636,7 +38636,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_SodaJulmust 14",
@@ -38661,7 +38661,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 130
+        "oldPrice": 160
     },
     {
         "recipeName": "Recipe_SodaJulmust 15",
@@ -38686,7 +38686,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 200
+        "oldPrice": 260
     },
     {
         "recipeName": "Recipe_SodaJulmust 16",
@@ -38711,7 +38711,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_SodaJulmust 17",
@@ -38736,7 +38736,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 120
+        "oldPrice": 180
     },
     {
         "recipeName": "Recipe_SodaJulmust 18",
@@ -38761,7 +38761,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 310
+        "oldPrice": 370
     },
     {
         "recipeName": "Recipe_SodaJulmust 19",
@@ -38786,7 +38786,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 150
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_SodaJulmust 20",
@@ -38811,7 +38811,7 @@
             }
         ],
         "newPrice": 450,
-        "oldPrice": 150
+        "oldPrice": 210
     },
     {
         "recipeName": "Recipe_SodaJulmust 21",
@@ -38836,7 +38836,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 320
+        "oldPrice": 380
     },
     {
         "recipeName": "Recipe_SodaJulmust 22",
@@ -38861,7 +38861,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 160
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_SodaJulmust 23",
@@ -38886,7 +38886,7 @@
             }
         ],
         "newPrice": 630,
-        "oldPrice": 160
+        "oldPrice": 220
     },
     {
         "recipeName": "Recipe_SodaJulmust 24",
@@ -38991,7 +38991,7 @@
             }
         ],
         "newPrice": 90,
-        "oldPrice": 160
+        "oldPrice": 190
     },
     {
         "recipeName": "Recipe_Spaghetti_1",
@@ -39076,7 +39076,7 @@
             }
         ],
         "newPrice": 60,
-        "oldPrice": 60
+        "oldPrice": 90
     },
     {
         "recipeName": "Recipe_SpiceMix 4",
@@ -39096,7 +39096,7 @@
             }
         ],
         "newPrice": 30,
-        "oldPrice": 50
+        "oldPrice": 80
     },
     {
         "recipeName": "Recipe_SpiceMix",
@@ -42656,7 +42656,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 370
+        "oldPrice": 400
     },
     {
         "recipeName": "Recipe_SulfCola_2",
@@ -42681,7 +42681,7 @@
             }
         ],
         "newPrice": 900,
-        "oldPrice": 450
+        "oldPrice": 480
     },
     {
         "recipeName": "Recipe_SulfCola_3",
@@ -42706,7 +42706,7 @@
             }
         ],
         "newPrice": 1500,
-        "oldPrice": 830
+        "oldPrice": 860
     },
     {
         "recipeName": "Recipe_Enchantment_SacredGround",
@@ -43141,6 +43141,66 @@
             }
         ],
         "newPrice": 1000,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_Blizzard",
+        "name": "Enchantment_Blizzard",
+        "quantity": 1,
+        "artwork": "1706994078266153859",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Dark",
+                "quantity": 1,
+                "artwork": "7954706189709371483"
+            },
+            {
+                "name": "Enchantment_Water",
+                "quantity": 1,
+                "artwork": "161770587048742844"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_WaterBomb",
+        "name": "Enchantment_WaterBomb",
+        "quantity": 1,
+        "artwork": "-5921058001094300940",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Water",
+                "quantity": 1,
+                "artwork": "161770587048742844"
+            },
+            {
+                "name": "Enchantment_Nature",
+                "quantity": 1,
+                "artwork": "2645463031653542284"
+            }
+        ],
+        "newPrice": 3500,
+        "oldPrice": 2000
+    },
+    {
+        "recipeName": "Recipe_Enchantment_SnowmanHead",
+        "name": "Enchantment_SnowmanHead",
+        "quantity": 1,
+        "artwork": "-2770756459563264320",
+        "itemsNeeded": [
+            {
+                "name": "Enchantment_Frost",
+                "quantity": 1,
+                "artwork": "6030167245860726887"
+            },
+            {
+                "name": "Enchantment_Nature",
+                "quantity": 1,
+                "artwork": "2645463031653542284"
+            }
+        ],
+        "newPrice": 3500,
         "oldPrice": 2000
     }
 ]
